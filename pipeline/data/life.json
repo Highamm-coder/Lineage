@@ -1,0 +1,7112 @@
+{
+ "Q101090": {
+  "b": null,
+  "bc": false,
+  "d": 189,
+  "dc": false
+ },
+ "Q101266": {
+  "b": 1574,
+  "bc": false,
+  "d": 1655,
+  "dc": false
+ },
+ "Q101280": {
+  "b": 200,
+  "bc": true,
+  "d": 175,
+  "dc": false
+ },
+ "Q101286": {
+  "b": 1611,
+  "bc": false,
+  "d": 1689,
+  "dc": false
+ },
+ "Q101294": {
+  "b": 1610,
+  "bc": false,
+  "d": 1691,
+  "dc": false
+ },
+ "Q101306": {
+  "b": null,
+  "bc": false,
+  "d": 217,
+  "dc": false
+ },
+ "Q101430": {
+  "b": 1476,
+  "bc": false,
+  "d": 1559,
+  "dc": false
+ },
+ "Q101437": {
+  "b": 1405,
+  "bc": false,
+  "d": 1464,
+  "dc": false
+ },
+ "Q101776": {
+  "b": 1501,
+  "bc": false,
+  "d": 1555,
+  "dc": false
+ },
+ "Q101866": {
+  "b": 1100,
+  "bc": true,
+  "d": 1187,
+  "dc": false
+ },
+ "Q102105": {
+  "b": 310,
+  "bc": false,
+  "d": 366,
+  "dc": false
+ },
+ "Q102131": {
+  "b": 255,
+  "bc": false,
+  "d": 309,
+  "dc": false
+ },
+ "Q102605": {
+  "b": 1417,
+  "bc": false,
+  "d": 1471,
+  "dc": false
+ },
+ "Q103101": {
+  "b": null,
+  "bc": false,
+  "d": 352,
+  "dc": false
+ },
+ "Q103260": {
+  "b": null,
+  "bc": false,
+  "d": 574,
+  "dc": false
+ },
+ "Q103268": {
+  "b": 700,
+  "bc": true,
+  "d": 741,
+  "dc": false
+ },
+ "Q103277": {
+  "b": 650,
+  "bc": false,
+  "d": 708,
+  "dc": false
+ },
+ "Q103292": {
+  "b": 700,
+  "bc": false,
+  "d": 795,
+  "dc": false
+ },
+ "Q103300": {
+  "b": null,
+  "bc": false,
+  "d": 532,
+  "dc": false
+ },
+ "Q103308": {
+  "b": 775,
+  "bc": false,
+  "d": 824,
+  "dc": false
+ },
+ "Q103314": {
+  "b": 700,
+  "bc": true,
+  "d": 715,
+  "dc": false
+ },
+ "Q103321": {
+  "b": 669,
+  "bc": false,
+  "d": 731,
+  "dc": false
+ },
+ "Q103328": {
+  "b": 611,
+  "bc": false,
+  "d": 683,
+  "dc": false
+ },
+ "Q103389": {
+  "b": 900,
+  "bc": true,
+  "d": 955,
+  "dc": false
+ },
+ "Q103396": {
+  "b": null,
+  "bc": false,
+  "d": 676,
+  "dc": false
+ },
+ "Q103404": {
+  "b": 700,
+  "bc": false,
+  "d": 767,
+  "dc": false
+ },
+ "Q103423": {
+  "b": 900,
+  "bc": true,
+  "d": 946,
+  "dc": false
+ },
+ "Q103431": {
+  "b": 801,
+  "bc": true,
+  "d": 913,
+  "dc": false
+ },
+ "Q103437": {
+  "b": 1106,
+  "bc": false,
+  "d": 1198,
+  "dc": false
+ },
+ "Q103545": {
+  "b": null,
+  "bc": false,
+  "d": 678,
+  "dc": false
+ },
+ "Q103625": {
+  "b": 1227,
+  "bc": false,
+  "d": 1292,
+  "dc": false
+ },
+ "Q103795": {
+  "b": 880,
+  "bc": false,
+  "d": 928,
+  "dc": false
+ },
+ "Q104205": {
+  "b": 780,
+  "bc": false,
+  "d": 827,
+  "dc": false
+ },
+ "Q104244": {
+  "b": null,
+  "bc": false,
+  "d": 649,
+  "dc": false
+ },
+ "Q104467": {
+  "b": 574,
+  "bc": false,
+  "d": 681,
+  "dc": false
+ },
+ "Q104798": {
+  "b": 900,
+  "bc": true,
+  "d": 914,
+  "dc": false
+ },
+ "Q108316": {
+  "b": 1431,
+  "bc": false,
+  "d": 1503,
+  "dc": false
+ },
+ "Q1100725": {
+  "b": 917,
+  "bc": false,
+  "d": 956,
+  "dc": false
+ },
+ "Q1145542": {
+  "b": 1794,
+  "bc": false,
+  "d": 1868,
+  "dc": false
+ },
+ "Q1152976": {
+  "b": 850,
+  "bc": true,
+  "d": 927,
+  "dc": false
+ },
+ "Q1153005": {
+  "b": null,
+  "bc": false,
+  "d": 933,
+  "dc": false
+ },
+ "Q116639": {
+  "b": 750,
+  "bc": false,
+  "d": 828,
+  "dc": false
+ },
+ "Q1174361": {
+  "b": null,
+  "bc": false,
+  "d": 1270,
+  "dc": false
+ },
+ "Q117840": {
+  "b": 990,
+  "bc": true,
+  "d": 1061,
+  "dc": false
+ },
+ "Q118081": {
+  "b": 1215,
+  "bc": false,
+  "d": 1296,
+  "dc": false
+ },
+ "Q122376": {
+  "b": null,
+  "bc": false,
+  "d": 222,
+  "dc": false
+ },
+ "Q1226130": {
+  "b": 801,
+  "bc": true,
+  "d": 926,
+  "dc": false
+ },
+ "Q1226165": {
+  "b": null,
+  "bc": false,
+  "d": 973,
+  "dc": false
+ },
+ "Q1226190": {
+  "b": 950,
+  "bc": true,
+  "d": 1020,
+  "dc": false
+ },
+ "Q1226222": {
+  "b": 850,
+  "bc": true,
+  "d": 941,
+  "dc": false
+ },
+ "Q1230614": {
+  "b": 1693,
+  "bc": false,
+  "d": 1758,
+  "dc": false
+ },
+ "Q1235967": {
+  "b": 1174,
+  "bc": false,
+  "d": 1240,
+  "dc": false
+ },
+ "Q124754": {
+  "b": 1742,
+  "bc": false,
+  "d": 1823,
+  "dc": false
+ },
+ "Q124831": {
+  "b": 1170,
+  "bc": false,
+  "d": 1241,
+  "dc": false
+ },
+ "Q1255067": {
+  "b": 730,
+  "bc": false,
+  "d": 806,
+  "dc": false
+ },
+ "Q125631": {
+  "b": null,
+  "bc": false,
+  "d": 230,
+  "dc": false
+ },
+ "Q1256661": {
+  "b": 788,
+  "bc": false,
+  "d": 847,
+  "dc": false
+ },
+ "Q1260961": {
+  "b": 850,
+  "bc": true,
+  "d": 914,
+  "dc": false
+ },
+ "Q1262465": {
+  "b": 954,
+  "bc": false,
+  "d": 1012,
+  "dc": false
+ },
+ "Q1263119": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1266046": {
+  "b": 512,
+  "bc": false,
+  "d": 582,
+  "dc": false
+ },
+ "Q1266328": {
+  "b": 503,
+  "bc": false,
+  "d": 577,
+  "dc": false
+ },
+ "Q1266354": {
+  "b": null,
+  "bc": false,
+  "d": 350,
+  "dc": false
+ },
+ "Q126711": {
+  "b": 1675,
+  "bc": false,
+  "d": 1758,
+  "dc": false
+ },
+ "Q1268292": {
+  "b": 400,
+  "bc": true,
+  "d": 405,
+  "dc": false
+ },
+ "Q1269166": {
+  "b": 867,
+  "bc": false,
+  "d": 893,
+  "dc": false
+ },
+ "Q1269184": {
+  "b": null,
+  "bc": false,
+  "d": 552,
+  "dc": false
+ },
+ "Q1271235": {
+  "b": null,
+  "bc": false,
+  "d": 821,
+  "dc": false
+ },
+ "Q1271311": {
+  "b": 750,
+  "bc": true,
+  "d": 837,
+  "dc": false
+ },
+ "Q127254": {
+  "b": 1599,
+  "bc": false,
+  "d": 1667,
+  "dc": false
+ },
+ "Q1272787": {
+  "b": null,
+  "bc": false,
+  "d": 517,
+  "dc": false
+ },
+ "Q1272796": {
+  "b": null,
+  "bc": false,
+  "d": 669,
+  "dc": false
+ },
+ "Q1272825": {
+  "b": null,
+  "bc": false,
+  "d": 666,
+  "dc": false
+ },
+ "Q1272843": {
+  "b": null,
+  "bc": false,
+  "d": 606,
+  "dc": false
+ },
+ "Q1273142": {
+  "b": null,
+  "bc": false,
+  "d": 998,
+  "dc": false
+ },
+ "Q1273151": {
+  "b": null,
+  "bc": false,
+  "d": 981,
+  "dc": false
+ },
+ "Q1273458": {
+  "b": null,
+  "bc": false,
+  "d": 653,
+  "dc": false
+ },
+ "Q1273634": {
+  "b": 500,
+  "bc": true,
+  "d": 517,
+  "dc": false
+ },
+ "Q127385": {
+  "b": 215,
+  "bc": false,
+  "d": 258,
+  "dc": false
+ },
+ "Q1277364": {
+  "b": 600,
+  "bc": true,
+  "d": 560,
+  "dc": false
+ },
+ "Q127989": {
+  "b": null,
+  "bc": false,
+  "d": 199,
+  "dc": false
+ },
+ "Q128019": {
+  "b": 1717,
+  "bc": false,
+  "d": 1799,
+  "dc": false
+ },
+ "Q128076": {
+  "b": 1160,
+  "bc": true,
+  "d": 1216,
+  "dc": false
+ },
+ "Q1281221": {
+  "b": 829,
+  "bc": false,
+  "d": 901,
+  "dc": false
+ },
+ "Q1281230": {
+  "b": null,
+  "bc": false,
+  "d": 715,
+  "dc": false
+ },
+ "Q1281361": {
+  "b": 400,
+  "bc": true,
+  "d": 427,
+  "dc": false
+ },
+ "Q1281867": {
+  "b": null,
+  "bc": false,
+  "d": 780,
+  "dc": false
+ },
+ "Q1283690": {
+  "b": null,
+  "bc": false,
+  "d": 490,
+  "dc": false
+ },
+ "Q1286697": {
+  "b": null,
+  "bc": false,
+  "d": 654,
+  "dc": false
+ },
+ "Q1286727": {
+  "b": null,
+  "bc": false,
+  "d": 694,
+  "dc": false
+ },
+ "Q1286767": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1286770": {
+  "b": null,
+  "bc": false,
+  "d": 1019,
+  "dc": false
+ },
+ "Q1286805": {
+  "b": null,
+  "bc": false,
+  "d": 610,
+  "dc": false
+ },
+ "Q1286824": {
+  "b": null,
+  "bc": false,
+  "d": 677,
+  "dc": false
+ },
+ "Q1286832": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1290567": {
+  "b": 350,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q1290853": {
+  "b": 670,
+  "bc": false,
+  "d": 734,
+  "dc": false
+ },
+ "Q1290907": {
+  "b": null,
+  "bc": false,
+  "d": 675,
+  "dc": false
+ },
+ "Q1290940": {
+  "b": null,
+  "bc": false,
+  "d": 687,
+  "dc": false
+ },
+ "Q1291400": {
+  "b": null,
+  "bc": false,
+  "d": 767,
+  "dc": false
+ },
+ "Q1292135": {
+  "b": 750,
+  "bc": true,
+  "d": 764,
+  "dc": false
+ },
+ "Q1293298": {
+  "b": null,
+  "bc": false,
+  "d": 386,
+  "dc": false
+ },
+ "Q1293334": {
+  "b": 350,
+  "bc": true,
+  "d": 380,
+  "dc": false
+ },
+ "Q1293354": {
+  "b": null,
+  "bc": false,
+  "d": 434,
+  "dc": false
+ },
+ "Q1296038": {
+  "b": null,
+  "bc": false,
+  "d": 515,
+  "dc": false
+ },
+ "Q129967": {
+  "b": 1649,
+  "bc": false,
+  "d": 1721,
+  "dc": false
+ },
+ "Q130997": {
+  "b": 305,
+  "bc": false,
+  "d": 384,
+  "dc": false
+ },
+ "Q131159": {
+  "b": 200,
+  "bc": true,
+  "d": 250,
+  "dc": false
+ },
+ "Q131162": {
+  "b": 200,
+  "bc": false,
+  "d": 268,
+  "dc": false
+ },
+ "Q131463": {
+  "b": 1264,
+  "bc": false,
+  "d": 1314,
+  "dc": false
+ },
+ "Q131579": {
+  "b": 1568,
+  "bc": false,
+  "d": 1644,
+  "dc": false
+ },
+ "Q131587": {
+  "b": 1705,
+  "bc": false,
+  "d": 1774,
+  "dc": false
+ },
+ "Q131945": {
+  "b": 1504,
+  "bc": false,
+  "d": 1572,
+  "dc": false
+ },
+ "Q132086": {
+  "b": 750,
+  "bc": false,
+  "d": 816,
+  "dc": false
+ },
+ "Q132100": {
+  "b": null,
+  "bc": false,
+  "d": 236,
+  "dc": false
+ },
+ "Q132113": {
+  "b": null,
+  "bc": false,
+  "d": 235,
+  "dc": false
+ },
+ "Q1322939": {
+  "b": 1227,
+  "bc": false,
+  "d": 1292,
+  "dc": false
+ },
+ "Q132692": {
+  "b": 1554,
+  "bc": false,
+  "d": 1623,
+  "dc": false
+ },
+ "Q132708": {
+  "b": 1615,
+  "bc": false,
+  "d": 1700,
+  "dc": false
+ },
+ "Q132711": {
+  "b": 1552,
+  "bc": false,
+  "d": 1621,
+  "dc": false
+ },
+ "Q132716": {
+  "b": 1535,
+  "bc": false,
+  "d": 1605,
+  "dc": false
+ },
+ "Q132786": {
+  "b": null,
+  "bc": false,
+  "d": 498,
+  "dc": false
+ },
+ "Q132793": {
+  "b": 200,
+  "bc": true,
+  "d": 254,
+  "dc": false
+ },
+ "Q132797": {
+  "b": 300,
+  "bc": true,
+  "d": 336,
+  "dc": false
+ },
+ "Q132845": {
+  "b": null,
+  "bc": false,
+  "d": 1159,
+  "dc": false
+ },
+ "Q133001": {
+  "b": 1468,
+  "bc": false,
+  "d": 1549,
+  "dc": false
+ },
+ "Q133046": {
+  "b": 1310,
+  "bc": false,
+  "d": 1370,
+  "dc": false
+ },
+ "Q133063": {
+  "b": 1020,
+  "bc": true,
+  "d": 1085,
+  "dc": false
+ },
+ "Q133100": {
+  "b": 1655,
+  "bc": false,
+  "d": 1724,
+  "dc": false
+ },
+ "Q133108": {
+  "b": 1652,
+  "bc": false,
+  "d": 1740,
+  "dc": false
+ },
+ "Q133121": {
+  "b": 1693,
+  "bc": false,
+  "d": 1769,
+  "dc": false
+ },
+ "Q133350": {
+  "b": 1521,
+  "bc": false,
+  "d": 1590,
+  "dc": false
+ },
+ "Q134337": {
+  "b": 1521,
+  "bc": false,
+  "d": 1590,
+  "dc": false
+ },
+ "Q134588": {
+  "b": 1397,
+  "bc": false,
+  "d": 1455,
+  "dc": false
+ },
+ "Q134646": {
+  "b": 1235,
+  "bc": false,
+  "d": 1303,
+  "dc": false
+ },
+ "Q134666": {
+  "b": 300,
+  "bc": true,
+  "d": 257,
+  "dc": false
+ },
+ "Q134682": {
+  "b": 340,
+  "bc": false,
+  "d": 401,
+  "dc": false
+ },
+ "Q134687": {
+  "b": 300,
+  "bc": true,
+  "d": 274,
+  "dc": false
+ },
+ "Q134694": {
+  "b": 400,
+  "bc": true,
+  "d": 417,
+  "dc": false
+ },
+ "Q1363509": {
+  "b": 1070,
+  "bc": false,
+  "d": 1136,
+  "dc": false
+ },
+ "Q1364372": {
+  "b": 1215,
+  "bc": false,
+  "d": 1279,
+  "dc": false
+ },
+ "Q139194": {
+  "b": 1000,
+  "bc": true,
+  "d": 1063,
+  "dc": false
+ },
+ "Q1392362": {
+  "b": 650,
+  "bc": true,
+  "d": 739,
+  "dc": false
+ },
+ "Q139467": {
+  "b": 679,
+  "bc": false,
+  "d": 752,
+  "dc": false
+ },
+ "Q1418605": {
+  "b": 1050,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q1419850": {
+  "b": 950,
+  "bc": true,
+  "d": 990,
+  "dc": false
+ },
+ "Q1424772": {
+  "b": 1350,
+  "bc": true,
+  "d": 1374,
+  "dc": false
+ },
+ "Q142983": {
+  "b": 565,
+  "bc": false,
+  "d": 638,
+  "dc": false
+ },
+ "Q149315": {
+  "b": 477,
+  "bc": false,
+  "d": 537,
+  "dc": false
+ },
+ "Q151902": {
+  "b": 525,
+  "bc": false,
+  "d": 579,
+  "dc": false
+ },
+ "Q151908": {
+  "b": 520,
+  "bc": false,
+  "d": 590,
+  "dc": false
+ },
+ "Q152221": {
+  "b": 1300,
+  "bc": false,
+  "d": 1379,
+  "dc": false
+ },
+ "Q1524089": {
+  "b": 1353,
+  "bc": false,
+  "d": 1414,
+  "dc": false
+ },
+ "Q155956": {
+  "b": 1590,
+  "bc": false,
+  "d": 1676,
+  "dc": false
+ },
+ "Q155961": {
+  "b": 1600,
+  "bc": false,
+  "d": 1669,
+  "dc": false
+ },
+ "Q155971": {
+  "b": 1649,
+  "bc": false,
+  "d": 1730,
+  "dc": false
+ },
+ "Q1559731": {
+  "b": null,
+  "bc": false,
+  "d": 686,
+  "dc": false
+ },
+ "Q1559737": {
+  "b": null,
+  "bc": false,
+  "d": 991,
+  "dc": false
+ },
+ "Q1560386": {
+  "b": null,
+  "bc": false,
+  "d": 754,
+  "dc": false
+ },
+ "Q1560559": {
+  "b": 400,
+  "bc": true,
+  "d": 397,
+  "dc": false
+ },
+ "Q156600": {
+  "b": 301,
+  "bc": true,
+  "d": 458,
+  "dc": false
+ },
+ "Q160030": {
+  "b": 1439,
+  "bc": false,
+  "d": 1503,
+  "dc": false
+ },
+ "Q160116": {
+  "b": 1100,
+  "bc": false,
+  "d": 1181,
+  "dc": false
+ },
+ "Q160182": {
+  "b": 1148,
+  "bc": false,
+  "d": 1227,
+  "dc": false
+ },
+ "Q160369": {
+  "b": 1379,
+  "bc": false,
+  "d": 1458,
+  "dc": false
+ },
+ "Q160373": {
+  "b": 296,
+  "bc": false,
+  "d": 304,
+  "dc": false
+ },
+ "Q160514": {
+  "b": null,
+  "bc": false,
+  "d": 310,
+  "dc": false
+ },
+ "Q160609": {
+  "b": null,
+  "bc": false,
+  "d": 1254,
+  "dc": false
+ },
+ "Q160882": {
+  "b": null,
+  "bc": false,
+  "d": 296,
+  "dc": false
+ },
+ "Q160900": {
+  "b": 490,
+  "bc": true,
+  "d": 536,
+  "dc": false
+ },
+ "Q160907": {
+  "b": 370,
+  "bc": false,
+  "d": 422,
+  "dc": false
+ },
+ "Q160916": {
+  "b": 470,
+  "bc": false,
+  "d": 526,
+  "dc": false
+ },
+ "Q160922": {
+  "b": 400,
+  "bc": true,
+  "d": 432,
+  "dc": false
+ },
+ "Q160931": {
+  "b": 450,
+  "bc": false,
+  "d": 523,
+  "dc": false
+ },
+ "Q160935": {
+  "b": 460,
+  "bc": false,
+  "d": 514,
+  "dc": false
+ },
+ "Q161351": {
+  "b": 1432,
+  "bc": false,
+  "d": 1492,
+  "dc": false
+ },
+ "Q161443": {
+  "b": 334,
+  "bc": false,
+  "d": 399,
+  "dc": false
+ },
+ "Q161740": {
+  "b": 1210,
+  "bc": false,
+  "d": 1276,
+  "dc": false
+ },
+ "Q161983": {
+  "b": 1499,
+  "bc": false,
+  "d": 1565,
+  "dc": false
+ },
+ "Q162080": {
+  "b": null,
+  "bc": false,
+  "d": 530,
+  "dc": false
+ },
+ "Q162090": {
+  "b": null,
+  "bc": false,
+  "d": 314,
+  "dc": false
+ },
+ "Q162102": {
+  "b": 980,
+  "bc": false,
+  "d": 1024,
+  "dc": false
+ },
+ "Q162135": {
+  "b": 410,
+  "bc": false,
+  "d": 496,
+  "dc": false
+ },
+ "Q162571": {
+  "b": 400,
+  "bc": true,
+  "d": 418,
+  "dc": false
+ },
+ "Q162972": {
+  "b": 300,
+  "bc": true,
+  "d": 283,
+  "dc": false
+ },
+ "Q163514": {
+  "b": 1414,
+  "bc": false,
+  "d": 1484,
+  "dc": false
+ },
+ "Q163787": {
+  "b": 635,
+  "bc": false,
+  "d": 685,
+  "dc": false
+ },
+ "Q165561": {
+  "b": 1356,
+  "bc": false,
+  "d": 1404,
+  "dc": false
+ },
+ "Q165568": {
+  "b": 1244,
+  "bc": false,
+  "d": 1334,
+  "dc": false
+ },
+ "Q167052": {
+  "b": 795,
+  "bc": false,
+  "d": 844,
+  "dc": false
+ },
+ "Q167065": {
+  "b": 390,
+  "bc": false,
+  "d": 440,
+  "dc": false
+ },
+ "Q167561": {
+  "b": 1383,
+  "bc": false,
+  "d": 1447,
+  "dc": false
+ },
+ "Q167610": {
+  "b": 1200,
+  "bc": true,
+  "d": 1153,
+  "dc": false
+ },
+ "Q167959": {
+  "b": 1519,
+  "bc": false,
+  "d": 1591,
+  "dc": false
+ },
+ "Q168733": {
+  "b": 780,
+  "bc": false,
+  "d": 827,
+  "dc": false
+ },
+ "Q168734": {
+  "b": null,
+  "bc": false,
+  "d": 555,
+  "dc": false
+ },
+ "Q168736": {
+  "b": 470,
+  "bc": false,
+  "d": 535,
+  "dc": false
+ },
+ "Q168741": {
+  "b": 420,
+  "bc": false,
+  "d": 483,
+  "dc": false
+ },
+ "Q169288": {
+  "b": 1282,
+  "bc": false,
+  "d": 1362,
+  "dc": false
+ },
+ "Q169301": {
+  "b": 1240,
+  "bc": false,
+  "d": 1304,
+  "dc": false
+ },
+ "Q169305": {
+  "b": 1185,
+  "bc": false,
+  "d": 1264,
+  "dc": false
+ },
+ "Q169594": {
+  "b": 1329,
+  "bc": false,
+  "d": 1378,
+  "dc": false
+ },
+ "Q169612": {
+  "b": 1369,
+  "bc": false,
+  "d": 1431,
+  "dc": false
+ },
+ "Q16975": {
+  "b": 1897,
+  "bc": false,
+  "d": 1978,
+  "dc": false
+ },
+ "Q169911": {
+  "b": 1487,
+  "bc": false,
+  "d": 1555,
+  "dc": false
+ },
+ "Q169915": {
+  "b": 1200,
+  "bc": true,
+  "d": 1261,
+  "dc": false
+ },
+ "Q170297": {
+  "b": 540,
+  "bc": false,
+  "d": 607,
+  "dc": false
+ },
+ "Q170299": {
+  "b": 600,
+  "bc": true,
+  "d": 625,
+  "dc": false
+ },
+ "Q170303": {
+  "b": 505,
+  "bc": false,
+  "d": 561,
+  "dc": false
+ },
+ "Q170385": {
+  "b": 1050,
+  "bc": true,
+  "d": 1145,
+  "dc": false
+ },
+ "Q170386": {
+  "b": 1100,
+  "bc": true,
+  "d": 1143,
+  "dc": false
+ },
+ "Q170389": {
+  "b": 1280,
+  "bc": false,
+  "d": 1342,
+  "dc": false
+ },
+ "Q170395": {
+  "b": 1536,
+  "bc": false,
+  "d": 1605,
+  "dc": false
+ },
+ "Q170498": {
+  "b": 530,
+  "bc": false,
+  "d": 606,
+  "dc": false
+ },
+ "Q170499": {
+  "b": 816,
+  "bc": false,
+  "d": 896,
+  "dc": false
+ },
+ "Q170500": {
+  "b": null,
+  "bc": false,
+  "d": 897,
+  "dc": false
+ },
+ "Q170502": {
+  "b": 585,
+  "bc": false,
+  "d": 638,
+  "dc": false
+ },
+ "Q170503": {
+  "b": 820,
+  "bc": false,
+  "d": 867,
+  "dc": false
+ },
+ "Q170504": {
+  "b": 820,
+  "bc": false,
+  "d": 882,
+  "dc": false
+ },
+ "Q170505": {
+  "b": 550,
+  "bc": false,
+  "d": 615,
+  "dc": false
+ },
+ "Q170550": {
+  "b": 570,
+  "bc": false,
+  "d": 618,
+  "dc": false
+ },
+ "Q170559": {
+  "b": 900,
+  "bc": false,
+  "d": 965,
+  "dc": false
+ },
+ "Q170654": {
+  "b": 1065,
+  "bc": false,
+  "d": 1124,
+  "dc": false
+ },
+ "Q170859": {
+  "b": 1215,
+  "bc": true,
+  "d": 1280,
+  "dc": false
+ },
+ "Q170863": {
+  "b": 1291,
+  "bc": false,
+  "d": 1352,
+  "dc": false
+ },
+ "Q170871": {
+  "b": 1225,
+  "bc": false,
+  "d": 1276,
+  "dc": false
+ },
+ "Q171001": {
+  "b": 1124,
+  "bc": false,
+  "d": 1191,
+  "dc": false
+ },
+ "Q171112": {
+  "b": 1010,
+  "bc": true,
+  "d": 1073,
+  "dc": false
+ },
+ "Q171144": {
+  "b": null,
+  "bc": false,
+  "d": 1144,
+  "dc": false
+ },
+ "Q171238": {
+  "b": null,
+  "bc": false,
+  "d": 1241,
+  "dc": false
+ },
+ "Q171520": {
+  "b": 1200,
+  "bc": true,
+  "d": 1187,
+  "dc": false
+ },
+ "Q171537": {
+  "b": 630,
+  "bc": false,
+  "d": 687,
+  "dc": false
+ },
+ "Q171622": {
+  "b": 1535,
+  "bc": false,
+  "d": 1591,
+  "dc": false
+ },
+ "Q171626": {
+  "b": 1318,
+  "bc": false,
+  "d": 1389,
+  "dc": false
+ },
+ "Q172377": {
+  "b": 415,
+  "bc": false,
+  "d": 468,
+  "dc": false
+ },
+ "Q172383": {
+  "b": 938,
+  "bc": false,
+  "d": 1003,
+  "dc": false
+ },
+ "Q172390": {
+  "b": 598,
+  "bc": false,
+  "d": 655,
+  "dc": false
+ },
+ "Q172398": {
+  "b": null,
+  "bc": false,
+  "d": 885,
+  "dc": false
+ },
+ "Q172404": {
+  "b": null,
+  "bc": false,
+  "d": 905,
+  "dc": false
+ },
+ "Q172424": {
+  "b": 860,
+  "bc": false,
+  "d": 911,
+  "dc": false
+ },
+ "Q172432": {
+  "b": 840,
+  "bc": false,
+  "d": 897,
+  "dc": false
+ },
+ "Q172445": {
+  "b": 810,
+  "bc": false,
+  "d": 858,
+  "dc": false
+ },
+ "Q172916": {
+  "b": 1215,
+  "bc": false,
+  "d": 1277,
+  "dc": false
+ },
+ "Q172926": {
+  "b": 390,
+  "bc": false,
+  "d": 446,
+  "dc": false
+ },
+ "Q172928": {
+  "b": 1190,
+  "bc": false,
+  "d": 1268,
+  "dc": false
+ },
+ "Q172933": {
+  "b": 937,
+  "bc": false,
+  "d": 964,
+  "dc": false
+ },
+ "Q173000": {
+  "b": 1205,
+  "bc": false,
+  "d": 1276,
+  "dc": false
+ },
+ "Q173071": {
+  "b": 1100,
+  "bc": true,
+  "d": 1130,
+  "dc": false
+ },
+ "Q173086": {
+  "b": 650,
+  "bc": false,
+  "d": 701,
+  "dc": false
+ },
+ "Q173995": {
+  "b": 792,
+  "bc": false,
+  "d": 872,
+  "dc": false
+ },
+ "Q174029": {
+  "b": 440,
+  "bc": false,
+  "d": 492,
+  "dc": false
+ },
+ "Q175430": {
+  "b": 640,
+  "bc": false,
+  "d": 706,
+  "dc": false
+ },
+ "Q175814": {
+  "b": 1871,
+  "bc": false,
+  "d": 1946,
+  "dc": false
+ },
+ "Q177896": {
+  "b": null,
+  "bc": false,
+  "d": 760,
+  "dc": false
+ },
+ "Q178071": {
+  "b": null,
+  "bc": false,
+  "d": 896,
+  "dc": false
+ },
+ "Q178799": {
+  "b": null,
+  "bc": false,
+  "d": 1055,
+  "dc": false
+ },
+ "Q179389": {
+  "b": 1073,
+  "bc": false,
+  "d": 1154,
+  "dc": false
+ },
+ "Q179697": {
+  "b": null,
+  "bc": false,
+  "d": 983,
+  "dc": false
+ },
+ "Q179702": {
+  "b": null,
+  "bc": false,
+  "d": 1009,
+  "dc": false
+ },
+ "Q1798546": {
+  "b": null,
+  "bc": false,
+  "d": 959,
+  "dc": false
+ },
+ "Q179882": {
+  "b": null,
+  "bc": false,
+  "d": 974,
+  "dc": false
+ },
+ "Q180882": {
+  "b": 1060,
+  "bc": false,
+  "d": 1119,
+  "dc": false
+ },
+ "Q1816615": {
+  "b": 1846,
+  "bc": false,
+  "d": 1929,
+  "dc": false
+ },
+ "Q181952": {
+  "b": null,
+  "bc": false,
+  "d": 972,
+  "dc": false
+ },
+ "Q181959": {
+  "b": 910,
+  "bc": false,
+  "d": 936,
+  "dc": false
+ },
+ "Q182463": {
+  "b": 900,
+  "bc": true,
+  "d": 903,
+  "dc": false
+ },
+ "Q182474": {
+  "b": 1110,
+  "bc": false,
+  "d": 1185,
+  "dc": false
+ },
+ "Q182489": {
+  "b": null,
+  "bc": false,
+  "d": 939,
+  "dc": false
+ },
+ "Q185073": {
+  "b": 380,
+  "bc": true,
+  "d": 451,
+  "dc": false
+ },
+ "Q1884172": {
+  "b": 1780,
+  "bc": false,
+  "d": 1822,
+  "dc": false
+ },
+ "Q19179": {
+  "b": 901,
+  "bc": true,
+  "d": 1005,
+  "dc": false
+ },
+ "Q192236": {
+  "b": 1119,
+  "bc": false,
+  "d": 1170,
+  "dc": false
+ },
+ "Q193854": {
+  "b": 770,
+  "bc": false,
+  "d": 817,
+  "dc": false
+ },
+ "Q1968450": {
+  "b": 1404,
+  "bc": false,
+  "d": 1486,
+  "dc": false
+ },
+ "Q199486": {
+  "b": null,
+  "bc": false,
+  "d": 640,
+  "dc": false
+ },
+ "Q199487": {
+  "b": 655,
+  "bc": false,
+  "d": 705,
+  "dc": false
+ },
+ "Q199491": {
+  "b": 600,
+  "bc": false,
+  "d": 642,
+  "dc": false
+ },
+ "Q199496": {
+  "b": 650,
+  "bc": false,
+  "d": 707,
+  "dc": false
+ },
+ "Q199498": {
+  "b": 700,
+  "bc": true,
+  "d": 657,
+  "dc": false
+ },
+ "Q199533": {
+  "b": 635,
+  "bc": false,
+  "d": 686,
+  "dc": false
+ },
+ "Q199612": {
+  "b": 600,
+  "bc": false,
+  "d": 672,
+  "dc": false
+ },
+ "Q199894": {
+  "b": 1489,
+  "bc": false,
+  "d": 1556,
+  "dc": false
+ },
+ "Q2044904": {
+  "b": null,
+  "bc": false,
+  "d": 1050,
+  "dc": false
+ },
+ "Q2077332": {
+  "b": 1245,
+  "bc": false,
+  "d": 1313,
+  "dc": false
+ },
+ "Q2078267": {
+  "b": 1549,
+  "bc": false,
+  "d": 1601,
+  "dc": false
+ },
+ "Q211789": {
+  "b": 714,
+  "bc": false,
+  "d": 757,
+  "dc": false
+ },
+ "Q222500": {
+  "b": 1000,
+  "bc": true,
+  "d": 942,
+  "dc": false
+ },
+ "Q2242201": {
+  "b": 1764,
+  "bc": false,
+  "d": 1859,
+  "dc": false
+ },
+ "Q227694": {
+  "b": 1335,
+  "bc": false,
+  "d": 1417,
+  "dc": false
+ },
+ "Q227713": {
+  "b": 1339,
+  "bc": false,
+  "d": 1406,
+  "dc": false
+ },
+ "Q227719": {
+  "b": 1220,
+  "bc": false,
+  "d": 1285,
+  "dc": false
+ },
+ "Q227721": {
+  "b": 830,
+  "bc": false,
+  "d": 884,
+  "dc": false
+ },
+ "Q227724": {
+  "b": 1027,
+  "bc": false,
+  "d": 1087,
+  "dc": false
+ },
+ "Q227743": {
+  "b": 1210,
+  "bc": false,
+  "d": 1287,
+  "dc": false
+ },
+ "Q227961": {
+  "b": 840,
+  "bc": false,
+  "d": 900,
+  "dc": false
+ },
+ "Q227963": {
+  "b": null,
+  "bc": false,
+  "d": 1003,
+  "dc": false
+ },
+ "Q227965": {
+  "b": 915,
+  "bc": false,
+  "d": 965,
+  "dc": false
+ },
+ "Q227967": {
+  "b": 1050,
+  "bc": true,
+  "d": 1118,
+  "dc": false
+ },
+ "Q227970": {
+  "b": 970,
+  "bc": false,
+  "d": 1012,
+  "dc": false
+ },
+ "Q227972": {
+  "b": 1000,
+  "bc": true,
+  "d": 984,
+  "dc": false
+ },
+ "Q227976": {
+  "b": 860,
+  "bc": false,
+  "d": 929,
+  "dc": false
+ },
+ "Q227978": {
+  "b": 975,
+  "bc": false,
+  "d": 1032,
+  "dc": false
+ },
+ "Q227981": {
+  "b": 1000,
+  "bc": false,
+  "d": 1048,
+  "dc": false
+ },
+ "Q228205": {
+  "b": 790,
+  "bc": false,
+  "d": 855,
+  "dc": false
+ },
+ "Q228644": {
+  "b": 790,
+  "bc": false,
+  "d": 847,
+  "dc": false
+ },
+ "Q228649": {
+  "b": 1000,
+  "bc": true,
+  "d": 996,
+  "dc": false
+ },
+ "Q2287592": {
+  "b": 1200,
+  "bc": true,
+  "d": 1366,
+  "dc": false
+ },
+ "Q2303048": {
+  "b": 1710,
+  "bc": true,
+  "d": 1780,
+  "dc": false
+ },
+ "Q2332596": {
+  "b": 1837,
+  "bc": false,
+  "d": 1887,
+  "dc": false
+ },
+ "Q2358193": {
+  "b": 1600,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q235920": {
+  "b": null,
+  "bc": false,
+  "d": 931,
+  "dc": false
+ },
+ "Q2361770": {
+  "b": 1250,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q2361811": {
+  "b": 1485,
+  "bc": false,
+  "d": 1546,
+  "dc": false
+ },
+ "Q2374911": {
+  "b": 1835,
+  "bc": false,
+  "d": 1920,
+  "dc": false
+ },
+ "Q2376957": {
+  "b": 1364,
+  "bc": false,
+  "d": 1443,
+  "dc": false
+ },
+ "Q2381876": {
+  "b": 1834,
+  "bc": false,
+  "d": 1912,
+  "dc": false
+ },
+ "Q23873": {
+  "b": 1881,
+  "bc": false,
+  "d": 1963,
+  "dc": false
+ },
+ "Q238947": {
+  "b": null,
+  "bc": false,
+  "d": 897,
+  "dc": false
+ },
+ "Q2390766": {
+  "b": 1779,
+  "bc": false,
+  "d": 1842,
+  "dc": false
+ },
+ "Q2397627": {
+  "b": 750,
+  "bc": true,
+  "d": 805,
+  "dc": false
+ },
+ "Q2399316": {
+  "b": 1401,
+  "bc": true,
+  "d": 1513,
+  "dc": false
+ },
+ "Q2406865": {
+  "b": 1769,
+  "bc": false,
+  "d": 1831,
+  "dc": false
+ },
+ "Q243187": {
+  "b": 827,
+  "bc": false,
+  "d": 891,
+  "dc": false
+ },
+ "Q245030": {
+  "b": null,
+  "bc": false,
+  "d": 891,
+  "dc": false
+ },
+ "Q2471377": {
+  "b": 1775,
+  "bc": false,
+  "d": 1872,
+  "dc": false
+ },
+ "Q2494": {
+  "b": 1927,
+  "bc": false,
+  "d": 2022,
+  "dc": false
+ },
+ "Q2498577": {
+  "b": 1260,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q2541495": {
+  "b": 1782,
+  "bc": false,
+  "d": 1877,
+  "dc": false
+ },
+ "Q2579462": {
+  "b": 1798,
+  "bc": false,
+  "d": 1899,
+  "dc": false
+ },
+ "Q2593353": {
+  "b": 1832,
+  "bc": false,
+  "d": 1909,
+  "dc": false
+ },
+ "Q2599204": {
+  "b": 1762,
+  "bc": false,
+  "d": 1842,
+  "dc": false
+ },
+ "Q2604": {
+  "b": 1876,
+  "bc": false,
+  "d": 1958,
+  "dc": false
+ },
+ "Q2605635": {
+  "b": 1150,
+  "bc": true,
+  "d": 1240,
+  "dc": false
+ },
+ "Q2606011": {
+  "b": null,
+  "bc": false,
+  "d": 1178,
+  "dc": false
+ },
+ "Q2622526": {
+  "b": 1282,
+  "bc": false,
+  "d": 1347,
+  "dc": false
+ },
+ "Q2622606": {
+  "b": 1225,
+  "bc": false,
+  "d": 1297,
+  "dc": false
+ },
+ "Q26419": {
+  "b": 1956,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q2644284": {
+  "b": 1820,
+  "bc": false,
+  "d": 1891,
+  "dc": false
+ },
+ "Q2661123": {
+  "b": 1798,
+  "bc": false,
+  "d": 1881,
+  "dc": false
+ },
+ "Q2665053": {
+  "b": null,
+  "bc": false,
+  "d": 1043,
+  "dc": false
+ },
+ "Q267065": {
+  "b": 1090,
+  "bc": false,
+  "d": 1161,
+  "dc": false
+ },
+ "Q268841": {
+  "b": 1550,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q2690771": {
+  "b": 1768,
+  "bc": false,
+  "d": 1834,
+  "dc": false
+ },
+ "Q2709458": {
+  "b": 1150,
+  "bc": true,
+  "d": 1222,
+  "dc": false
+ },
+ "Q2716119": {
+  "b": 1201,
+  "bc": true,
+  "d": 1321,
+  "dc": false
+ },
+ "Q2716424": {
+  "b": 1450,
+  "bc": true,
+  "d": 1522,
+  "dc": false
+ },
+ "Q2723586": {
+  "b": 1200,
+  "bc": true,
+  "d": 1206,
+  "dc": false
+ },
+ "Q2743927": {
+  "b": 1050,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q284092": {
+  "b": 1380,
+  "bc": false,
+  "d": 1454,
+  "dc": false
+ },
+ "Q2853098": {
+  "b": 1550,
+  "bc": true,
+  "d": 1628,
+  "dc": false
+ },
+ "Q2868985": {
+  "b": 1650,
+  "bc": true,
+  "d": 1679,
+  "dc": false
+ },
+ "Q2868995": {
+  "b": 1650,
+  "bc": true,
+  "d": 1711,
+  "dc": false
+ },
+ "Q2886858": {
+  "b": 1101,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q2934207": {
+  "b": 1630,
+  "bc": false,
+  "d": 1702,
+  "dc": false
+ },
+ "Q2934212": {
+  "b": 1713,
+  "bc": false,
+  "d": 1791,
+  "dc": false
+ },
+ "Q2946312": {
+  "b": 850,
+  "bc": true,
+  "d": 870,
+  "dc": false
+ },
+ "Q2957842": {
+  "b": 1101,
+  "bc": true,
+  "d": 1179,
+  "dc": false
+ },
+ "Q2980712": {
+  "b": 1650,
+  "bc": true,
+  "d": 1667,
+  "dc": false
+ },
+ "Q2980755": {
+  "b": 1788,
+  "bc": false,
+  "d": 1853,
+  "dc": false
+ },
+ "Q2984957": {
+  "b": 1802,
+  "bc": false,
+  "d": 1878,
+  "dc": false
+ },
+ "Q2994989": {
+  "b": 1050,
+  "bc": true,
+  "d": 1157,
+  "dc": false
+ },
+ "Q2998260": {
+  "b": 1650,
+  "bc": true,
+  "d": 1736,
+  "dc": false
+ },
+ "Q2998263": {
+  "b": 1050,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3008884": {
+  "b": 1650,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3009138": {
+  "b": 1550,
+  "bc": true,
+  "d": 1640,
+  "dc": false
+ },
+ "Q3009140": {
+  "b": null,
+  "bc": false,
+  "d": 1675,
+  "dc": false
+ },
+ "Q3009141": {
+  "b": 1650,
+  "bc": true,
+  "d": 1728,
+  "dc": false
+ },
+ "Q3009177": {
+  "b": 1690,
+  "bc": true,
+  "d": 1775,
+  "dc": false
+ },
+ "Q302": {
+  "b": -5,
+  "bc": true,
+  "d": 30,
+  "dc": false
+ },
+ "Q3023981": {
+  "b": 1070,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3023988": {
+  "b": 1450,
+  "bc": true,
+  "d": 1526,
+  "dc": false
+ },
+ "Q3023997": {
+  "b": 1450,
+  "bc": true,
+  "d": 1504,
+  "dc": false
+ },
+ "Q3026448": {
+  "b": 1050,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3028751": {
+  "b": 1615,
+  "bc": false,
+  "d": 1696,
+  "dc": false
+ },
+ "Q3028755": {
+  "b": 1450,
+  "bc": true,
+  "d": 1556,
+  "dc": false
+ },
+ "Q3028759": {
+  "b": 1620,
+  "bc": true,
+  "d": 1696,
+  "dc": false
+ },
+ "Q3037325": {
+  "b": 1141,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q3037905": {
+  "b": null,
+  "bc": false,
+  "d": 1025,
+  "dc": false
+ },
+ "Q3038419": {
+  "b": 1070,
+  "bc": true,
+  "d": 1152,
+  "dc": false
+ },
+ "Q3044668": {
+  "b": 1740,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3044694": {
+  "b": 1710,
+  "bc": true,
+  "d": 1800,
+  "dc": false
+ },
+ "Q3045779": {
+  "b": 750,
+  "bc": true,
+  "d": 792,
+  "dc": false
+ },
+ "Q3057088": {
+  "b": 1690,
+  "bc": false,
+  "d": 1779,
+  "dc": false
+ },
+ "Q30578": {
+  "b": 1035,
+  "bc": false,
+  "d": 1099,
+  "dc": false
+ },
+ "Q3066823": {
+  "b": 1650,
+  "bc": true,
+  "d": 1679,
+  "dc": false
+ },
+ "Q3067006": {
+  "b": 1435,
+  "bc": false,
+  "d": 1508,
+  "dc": false
+ },
+ "Q3077664": {
+  "b": 1101,
+  "bc": true,
+  "d": 1216,
+  "dc": false
+ },
+ "Q3077676": {
+  "b": 1150,
+  "bc": true,
+  "d": 1216,
+  "dc": false
+ },
+ "Q3084273": {
+  "b": 1101,
+  "bc": true,
+  "d": 1240,
+  "dc": false
+ },
+ "Q3093790": {
+  "b": 1750,
+  "bc": true,
+  "d": 1785,
+  "dc": false
+ },
+ "Q3093792": {
+  "b": 1601,
+  "bc": true,
+  "d": 1707,
+  "dc": false
+ },
+ "Q3093793": {
+  "b": 1550,
+  "bc": true,
+  "d": 1659,
+  "dc": false
+ },
+ "Q3093796": {
+  "b": 1550,
+  "bc": true,
+  "d": 1596,
+  "dc": false
+ },
+ "Q3104128": {
+  "b": 1250,
+  "bc": true,
+  "d": 1289,
+  "dc": false
+ },
+ "Q3110969": {
+  "b": 950,
+  "bc": true,
+  "d": 1038,
+  "dc": false
+ },
+ "Q3118463": {
+  "b": 1501,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3118545": {
+  "b": 1050,
+  "bc": true,
+  "d": 1143,
+  "dc": false
+ },
+ "Q3124445": {
+  "b": 1650,
+  "bc": true,
+  "d": 1689,
+  "dc": false
+ },
+ "Q3131394": {
+  "b": 1300,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q313445": {
+  "b": 1500,
+  "bc": false,
+  "d": 1558,
+  "dc": false
+ },
+ "Q3138153": {
+  "b": null,
+  "bc": false,
+  "d": 1170,
+  "dc": false
+ },
+ "Q3138162": {
+  "b": 1250,
+  "bc": true,
+  "d": 1332,
+  "dc": false
+ },
+ "Q3138173": {
+  "b": 1150,
+  "bc": true,
+  "d": 1254,
+  "dc": false
+ },
+ "Q317098": {
+  "b": 1005,
+  "bc": false,
+  "d": 1089,
+  "dc": false
+ },
+ "Q3172686": {
+  "b": 1050,
+  "bc": true,
+  "d": 1134,
+  "dc": false
+ },
+ "Q3175717": {
+  "b": 1275,
+  "bc": false,
+  "d": 1348,
+  "dc": false
+ },
+ "Q3179693": {
+  "b": 1501,
+  "bc": true,
+  "d": 1659,
+  "dc": false
+ },
+ "Q3179783": {
+  "b": 1600,
+  "bc": true,
+  "d": 1570,
+  "dc": true
+ },
+ "Q3190712": {
+  "b": 1650,
+  "bc": false,
+  "d": 1735,
+  "dc": false
+ },
+ "Q3190715": {
+  "b": 1730,
+  "bc": true,
+  "d": 1824,
+  "dc": false
+ },
+ "Q320531": {
+  "b": 720,
+  "bc": false,
+  "d": 772,
+  "dc": false
+ },
+ "Q321639": {
+  "b": 300,
+  "bc": true,
+  "d": 341,
+  "dc": false
+ },
+ "Q321662": {
+  "b": 1301,
+  "bc": true,
+  "d": 1443,
+  "dc": false
+ },
+ "Q32520": {
+  "b": 534,
+  "bc": false,
+  "d": 605,
+  "dc": true
+ },
+ "Q325408": {
+  "b": 1573,
+  "bc": false,
+  "d": 1645,
+  "dc": false
+ },
+ "Q325430": {
+  "b": 1440,
+  "bc": false,
+  "d": 1503,
+  "dc": false
+ },
+ "Q3271653": {
+  "b": 1101,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3298767": {
+  "b": 1501,
+  "bc": true,
+  "d": 1603,
+  "dc": false
+ },
+ "Q3302595": {
+  "b": 1450,
+  "bc": true,
+  "d": 1482,
+  "dc": false
+ },
+ "Q3302597": {
+  "b": 1500,
+  "bc": true,
+  "d": 1502,
+  "dc": false
+ },
+ "Q3309945": {
+  "b": 1101,
+  "bc": true,
+  "d": 1214,
+  "dc": false
+ },
+ "Q332130": {
+  "b": 909,
+  "bc": false,
+  "d": 988,
+  "dc": false
+ },
+ "Q3333005": {
+  "b": 1750,
+  "bc": true,
+  "d": 1777,
+  "dc": false
+ },
+ "Q3333856": {
+  "b": 1520,
+  "bc": false,
+  "d": 1580,
+  "dc": false
+ },
+ "Q3341217": {
+  "b": null,
+  "bc": false,
+  "d": 1261,
+  "dc": false
+ },
+ "Q3341223": {
+  "b": 1101,
+  "bc": true,
+  "d": 1189,
+  "dc": false
+ },
+ "Q3347143": {
+  "b": 1501,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3347144": {
+  "b": 1550,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3347145": {
+  "b": 1601,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3347153": {
+  "b": 1601,
+  "bc": true,
+  "d": 1711,
+  "dc": false
+ },
+ "Q335458": {
+  "b": 1935,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q335465": {
+  "b": 1921,
+  "bc": false,
+  "d": 2000,
+  "dc": false
+ },
+ "Q335473": {
+  "b": 1887,
+  "bc": false,
+  "d": 1972,
+  "dc": false
+ },
+ "Q336295": {
+  "b": 1821,
+  "bc": false,
+  "d": 1902,
+  "dc": false
+ },
+ "Q336307": {
+  "b": 1848,
+  "bc": false,
+  "d": 1930,
+  "dc": false
+ },
+ "Q336315": {
+  "b": 1881,
+  "bc": false,
+  "d": 1944,
+  "dc": false
+ },
+ "Q336344": {
+  "b": 1864,
+  "bc": false,
+  "d": 1945,
+  "dc": false
+ },
+ "Q336389": {
+  "b": 1909,
+  "bc": false,
+  "d": 2000,
+  "dc": false
+ },
+ "Q336433": {
+  "b": 1829,
+  "bc": false,
+  "d": 1896,
+  "dc": false
+ },
+ "Q336569": {
+  "b": 1904,
+  "bc": false,
+  "d": 1988,
+  "dc": false
+ },
+ "Q3366131": {
+  "b": 1550,
+  "bc": true,
+  "d": 1657,
+  "dc": false
+ },
+ "Q3366132": {
+  "b": 1550,
+  "bc": true,
+  "d": 1651,
+  "dc": false
+ },
+ "Q3366136": {
+  "b": 1550,
+  "bc": true,
+  "d": 1646,
+  "dc": false
+ },
+ "Q336868": {
+  "b": 1674,
+  "bc": false,
+  "d": 1747,
+  "dc": false
+ },
+ "Q336875": {
+  "b": 1811,
+  "bc": false,
+  "d": 1882,
+  "dc": false
+ },
+ "Q3373747": {
+  "b": 1650,
+  "bc": true,
+  "d": 1688,
+  "dc": false
+ },
+ "Q33923": {
+  "b": -1,
+  "bc": false,
+  "d": 65,
+  "dc": false
+ },
+ "Q339920": {
+  "b": 750,
+  "bc": true,
+  "d": 832,
+  "dc": false
+ },
+ "Q3406449": {
+  "b": 1730,
+  "bc": false,
+  "d": 1803,
+  "dc": false
+ },
+ "Q342360": {
+  "b": 1914,
+  "bc": false,
+  "d": 1991,
+  "dc": false
+ },
+ "Q347940": {
+  "b": 550,
+  "bc": true,
+  "d": 619,
+  "dc": false
+ },
+ "Q3482322": {
+  "b": 1068,
+  "bc": false,
+  "d": 1122,
+  "dc": false
+ },
+ "Q3484377": {
+  "b": 1275,
+  "bc": true,
+  "d": 1333,
+  "dc": false
+ },
+ "Q3511101": {
+  "b": 1650,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3526550": {
+  "b": null,
+  "bc": false,
+  "d": 1785,
+  "dc": false
+ },
+ "Q3526563": {
+  "b": 1150,
+  "bc": true,
+  "d": 1183,
+  "dc": true
+ },
+ "Q3526569": {
+  "b": 1070,
+  "bc": true,
+  "d": 1153,
+  "dc": false
+ },
+ "Q3526592": {
+  "b": 1550,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q3526608": {
+  "b": 1550,
+  "bc": true,
+  "d": 1597,
+  "dc": false
+ },
+ "Q3529092": {
+  "b": 1550,
+  "bc": true,
+  "d": 1620,
+  "dc": false
+ },
+ "Q3565815": {
+  "b": 1650,
+  "bc": true,
+  "d": 1726,
+  "dc": false
+ },
+ "Q3565877": {
+  "b": 1201,
+  "bc": true,
+  "d": 1327,
+  "dc": false
+ },
+ "Q3577173": {
+  "b": 850,
+  "bc": true,
+  "d": 888,
+  "dc": false
+ },
+ "Q359824": {
+  "b": 797,
+  "bc": false,
+  "d": 877,
+  "dc": false
+ },
+ "Q366198": {
+  "b": 600,
+  "bc": true,
+  "d": 624,
+  "dc": false
+ },
+ "Q37278": {
+  "b": 1912,
+  "bc": false,
+  "d": 1978,
+  "dc": false
+ },
+ "Q381211": {
+  "b": 1400,
+  "bc": false,
+  "d": 1473,
+  "dc": false
+ },
+ "Q384270": {
+  "b": 1850,
+  "bc": false,
+  "d": 1924,
+  "dc": false
+ },
+ "Q407365": {
+  "b": 1769,
+  "bc": false,
+  "d": 1821,
+  "dc": false
+ },
+ "Q415483": {
+  "b": null,
+  "bc": false,
+  "d": 489,
+  "dc": false
+ },
+ "Q42323": {
+  "b": 1857,
+  "bc": false,
+  "d": 1939,
+  "dc": false
+ },
+ "Q42827": {
+  "b": 540,
+  "bc": false,
+  "d": 604,
+  "dc": false
+ },
+ "Q42887": {
+  "b": 100,
+  "bc": true,
+  "d": 99,
+  "dc": false
+ },
+ "Q431066": {
+  "b": 1100,
+  "bc": true,
+  "d": 1055,
+  "dc": false
+ },
+ "Q43399": {
+  "b": -6,
+  "bc": false,
+  "d": 60,
+  "dc": false
+ },
+ "Q43706": {
+  "b": 349,
+  "bc": false,
+  "d": 407,
+  "dc": false
+ },
+ "Q43720": {
+  "b": 1792,
+  "bc": false,
+  "d": 1878,
+  "dc": false
+ },
+ "Q43727": {
+  "b": 1760,
+  "bc": false,
+  "d": 1829,
+  "dc": false
+ },
+ "Q43734": {
+  "b": 1765,
+  "bc": false,
+  "d": 1846,
+  "dc": false
+ },
+ "Q43739": {
+  "b": 1835,
+  "bc": false,
+  "d": 1914,
+  "dc": false
+ },
+ "Q43922": {
+  "b": 1810,
+  "bc": false,
+  "d": 1903,
+  "dc": false
+ },
+ "Q43939": {
+  "b": 1033,
+  "bc": false,
+  "d": 1109,
+  "dc": false
+ },
+ "Q43954": {
+  "b": 390,
+  "bc": false,
+  "d": 461,
+  "dc": false
+ },
+ "Q44011": {
+  "b": 329,
+  "bc": false,
+  "d": 389,
+  "dc": false
+ },
+ "Q440558": {
+  "b": 1572,
+  "bc": false,
+  "d": 1638,
+  "dc": false
+ },
+ "Q441464": {
+  "b": 634,
+  "bc": false,
+  "d": 732,
+  "dc": false
+ },
+ "Q442737": {
+  "b": 600,
+  "bc": true,
+  "d": 595,
+  "dc": false
+ },
+ "Q4443": {
+  "b": 1761,
+  "bc": false,
+  "d": 1830,
+  "dc": false
+ },
+ "Q4448": {
+  "b": 1854,
+  "bc": false,
+  "d": 1922,
+  "dc": false
+ },
+ "Q44501": {
+  "b": 1940,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q450675": {
+  "b": 1936,
+  "bc": false,
+  "d": 2025,
+  "dc": false
+ },
+ "Q453924": {
+  "b": 600,
+  "bc": true,
+  "d": 627,
+  "dc": false
+ },
+ "Q46090": {
+  "b": 1000,
+  "bc": false,
+  "d": 1063,
+  "dc": false
+ },
+ "Q461116": {
+  "b": 1290,
+  "bc": false,
+  "d": 1349,
+  "dc": false
+ },
+ "Q463201": {
+  "b": null,
+  "bc": false,
+  "d": 471,
+  "dc": false
+ },
+ "Q465329": {
+  "b": 1150,
+  "bc": false,
+  "d": 1228,
+  "dc": false
+ },
+ "Q47144": {
+  "b": 10,
+  "bc": false,
+  "d": 79,
+  "dc": false
+ },
+ "Q47149": {
+  "b": 300,
+  "bc": true,
+  "d": 335,
+  "dc": false
+ },
+ "Q473302": {
+  "b": 1530,
+  "bc": false,
+  "d": 1604,
+  "dc": false
+ },
+ "Q47746": {
+  "b": 100,
+  "bc": true,
+  "d": 105,
+  "dc": false
+ },
+ "Q49237": {
+  "b": 1475,
+  "bc": false,
+  "d": 1521,
+  "dc": false
+ },
+ "Q49615": {
+  "b": 1950,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q497368": {
+  "b": 1390,
+  "bc": true,
+  "d": 1459,
+  "dc": false
+ },
+ "Q497497": {
+  "b": 1500,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q503207": {
+  "b": 550,
+  "bc": true,
+  "d": 653,
+  "dc": false
+ },
+ "Q504529": {
+  "b": 602,
+  "bc": false,
+  "d": 690,
+  "dc": false
+ },
+ "Q506575": {
+  "b": 1360,
+  "bc": false,
+  "d": 1439,
+  "dc": false
+ },
+ "Q509569": {
+  "b": 400,
+  "bc": true,
+  "d": 449,
+  "dc": false
+ },
+ "Q531732": {
+  "b": 1241,
+  "bc": false,
+  "d": 1290,
+  "dc": false
+ },
+ "Q540187": {
+  "b": 1700,
+  "bc": false,
+  "d": 1775,
+  "dc": false
+ },
+ "Q542776": {
+  "b": null,
+  "bc": false,
+  "d": 664,
+  "dc": false
+ },
+ "Q546590": {
+  "b": 100,
+  "bc": true,
+  "d": 168,
+  "dc": false
+ },
+ "Q54798": {
+  "b": 180,
+  "bc": false,
+  "d": 253,
+  "dc": false
+ },
+ "Q549023": {
+  "b": null,
+  "bc": false,
+  "d": 535,
+  "dc": false
+ },
+ "Q549733": {
+  "b": 1780,
+  "bc": false,
+  "d": 1862,
+  "dc": false
+ },
+ "Q552447": {
+  "b": 852,
+  "bc": false,
+  "d": 925,
+  "dc": false
+ },
+ "Q556796": {
+  "b": 1859,
+  "bc": false,
+  "d": 1930,
+  "dc": false
+ },
+ "Q57087": {
+  "b": 1459,
+  "bc": false,
+  "d": 1523,
+  "dc": false
+ },
+ "Q584403": {
+  "b": 1598,
+  "bc": false,
+  "d": 1677,
+  "dc": false
+ },
+ "Q58559": {
+  "b": 1002,
+  "bc": false,
+  "d": 1054,
+  "dc": false
+ },
+ "Q58563": {
+  "b": 1018,
+  "bc": false,
+  "d": 1057,
+  "dc": false
+ },
+ "Q58568": {
+  "b": 1000,
+  "bc": false,
+  "d": 1058,
+  "dc": false
+ },
+ "Q58571": {
+  "b": 972,
+  "bc": false,
+  "d": 999,
+  "dc": false
+ },
+ "Q58573": {
+  "b": 1005,
+  "bc": false,
+  "d": 1047,
+  "dc": false
+ },
+ "Q588068": {
+  "b": 1050,
+  "bc": true,
+  "d": 1111,
+  "dc": false
+ },
+ "Q597625": {
+  "b": 1770,
+  "bc": false,
+  "d": 1859,
+  "dc": false
+ },
+ "Q60063": {
+  "b": 1000,
+  "bc": false,
+  "d": 1048,
+  "dc": false
+ },
+ "Q603627": {
+  "b": 1300,
+  "bc": true,
+  "d": 1363,
+  "dc": false
+ },
+ "Q603639": {
+  "b": 1301,
+  "bc": true,
+  "d": 1397,
+  "dc": false
+ },
+ "Q606457": {
+  "b": 1230,
+  "bc": false,
+  "d": 1310,
+  "dc": false
+ },
+ "Q6109517": {
+  "b": 1955,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q616117": {
+  "b": null,
+  "bc": false,
+  "d": 1072,
+  "dc": false
+ },
+ "Q620877": {
+  "b": 1160,
+  "bc": false,
+  "d": 1205,
+  "dc": false
+ },
+ "Q640689": {
+  "b": 1350,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q644403": {
+  "b": 834,
+  "bc": false,
+  "d": 917,
+  "dc": false
+ },
+ "Q651099": {
+  "b": 1544,
+  "bc": false,
+  "d": 1610,
+  "dc": false
+ },
+ "Q6517150": {
+  "b": 1350,
+  "bc": true,
+  "d": 1406,
+  "dc": false
+ },
+ "Q655212": {
+  "b": 1519,
+  "bc": false,
+  "d": 1583,
+  "dc": false
+ },
+ "Q657933": {
+  "b": 1700,
+  "bc": false,
+  "d": 1793,
+  "dc": false
+ },
+ "Q660426": {
+  "b": 1125,
+  "bc": false,
+  "d": 1190,
+  "dc": false
+ },
+ "Q662310": {
+  "b": 1730,
+  "bc": true,
+  "d": 1812,
+  "dc": false
+ },
+ "Q663059": {
+  "b": 650,
+  "bc": true,
+  "d": 731,
+  "dc": false
+ },
+ "Q665226": {
+  "b": 1582,
+  "bc": false,
+  "d": 1663,
+  "dc": false
+ },
+ "Q669419": {
+  "b": 370,
+  "bc": false,
+  "d": 425,
+  "dc": false
+ },
+ "Q671908": {
+  "b": 1350,
+  "bc": true,
+  "d": 1452,
+  "dc": false
+ },
+ "Q672779": {
+  "b": 1420,
+  "bc": false,
+  "d": 1500,
+  "dc": false
+ },
+ "Q676049": {
+  "b": 1630,
+  "bc": false,
+  "d": 1694,
+  "dc": false
+ },
+ "Q6770782": {
+  "b": 1101,
+  "bc": true,
+  "d": 1184,
+  "dc": false
+ },
+ "Q680725": {
+  "b": 1636,
+  "bc": false,
+  "d": 1715,
+  "dc": false
+ },
+ "Q68359": {
+  "b": 1886,
+  "bc": false,
+  "d": 1972,
+  "dc": false
+ },
+ "Q68482": {
+  "b": 1005,
+  "bc": false,
+  "d": 1059,
+  "dc": false
+ },
+ "Q704711": {
+  "b": 1200,
+  "bc": false,
+  "d": 1273,
+  "dc": false
+ },
+ "Q705191": {
+  "b": 1745,
+  "bc": false,
+  "d": 1821,
+  "dc": false
+ },
+ "Q709017": {
+  "b": 1310,
+  "bc": false,
+  "d": 1376,
+  "dc": false
+ },
+ "Q711332": {
+  "b": 1504,
+  "bc": false,
+  "d": 1575,
+  "dc": false
+ },
+ "Q714925": {
+  "b": 1562,
+  "bc": false,
+  "d": 1633,
+  "dc": false
+ },
+ "Q718025": {
+  "b": 1874,
+  "bc": false,
+  "d": 1935,
+  "dc": false
+ },
+ "Q719056": {
+  "b": 1350,
+  "bc": true,
+  "d": 1350,
+  "dc": false
+ },
+ "Q7330225": {
+  "b": 1150,
+  "bc": true,
+  "d": 1231,
+  "dc": false
+ },
+ "Q733325": {
+  "b": 1601,
+  "bc": true,
+  "d": 1756,
+  "dc": false
+ },
+ "Q7422628": {
+  "b": 1962,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q744064": {
+  "b": 1730,
+  "bc": false,
+  "d": 1805,
+  "dc": false
+ },
+ "Q744845": {
+  "b": 1450,
+  "bc": false,
+  "d": 1532,
+  "dc": false
+ },
+ "Q746662": {
+  "b": 1772,
+  "bc": false,
+  "d": 1845,
+  "dc": false
+ },
+ "Q749532": {
+  "b": 1597,
+  "bc": false,
+  "d": 1654,
+  "dc": false
+ },
+ "Q762948": {
+  "b": 1301,
+  "bc": true,
+  "d": 1397,
+  "dc": false
+ },
+ "Q762961": {
+  "b": 1350,
+  "bc": true,
+  "d": 1388,
+  "dc": false
+ },
+ "Q762979": {
+  "b": 1340,
+  "bc": true,
+  "d": 1416,
+  "dc": false
+ },
+ "Q762992": {
+  "b": null,
+  "bc": false,
+  "d": 1410,
+  "dc": false
+ },
+ "Q767960": {
+  "b": 1617,
+  "bc": false,
+  "d": 1693,
+  "dc": false
+ },
+ "Q783730": {
+  "b": 1201,
+  "bc": true,
+  "d": 1283,
+  "dc": false
+ },
+ "Q80028": {
+  "b": 100,
+  "bc": true,
+  "d": 116,
+  "dc": false
+ },
+ "Q80450": {
+  "b": 25,
+  "bc": false,
+  "d": 90,
+  "dc": true
+ },
+ "Q80516": {
+  "b": 1443,
+  "bc": false,
+  "d": 1513,
+  "dc": false
+ },
+ "Q80604": {
+  "b": null,
+  "bc": false,
+  "d": 142,
+  "dc": false
+ },
+ "Q80915": {
+  "b": 1342,
+  "bc": false,
+  "d": 1396,
+  "dc": false
+ },
+ "Q81634": {
+  "b": 42,
+  "bc": false,
+  "d": 126,
+  "dc": true
+ },
+ "Q81647": {
+  "b": null,
+  "bc": false,
+  "d": 130,
+  "dc": true
+ },
+ "Q83029": {
+  "b": 1502,
+  "bc": false,
+  "d": 1585,
+  "dc": false
+ },
+ "Q83159": {
+  "b": 1478,
+  "bc": false,
+  "d": 1534,
+  "dc": false
+ },
+ "Q83198": {
+  "b": 95,
+  "bc": true,
+  "d": 150,
+  "dc": true
+ },
+ "Q842313": {
+  "b": 1657,
+  "bc": false,
+  "d": 1737,
+  "dc": false
+ },
+ "Q844561": {
+  "b": 1766,
+  "bc": false,
+  "d": 1848,
+  "dc": false
+ },
+ "Q855223": {
+  "b": 1450,
+  "bc": true,
+  "d": 1476,
+  "dc": false
+ },
+ "Q860207": {
+  "b": 1420,
+  "bc": false,
+  "d": 1492,
+  "dc": false
+ },
+ "Q907404": {
+  "b": 1713,
+  "bc": false,
+  "d": 1783,
+  "dc": false
+ },
+ "Q907413": {
+  "b": 1693,
+  "bc": false,
+  "d": 1768,
+  "dc": false
+ },
+ "Q907436": {
+  "b": 1755,
+  "bc": false,
+  "d": 1828,
+  "dc": false
+ },
+ "Q908726": {
+  "b": 1693,
+  "bc": false,
+  "d": 1757,
+  "dc": false
+ },
+ "Q919288": {
+  "b": 1871,
+  "bc": false,
+  "d": 1935,
+  "dc": false
+ },
+ "Q924163": {
+  "b": 1317,
+  "bc": false,
+  "d": 1381,
+  "dc": false
+ },
+ "Q928668": {
+  "b": 300,
+  "bc": false,
+  "d": 370,
+  "dc": false
+ },
+ "Q929611": {
+  "b": 500,
+  "bc": true,
+  "d": 520,
+  "dc": false
+ },
+ "Q932684": {
+  "b": 701,
+  "bc": true,
+  "d": 832,
+  "dc": false
+ },
+ "Q937103": {
+  "b": null,
+  "bc": false,
+  "d": 784,
+  "dc": false
+ },
+ "Q948884": {
+  "b": 1650,
+  "bc": true,
+  "d": 1700,
+  "dc": false
+ },
+ "Q956579": {
+  "b": 701,
+  "bc": true,
+  "d": 860,
+  "dc": true
+ },
+ "Q957098": {
+  "b": null,
+  "bc": false,
+  "d": 994,
+  "dc": false
+ },
+ "Q965258": {
+  "b": 1536,
+  "bc": false,
+  "d": 1595,
+  "dc": false
+ },
+ "Q966141": {
+  "b": 875,
+  "bc": false,
+  "d": 958,
+  "dc": false
+ },
+ "Q968835": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q977917": {
+  "b": 900,
+  "bc": true,
+  "d": 970,
+  "dc": false
+ },
+ "Q980330": {
+  "b": 1601,
+  "bc": true,
+  "d": 1747,
+  "dc": false
+ },
+ "Q982488": {
+  "b": 250,
+  "bc": true,
+  "d": 337,
+  "dc": false
+ },
+ "Q989": {
+  "b": 1920,
+  "bc": false,
+  "d": 2005,
+  "dc": false
+ },
+ "Q10271866": {
+  "b": 750,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q10278139": {
+  "b": null,
+  "bc": false,
+  "d": 526,
+  "dc": false
+ },
+ "Q10311614": {
+  "b": 450,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q10312281": {
+  "b": null,
+  "bc": false,
+  "d": 966,
+  "dc": false
+ },
+ "Q10312283": {
+  "b": 650,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q10317803": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q10322868": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q10336807": {
+  "b": 950,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q10371645": {
+  "b": 1050,
+  "bc": true,
+  "d": 1106,
+  "dc": false
+ },
+ "Q10380261": {
+  "b": 701,
+  "bc": true,
+  "d": 807,
+  "dc": false
+ },
+ "Q10383149": {
+  "b": 750,
+  "bc": true,
+  "d": 821,
+  "dc": false
+ },
+ "Q1052757": {
+  "b": null,
+  "bc": false,
+  "d": 166,
+  "dc": false
+ },
+ "Q1064415": {
+  "b": 1873,
+  "bc": false,
+  "d": 1929,
+  "dc": false
+ },
+ "Q1106440": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1106450": {
+  "b": 1417,
+  "bc": false,
+  "d": 1459,
+  "dc": false
+ },
+ "Q1107091": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1107098": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1107399": {
+  "b": null,
+  "bc": false,
+  "d": 380,
+  "dc": false
+ },
+ "Q113827324": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q113827325": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q113827354": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1146609": {
+  "b": 1955,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q115638": {
+  "b": 1498,
+  "bc": false,
+  "d": 1526,
+  "dc": false
+ },
+ "Q11711204": {
+  "b": null,
+  "bc": false,
+  "d": 1517,
+  "dc": false
+ },
+ "Q1172723": {
+  "b": 701,
+  "bc": true,
+  "d": 790,
+  "dc": false
+ },
+ "Q117967": {
+  "b": 1350,
+  "bc": true,
+  "d": 1431,
+  "dc": false
+ },
+ "Q118004": {
+  "b": 1336,
+  "bc": false,
+  "d": 1406,
+  "dc": false
+ },
+ "Q118036": {
+  "b": 1390,
+  "bc": false,
+  "d": 1461,
+  "dc": false
+ },
+ "Q11823": {
+  "b": 1952,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q11832822": {
+  "b": 1880,
+  "bc": false,
+  "d": 1950,
+  "dc": false
+ },
+ "Q1227023": {
+  "b": 773,
+  "bc": false,
+  "d": 845,
+  "dc": false
+ },
+ "Q123034": {
+  "b": 1484,
+  "bc": false,
+  "d": 1531,
+  "dc": false
+ },
+ "Q123497036": {
+  "b": 1674,
+  "bc": false,
+  "d": 1745,
+  "dc": false
+ },
+ "Q123839": {
+  "b": 1504,
+  "bc": false,
+  "d": 1575,
+  "dc": false
+ },
+ "Q124060": {
+  "b": 1644,
+  "bc": false,
+  "d": 1730,
+  "dc": false
+ },
+ "Q125521501": {
+  "b": 1560,
+  "bc": false,
+  "d": 1627,
+  "dc": false
+ },
+ "Q1262913": {
+  "b": 650,
+  "bc": true,
+  "d": 700,
+  "dc": false
+ },
+ "Q1262921": {
+  "b": 650,
+  "bc": true,
+  "d": 729,
+  "dc": false
+ },
+ "Q1262930": {
+  "b": null,
+  "bc": false,
+  "d": 880,
+  "dc": false
+ },
+ "Q1262939": {
+  "b": null,
+  "bc": false,
+  "d": 767,
+  "dc": false
+ },
+ "Q1262946": {
+  "b": null,
+  "bc": false,
+  "d": 1003,
+  "dc": false
+ },
+ "Q1262956": {
+  "b": null,
+  "bc": false,
+  "d": 956,
+  "dc": false
+ },
+ "Q1262965": {
+  "b": 850,
+  "bc": true,
+  "d": 952,
+  "dc": false
+ },
+ "Q1262970": {
+  "b": null,
+  "bc": false,
+  "d": 907,
+  "dc": false
+ },
+ "Q1262977": {
+  "b": null,
+  "bc": false,
+  "d": 932,
+  "dc": false
+ },
+ "Q1262987": {
+  "b": 771,
+  "bc": false,
+  "d": 849,
+  "dc": false
+ },
+ "Q1262997": {
+  "b": 650,
+  "bc": true,
+  "d": 730,
+  "dc": false
+ },
+ "Q1263015": {
+  "b": 550,
+  "bc": true,
+  "d": 623,
+  "dc": false
+ },
+ "Q1263023": {
+  "b": 850,
+  "bc": true,
+  "d": 921,
+  "dc": false
+ },
+ "Q1263030": {
+  "b": null,
+  "bc": false,
+  "d": 692,
+  "dc": false
+ },
+ "Q1263045": {
+  "b": 750,
+  "bc": true,
+  "d": 830,
+  "dc": false
+ },
+ "Q1263618": {
+  "b": 350,
+  "bc": true,
+  "d": 384,
+  "dc": false
+ },
+ "Q1270439": {
+  "b": 500,
+  "bc": true,
+  "d": 477,
+  "dc": false
+ },
+ "Q1270447": {
+  "b": 500,
+  "bc": true,
+  "d": 516,
+  "dc": false
+ },
+ "Q1270610": {
+  "b": 450,
+  "bc": true,
+  "d": 535,
+  "dc": false
+ },
+ "Q1270703": {
+  "b": null,
+  "bc": false,
+  "d": 689,
+  "dc": false
+ },
+ "Q1270733": {
+  "b": 590,
+  "bc": false,
+  "d": 662,
+  "dc": false
+ },
+ "Q1271611": {
+  "b": 501,
+  "bc": true,
+  "d": 616,
+  "dc": false
+ },
+ "Q1276477": {
+  "b": 100,
+  "bc": true,
+  "d": 129,
+  "dc": false
+ },
+ "Q1278041": {
+  "b": null,
+  "bc": false,
+  "d": 775,
+  "dc": false
+ },
+ "Q1278056": {
+  "b": null,
+  "bc": false,
+  "d": 974,
+  "dc": false
+ },
+ "Q1278098": {
+  "b": 950,
+  "bc": true,
+  "d": 1032,
+  "dc": false
+ },
+ "Q1278106": {
+  "b": null,
+  "bc": false,
+  "d": 819,
+  "dc": false
+ },
+ "Q1278111": {
+  "b": null,
+  "bc": false,
+  "d": 858,
+  "dc": false
+ },
+ "Q1278118": {
+  "b": 250,
+  "bc": true,
+  "d": 282,
+  "dc": false
+ },
+ "Q1278123": {
+  "b": 100,
+  "bc": true,
+  "d": 152,
+  "dc": false
+ },
+ "Q1278128": {
+  "b": 750,
+  "bc": true,
+  "d": 799,
+  "dc": false
+ },
+ "Q1285426": {
+  "b": 100,
+  "bc": true,
+  "d": 118,
+  "dc": false
+ },
+ "Q1285685": {
+  "b": 1929,
+  "bc": false,
+  "d": 2016,
+  "dc": false
+ },
+ "Q12863889": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q12863890": {
+  "b": null,
+  "bc": false,
+  "d": 1676,
+  "dc": false
+ },
+ "Q12863995": {
+  "b": 1600,
+  "bc": true,
+  "d": 1642,
+  "dc": false
+ },
+ "Q12864582": {
+  "b": 1601,
+  "bc": true,
+  "d": 1700,
+  "dc": true
+ },
+ "Q12867576": {
+  "b": 1529,
+  "bc": false,
+  "d": 1591,
+  "dc": false
+ },
+ "Q129020": {
+  "b": 1126,
+  "bc": false,
+  "d": 1199,
+  "dc": false
+ },
+ "Q1291369": {
+  "b": 300,
+  "bc": true,
+  "d": 313,
+  "dc": false
+ },
+ "Q1292819": {
+  "b": null,
+  "bc": false,
+  "d": 978,
+  "dc": false
+ },
+ "Q1292824": {
+  "b": 200,
+  "bc": true,
+  "d": 188,
+  "dc": false
+ },
+ "Q1292833": {
+  "b": 450,
+  "bc": true,
+  "d": 517,
+  "dc": false
+ },
+ "Q1292836": {
+  "b": 450,
+  "bc": true,
+  "d": 505,
+  "dc": false
+ },
+ "Q1292845": {
+  "b": 569,
+  "bc": true,
+  "d": 605,
+  "dc": false
+ },
+ "Q1292882": {
+  "b": 450,
+  "bc": true,
+  "d": 496,
+  "dc": false
+ },
+ "Q129641": {
+  "b": 1782,
+  "bc": false,
+  "d": 1867,
+  "dc": false
+ },
+ "Q130159": {
+  "b": 1816,
+  "bc": false,
+  "d": 1882,
+  "dc": false
+ },
+ "Q131551960": {
+  "b": null,
+  "bc": false,
+  "d": 1871,
+  "dc": false
+ },
+ "Q131566620": {
+  "b": 1778,
+  "bc": false,
+  "d": 1847,
+  "dc": false
+ },
+ "Q131629469": {
+  "b": null,
+  "bc": false,
+  "d": 1836,
+  "dc": false
+ },
+ "Q131652540": {
+  "b": null,
+  "bc": false,
+  "d": 1823,
+  "dc": false
+ },
+ "Q131692353": {
+  "b": null,
+  "bc": false,
+  "d": 1817,
+  "dc": false
+ },
+ "Q131738283": {
+  "b": 1709,
+  "bc": false,
+  "d": 1781,
+  "dc": false
+ },
+ "Q131751031": {
+  "b": 1688,
+  "bc": false,
+  "d": 1768,
+  "dc": false
+ },
+ "Q131936262": {
+  "b": null,
+  "bc": false,
+  "d": 1686,
+  "dc": false
+ },
+ "Q132158346": {
+  "b": null,
+  "bc": false,
+  "d": 1661,
+  "dc": false
+ },
+ "Q132397169": {
+  "b": null,
+  "bc": false,
+  "d": 1597,
+  "dc": false
+ },
+ "Q132802370": {
+  "b": null,
+  "bc": false,
+  "d": 1591,
+  "dc": false
+ },
+ "Q133176425": {
+  "b": null,
+  "bc": false,
+  "d": 1557,
+  "dc": false
+ },
+ "Q133258448": {
+  "b": null,
+  "bc": false,
+  "d": 1660,
+  "dc": false
+ },
+ "Q133860747": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1347196": {
+  "b": 1550,
+  "bc": false,
+  "d": 1616,
+  "dc": false
+ },
+ "Q13472781": {
+  "b": 1677,
+  "bc": false,
+  "d": 1741,
+  "dc": false
+ },
+ "Q1368502": {
+  "b": 1887,
+  "bc": false,
+  "d": 1957,
+  "dc": false
+ },
+ "Q1372658": {
+  "b": 1865,
+  "bc": false,
+  "d": 1929,
+  "dc": false
+ },
+ "Q1378989": {
+  "b": 877,
+  "bc": false,
+  "d": 940,
+  "dc": false
+ },
+ "Q1381913": {
+  "b": 285,
+  "bc": false,
+  "d": 342,
+  "dc": false
+ },
+ "Q138245670": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q138297514": {
+  "b": null,
+  "bc": false,
+  "d": 1917,
+  "dc": false
+ },
+ "Q138843122": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1391696": {
+  "b": 1875,
+  "bc": false,
+  "d": 1956,
+  "dc": false
+ },
+ "Q1391741": {
+  "b": 1824,
+  "bc": false,
+  "d": 1927,
+  "dc": false
+ },
+ "Q140288809": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q140322723": {
+  "b": null,
+  "bc": false,
+  "d": 976,
+  "dc": false
+ },
+ "Q140360707": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q140361320": {
+  "b": null,
+  "bc": false,
+  "d": 959,
+  "dc": false
+ },
+ "Q140361604": {
+  "b": null,
+  "bc": false,
+  "d": 997,
+  "dc": false
+ },
+ "Q140362987": {
+  "b": null,
+  "bc": false,
+  "d": 1021,
+  "dc": false
+ },
+ "Q140379973": {
+  "b": null,
+  "bc": false,
+  "d": 1030,
+  "dc": false
+ },
+ "Q140685167": {
+  "b": null,
+  "bc": false,
+  "d": 1033,
+  "dc": false
+ },
+ "Q140685182": {
+  "b": null,
+  "bc": false,
+  "d": 934,
+  "dc": false
+ },
+ "Q145140": {
+  "b": 1745,
+  "bc": false,
+  "d": 1816,
+  "dc": false
+ },
+ "Q14623312": {
+  "b": null,
+  "bc": false,
+  "d": 1553,
+  "dc": false
+ },
+ "Q14624959": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q15053553": {
+  "b": 840,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q151040": {
+  "b": 1929,
+  "bc": false,
+  "d": 2008,
+  "dc": false
+ },
+ "Q15441875": {
+  "b": 1890,
+  "bc": false,
+  "d": 1980,
+  "dc": false
+ },
+ "Q1558626": {
+  "b": 750,
+  "bc": true,
+  "d": 830,
+  "dc": false
+ },
+ "Q1568380": {
+  "b": 1828,
+  "bc": false,
+  "d": 1910,
+  "dc": false
+ },
+ "Q16027600": {
+  "b": null,
+  "bc": false,
+  "d": 740,
+  "dc": false
+ },
+ "Q16027625": {
+  "b": 601,
+  "bc": true,
+  "d": 681,
+  "dc": false
+ },
+ "Q16027629": {
+  "b": null,
+  "bc": false,
+  "d": 660,
+  "dc": true
+ },
+ "Q16146468": {
+  "b": 1250,
+  "bc": true,
+  "d": 1316,
+  "dc": false
+ },
+ "Q16197319": {
+  "b": 901,
+  "bc": true,
+  "d": 1002,
+  "dc": false
+ },
+ "Q16199799": {
+  "b": null,
+  "bc": false,
+  "d": 1454,
+  "dc": false
+ },
+ "Q16199995": {
+  "b": null,
+  "bc": false,
+  "d": 873,
+  "dc": false
+ },
+ "Q16206321": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q16206629": {
+  "b": null,
+  "bc": false,
+  "d": 754,
+  "dc": false
+ },
+ "Q16208261": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q16325243": {
+  "b": 1101,
+  "bc": true,
+  "d": 1244,
+  "dc": false
+ },
+ "Q16368487": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q16370042": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q16370611": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q16372564": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1652189": {
+  "b": null,
+  "bc": false,
+  "d": 1473,
+  "dc": false
+ },
+ "Q1652391": {
+  "b": 1550,
+  "bc": true,
+  "d": 1570,
+  "dc": false
+ },
+ "Q1652415": {
+  "b": 1350,
+  "bc": true,
+  "d": 1475,
+  "dc": false
+ },
+ "Q1652445": {
+  "b": 1260,
+  "bc": false,
+  "d": 1326,
+  "dc": false
+ },
+ "Q1652466": {
+  "b": 1304,
+  "bc": false,
+  "d": 1389,
+  "dc": false
+ },
+ "Q1652629": {
+  "b": 1525,
+  "bc": false,
+  "d": 1607,
+  "dc": false
+ },
+ "Q1652641": {
+  "b": 1591,
+  "bc": false,
+  "d": 1672,
+  "dc": false
+ },
+ "Q1652650": {
+  "b": 1621,
+  "bc": false,
+  "d": 1690,
+  "dc": false
+ },
+ "Q1652662": {
+  "b": 1638,
+  "bc": false,
+  "d": 1700,
+  "dc": false
+ },
+ "Q1652673": {
+  "b": 1650,
+  "bc": true,
+  "d": 1673,
+  "dc": false
+ },
+ "Q16628453": {
+  "b": 801,
+  "bc": true,
+  "d": 909,
+  "dc": false
+ },
+ "Q16643122": {
+  "b": null,
+  "bc": false,
+  "d": 883,
+  "dc": false
+ },
+ "Q16680024": {
+  "b": 900,
+  "bc": true,
+  "d": 896,
+  "dc": false
+ },
+ "Q16681056": {
+  "b": 1809,
+  "bc": false,
+  "d": 1887,
+  "dc": false
+ },
+ "Q1678303": {
+  "b": 1766,
+  "bc": false,
+  "d": 1843,
+  "dc": false
+ },
+ "Q1699958": {
+  "b": 1910,
+  "bc": false,
+  "d": 1997,
+  "dc": false
+ },
+ "Q1700996": {
+  "b": 1921,
+  "bc": false,
+  "d": 1998,
+  "dc": false
+ },
+ "Q172480": {
+  "b": 348,
+  "bc": false,
+  "d": 439,
+  "dc": false
+ },
+ "Q173893": {
+  "b": 1330,
+  "bc": false,
+  "d": 1384,
+  "dc": false
+ },
+ "Q17478974": {
+  "b": 1001,
+  "bc": true,
+  "d": 1129,
+  "dc": false
+ },
+ "Q17479234": {
+  "b": 1201,
+  "bc": true,
+  "d": 1263,
+  "dc": false
+ },
+ "Q17479600": {
+  "b": 1101,
+  "bc": true,
+  "d": 1220,
+  "dc": false
+ },
+ "Q18206109": {
+  "b": 1648,
+  "bc": false,
+  "d": 1708,
+  "dc": false
+ },
+ "Q1846417": {
+  "b": 1919,
+  "bc": false,
+  "d": 1996,
+  "dc": false
+ },
+ "Q189937": {
+  "b": 1514,
+  "bc": false,
+  "d": 1572,
+  "dc": false
+ },
+ "Q1941165": {
+  "b": 1820,
+  "bc": false,
+  "d": 1907,
+  "dc": false
+ },
+ "Q1960469": {
+  "b": 1450,
+  "bc": true,
+  "d": 1555,
+  "dc": false
+ },
+ "Q1960479": {
+  "b": 1492,
+  "bc": false,
+  "d": 1572,
+  "dc": false
+ },
+ "Q1965121": {
+  "b": 1492,
+  "bc": false,
+  "d": 1547,
+  "dc": false
+ },
+ "Q1966101": {
+  "b": 1862,
+  "bc": false,
+  "d": 1937,
+  "dc": false
+ },
+ "Q19661070": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q1973334": {
+  "b": 1441,
+  "bc": false,
+  "d": 1533,
+  "dc": false
+ },
+ "Q1983644": {
+  "b": 1835,
+  "bc": false,
+  "d": 1926,
+  "dc": false
+ },
+ "Q1986389": {
+  "b": 1708,
+  "bc": false,
+  "d": 1771,
+  "dc": false
+ },
+ "Q1988593": {
+  "b": null,
+  "bc": false,
+  "d": 1166,
+  "dc": false
+ },
+ "Q1989601": {
+  "b": null,
+  "bc": false,
+  "d": 1189,
+  "dc": false
+ },
+ "Q2003169": {
+  "b": null,
+  "bc": false,
+  "d": 1656,
+  "dc": false
+ },
+ "Q2026798": {
+  "b": 1903,
+  "bc": false,
+  "d": 1977,
+  "dc": false
+ },
+ "Q2033352": {
+  "b": 1550,
+  "bc": false,
+  "d": 1633,
+  "dc": false
+ },
+ "Q2036240": {
+  "b": 1501,
+  "bc": false,
+  "d": 1581,
+  "dc": false
+ },
+ "Q2036276": {
+  "b": 1505,
+  "bc": true,
+  "d": 1591,
+  "dc": false
+ },
+ "Q204000": {
+  "b": 1937,
+  "bc": false,
+  "d": 2023,
+  "dc": false
+ },
+ "Q20571305": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q2060897": {
+  "b": 1140,
+  "bc": false,
+  "d": 1190,
+  "dc": true
+ },
+ "Q2078566": {
+  "b": 1861,
+  "bc": false,
+  "d": 1921,
+  "dc": false
+ },
+ "Q2082816": {
+  "b": null,
+  "bc": false,
+  "d": 628,
+  "dc": false
+ },
+ "Q2083489": {
+  "b": 1750,
+  "bc": true,
+  "d": 1845,
+  "dc": false
+ },
+ "Q2084801": {
+  "b": 1750,
+  "bc": true,
+  "d": 1858,
+  "dc": false
+ },
+ "Q2087780": {
+  "b": 1650,
+  "bc": true,
+  "d": 1725,
+  "dc": false
+ },
+ "Q2117439": {
+  "b": 1001,
+  "bc": true,
+  "d": 1072,
+  "dc": false
+ },
+ "Q213393": {
+  "b": 1703,
+  "bc": false,
+  "d": 1791,
+  "dc": false
+ },
+ "Q213550": {
+  "b": 1918,
+  "bc": false,
+  "d": 2018,
+  "dc": false
+ },
+ "Q2263654": {
+  "b": 1507,
+  "bc": false,
+  "d": 1569,
+  "dc": false
+ },
+ "Q2272032": {
+  "b": 1505,
+  "bc": false,
+  "d": 1567,
+  "dc": false
+ },
+ "Q2294969": {
+  "b": 550,
+  "bc": true,
+  "d": 593,
+  "dc": false
+ },
+ "Q23063339": {
+  "b": null,
+  "bc": false,
+  "d": 1054,
+  "dc": false
+ },
+ "Q2319866": {
+  "b": 701,
+  "bc": true,
+  "d": 836,
+  "dc": false
+ },
+ "Q2335746": {
+  "b": 901,
+  "bc": true,
+  "d": 901,
+  "dc": true
+ },
+ "Q2350225": {
+  "b": 1896,
+  "bc": false,
+  "d": 1972,
+  "dc": false
+ },
+ "Q2350252": {
+  "b": 1872,
+  "bc": false,
+  "d": 1960,
+  "dc": false
+ },
+ "Q2353750": {
+  "b": 1873,
+  "bc": false,
+  "d": 1932,
+  "dc": false
+ },
+ "Q2358257": {
+  "b": 501,
+  "bc": true,
+  "d": 608,
+  "dc": false
+ },
+ "Q2361490": {
+  "b": 1500,
+  "bc": true,
+  "d": 1494,
+  "dc": false
+ },
+ "Q2362266": {
+  "b": 1868,
+  "bc": false,
+  "d": 1954,
+  "dc": false
+ },
+ "Q2362985": {
+  "b": 1770,
+  "bc": false,
+  "d": 1857,
+  "dc": false
+ },
+ "Q2363685": {
+  "b": 845,
+  "bc": true,
+  "d": 925,
+  "dc": false
+ },
+ "Q2401968": {
+  "b": 1866,
+  "bc": false,
+  "d": 1952,
+  "dc": false
+ },
+ "Q2404047": {
+  "b": null,
+  "bc": false,
+  "d": 1729,
+  "dc": false
+ },
+ "Q2415220": {
+  "b": 1750,
+  "bc": true,
+  "d": 1770,
+  "dc": false
+ },
+ "Q2428570": {
+  "b": 450,
+  "bc": true,
+  "d": 567,
+  "dc": false
+ },
+ "Q2477904": {
+  "b": null,
+  "bc": false,
+  "d": 501,
+  "dc": true
+ },
+ "Q2482350": {
+  "b": 1647,
+  "bc": false,
+  "d": 1672,
+  "dc": false
+ },
+ "Q25098": {
+  "b": 650,
+  "bc": true,
+  "d": 742,
+  "dc": false
+ },
+ "Q251060": {
+  "b": 310,
+  "bc": false,
+  "d": 380,
+  "dc": false
+ },
+ "Q2528423": {
+  "b": null,
+  "bc": false,
+  "d": 642,
+  "dc": false
+ },
+ "Q2553680": {
+  "b": 1001,
+  "bc": true,
+  "d": 1101,
+  "dc": true
+ },
+ "Q2561426": {
+  "b": 1855,
+  "bc": false,
+  "d": 1918,
+  "dc": false
+ },
+ "Q2563064": {
+  "b": 1915,
+  "bc": false,
+  "d": 1986,
+  "dc": false
+ },
+ "Q2563092": {
+  "b": 1800,
+  "bc": false,
+  "d": 1869,
+  "dc": false
+ },
+ "Q2563103": {
+  "b": 1876,
+  "bc": false,
+  "d": 1967,
+  "dc": false
+ },
+ "Q2563119": {
+  "b": 1803,
+  "bc": false,
+  "d": 1865,
+  "dc": false
+ },
+ "Q2563141": {
+  "b": 1890,
+  "bc": false,
+  "d": 1944,
+  "dc": false
+ },
+ "Q2567590": {
+  "b": 1760,
+  "bc": false,
+  "d": 1831,
+  "dc": false
+ },
+ "Q2569335": {
+  "b": 1589,
+  "bc": false,
+  "d": 1639,
+  "dc": false
+ },
+ "Q2596398": {
+  "b": 401,
+  "bc": true,
+  "d": 545,
+  "dc": false
+ },
+ "Q2602591": {
+  "b": null,
+  "bc": false,
+  "d": 1077,
+  "dc": false
+ },
+ "Q2616999": {
+  "b": 1873,
+  "bc": false,
+  "d": 1938,
+  "dc": false
+ },
+ "Q2622516": {
+  "b": 1482,
+  "bc": false,
+  "d": 1563,
+  "dc": false
+ },
+ "Q26235750": {
+  "b": 1451,
+  "bc": false,
+  "d": 1509,
+  "dc": false
+ },
+ "Q2624036": {
+  "b": 1540,
+  "bc": false,
+  "d": 1620,
+  "dc": false
+ },
+ "Q263272": {
+  "b": 1954,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q2653133": {
+  "b": 1658,
+  "bc": false,
+  "d": 1722,
+  "dc": false
+ },
+ "Q2667980": {
+  "b": 1876,
+  "bc": false,
+  "d": 1939,
+  "dc": false
+ },
+ "Q2668231": {
+  "b": 1853,
+  "bc": false,
+  "d": 1925,
+  "dc": false
+ },
+ "Q2668276": {
+  "b": 1800,
+  "bc": false,
+  "d": 1889,
+  "dc": false
+ },
+ "Q2669642": {
+  "b": 1775,
+  "bc": false,
+  "d": 1858,
+  "dc": false
+ },
+ "Q267983": {
+  "b": null,
+  "bc": false,
+  "d": 576,
+  "dc": false
+ },
+ "Q2696619": {
+  "b": 634,
+  "bc": false,
+  "d": 686,
+  "dc": false
+ },
+ "Q270978": {
+  "b": 1951,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q2710720": {
+  "b": 1892,
+  "bc": false,
+  "d": 1980,
+  "dc": false
+ },
+ "Q2716099": {
+  "b": 850,
+  "bc": true,
+  "d": 876,
+  "dc": false
+ },
+ "Q278825": {
+  "b": 1834,
+  "bc": false,
+  "d": 1892,
+  "dc": false
+ },
+ "Q2820221": {
+  "b": 1348,
+  "bc": false,
+  "d": 1388,
+  "dc": false
+ },
+ "Q2821773": {
+  "b": 1891,
+  "bc": false,
+  "d": 1970,
+  "dc": false
+ },
+ "Q2821835": {
+  "b": 1677,
+  "bc": false,
+  "d": 1734,
+  "dc": false
+ },
+ "Q2821885": {
+  "b": 1650,
+  "bc": true,
+  "d": 1787,
+  "dc": false
+ },
+ "Q2833755": {
+  "b": 1650,
+  "bc": true,
+  "d": 1714,
+  "dc": false
+ },
+ "Q2853095": {
+  "b": 1717,
+  "bc": false,
+  "d": 1808,
+  "dc": false
+ },
+ "Q2858442": {
+  "b": null,
+  "bc": false,
+  "d": 569,
+  "dc": false
+ },
+ "Q2866890": {
+  "b": null,
+  "bc": false,
+  "d": 386,
+  "dc": false
+ },
+ "Q2868987": {
+  "b": 501,
+  "bc": true,
+  "d": 631,
+  "dc": false
+ },
+ "Q2868996": {
+  "b": 1754,
+  "bc": false,
+  "d": 1844,
+  "dc": false
+ },
+ "Q2896173": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q29043081": {
+  "b": 1001,
+  "bc": true,
+  "d": 1137,
+  "dc": false
+ },
+ "Q29049399": {
+  "b": null,
+  "bc": false,
+  "d": 1166,
+  "dc": false
+ },
+ "Q29097265": {
+  "b": 944,
+  "bc": false,
+  "d": 1033,
+  "dc": false
+ },
+ "Q29167168": {
+  "b": 701,
+  "bc": true,
+  "d": 792,
+  "dc": false
+ },
+ "Q2966041": {
+  "b": 850,
+  "bc": true,
+  "d": 932,
+  "dc": false
+ },
+ "Q2967331": {
+  "b": 1655,
+  "bc": false,
+  "d": 1731,
+  "dc": false
+ },
+ "Q2994254": {
+  "b": 1848,
+  "bc": false,
+  "d": 1918,
+  "dc": false
+ },
+ "Q3008951": {
+  "b": 750,
+  "bc": true,
+  "d": 817,
+  "dc": false
+ },
+ "Q3009146": {
+  "b": 1792,
+  "bc": false,
+  "d": 1877,
+  "dc": false
+ },
+ "Q3012788": {
+  "b": 1848,
+  "bc": false,
+  "d": 1931,
+  "dc": false
+ },
+ "Q3014192": {
+  "b": 1750,
+  "bc": true,
+  "d": 1793,
+  "dc": false
+ },
+ "Q3018117": {
+  "b": 780,
+  "bc": true,
+  "d": 833,
+  "dc": false
+ },
+ "Q3018127": {
+  "b": null,
+  "bc": false,
+  "d": 741,
+  "dc": false
+ },
+ "Q301820": {
+  "b": 1450,
+  "bc": true,
+  "d": 1512,
+  "dc": false
+ },
+ "Q3024024": {
+  "b": 1602,
+  "bc": false,
+  "d": 1676,
+  "dc": false
+ },
+ "Q3025806": {
+  "b": null,
+  "bc": false,
+  "d": 764,
+  "dc": false
+ },
+ "Q3025825": {
+  "b": null,
+  "bc": false,
+  "d": 1751,
+  "dc": false
+ },
+ "Q3028419": {
+  "b": 1050,
+  "bc": true,
+  "d": 1128,
+  "dc": false
+ },
+ "Q303354": {
+  "b": 1350,
+  "bc": true,
+  "d": 1353,
+  "dc": false
+ },
+ "Q3056858": {
+  "b": 1847,
+  "bc": false,
+  "d": 1930,
+  "dc": false
+ },
+ "Q3056875": {
+  "b": 1845,
+  "bc": false,
+  "d": 1910,
+  "dc": false
+ },
+ "Q3057500": {
+  "b": 537,
+  "bc": false,
+  "d": 634,
+  "dc": false
+ },
+ "Q3061138": {
+  "b": 1750,
+  "bc": true,
+  "d": 1813,
+  "dc": false
+ },
+ "Q3064191": {
+  "b": null,
+  "bc": false,
+  "d": 992,
+  "dc": false
+ },
+ "Q3068735": {
+  "b": 550,
+  "bc": true,
+  "d": 632,
+  "dc": false
+ },
+ "Q3088991": {
+  "b": 1833,
+  "bc": false,
+  "d": 1915,
+  "dc": false
+ },
+ "Q309882": {
+  "b": 1829,
+  "bc": false,
+  "d": 1912,
+  "dc": false
+ },
+ "Q309953": {
+  "b": 239,
+  "bc": false,
+  "d": 329,
+  "dc": false
+ },
+ "Q3102911": {
+  "b": null,
+  "bc": false,
+  "d": 897,
+  "dc": false
+ },
+ "Q310439": {
+  "b": 1624,
+  "bc": false,
+  "d": 1691,
+  "dc": false
+ },
+ "Q3124443": {
+  "b": 1839,
+  "bc": false,
+  "d": 1897,
+  "dc": false
+ },
+ "Q3124446": {
+  "b": 1750,
+  "bc": true,
+  "d": 1788,
+  "dc": false
+ },
+ "Q312948": {
+  "b": 1761,
+  "bc": false,
+  "d": 1834,
+  "dc": false
+ },
+ "Q313070": {
+  "b": 1560,
+  "bc": false,
+  "d": 1609,
+  "dc": false
+ },
+ "Q3138765": {
+  "b": 1800,
+  "bc": false,
+  "d": 1885,
+  "dc": false
+ },
+ "Q3141043": {
+  "b": 1743,
+  "bc": false,
+  "d": 1801,
+  "dc": false
+ },
+ "Q3141378": {
+  "b": null,
+  "bc": false,
+  "d": 377,
+  "dc": false
+ },
+ "Q3141447": {
+  "b": null,
+  "bc": false,
+  "d": 855,
+  "dc": false
+ },
+ "Q3141753": {
+  "b": 1913,
+  "bc": false,
+  "d": 1980,
+  "dc": false
+ },
+ "Q3143043": {
+  "b": 1867,
+  "bc": false,
+  "d": 1932,
+  "dc": false
+ },
+ "Q314399": {
+  "b": 1714,
+  "bc": false,
+  "d": 1770,
+  "dc": false
+ },
+ "Q3148158": {
+  "b": 1854,
+  "bc": false,
+  "d": 1915,
+  "dc": false
+ },
+ "Q3148183": {
+  "b": 1798,
+  "bc": false,
+  "d": 1894,
+  "dc": false
+ },
+ "Q314981": {
+  "b": 1519,
+  "bc": false,
+  "d": 1605,
+  "dc": false
+ },
+ "Q3172633": {
+  "b": 600,
+  "bc": false,
+  "d": 648,
+  "dc": false
+ },
+ "Q3172722": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q318622": {
+  "b": 1491,
+  "bc": false,
+  "d": 1551,
+  "dc": false
+ },
+ "Q3190689": {
+  "b": 1818,
+  "bc": false,
+  "d": 1882,
+  "dc": false
+ },
+ "Q31966": {
+  "b": 12,
+  "bc": false,
+  "d": 68,
+  "dc": false
+ },
+ "Q3265053": {
+  "b": 1722,
+  "bc": false,
+  "d": 1799,
+  "dc": false
+ },
+ "Q327006": {
+  "b": 1729,
+  "bc": false,
+  "d": 1796,
+  "dc": false
+ },
+ "Q3274526": {
+  "b": 833,
+  "bc": false,
+  "d": 898,
+  "dc": false
+ },
+ "Q328736": {
+  "b": 190,
+  "bc": false,
+  "d": 264,
+  "dc": false
+ },
+ "Q3298649": {
+  "b": 450,
+  "bc": true,
+  "d": 518,
+  "dc": false
+ },
+ "Q330897": {
+  "b": 1700,
+  "bc": true,
+  "d": 1737,
+  "dc": false
+ },
+ "Q3309949": {
+  "b": 1050,
+  "bc": true,
+  "d": 1102,
+  "dc": false
+ },
+ "Q3327076": {
+  "b": null,
+  "bc": false,
+  "d": 1632,
+  "dc": false
+ },
+ "Q3331311": {
+  "b": 1050,
+  "bc": true,
+  "d": 1092,
+  "dc": false
+ },
+ "Q3333003": {
+  "b": 1839,
+  "bc": false,
+  "d": 1906,
+  "dc": false
+ },
+ "Q3333009": {
+  "b": 1650,
+  "bc": true,
+  "d": 1737,
+  "dc": false
+ },
+ "Q3333338": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q3333542": {
+  "b": 1771,
+  "bc": false,
+  "d": 1850,
+  "dc": false
+ },
+ "Q3335133": {
+  "b": 1705,
+  "bc": false,
+  "d": 1705,
+  "dc": false
+ },
+ "Q335171": {
+  "b": 1496,
+  "bc": false,
+  "d": 1561,
+  "dc": false
+ },
+ "Q335711": {
+  "b": 1900,
+  "bc": true,
+  "d": 1867,
+  "dc": false
+ },
+ "Q336158": {
+  "b": 900,
+  "bc": false,
+  "d": 965,
+  "dc": false
+ },
+ "Q3366127": {
+  "b": 1690,
+  "bc": true,
+  "d": 1770,
+  "dc": false
+ },
+ "Q3366130": {
+  "b": 1735,
+  "bc": false,
+  "d": 1805,
+  "dc": false
+ },
+ "Q3376344": {
+  "b": 1938,
+  "bc": false,
+  "d": 2022,
+  "dc": false
+ },
+ "Q3378573": {
+  "b": 400,
+  "bc": true,
+  "d": 352,
+  "dc": false
+ },
+ "Q3381292": {
+  "b": null,
+  "bc": false,
+  "d": 1767,
+  "dc": false
+ },
+ "Q3381339": {
+  "b": 1910,
+  "bc": false,
+  "d": 1979,
+  "dc": false
+ },
+ "Q3385498": {
+  "b": 501,
+  "bc": true,
+  "d": 591,
+  "dc": false
+ },
+ "Q3387213": {
+  "b": 1750,
+  "bc": true,
+  "d": 1852,
+  "dc": false
+ },
+ "Q3387570": {
+  "b": null,
+  "bc": false,
+  "d": 552,
+  "dc": false
+ },
+ "Q3391074": {
+  "b": 1914,
+  "bc": false,
+  "d": 1979,
+  "dc": false
+ },
+ "Q3395496": {
+  "b": 1750,
+  "bc": true,
+  "d": 1827,
+  "dc": false
+ },
+ "Q340010": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q3400613": {
+  "b": 1200,
+  "bc": true,
+  "d": 1190,
+  "dc": false
+ },
+ "Q3406445": {
+  "b": 1790,
+  "bc": false,
+  "d": 1880,
+  "dc": false
+ },
+ "Q3406448": {
+  "b": null,
+  "bc": false,
+  "d": 1788,
+  "dc": false
+ },
+ "Q3461481": {
+  "b": null,
+  "bc": false,
+  "d": 703,
+  "dc": false
+ },
+ "Q3471212": {
+  "b": 1742,
+  "bc": false,
+  "d": 1815,
+  "dc": false
+ },
+ "Q3479357": {
+  "b": null,
+  "bc": false,
+  "d": 1474,
+  "dc": false
+ },
+ "Q3479584": {
+  "b": null,
+  "bc": false,
+  "d": 547,
+  "dc": false
+ },
+ "Q3484833": {
+  "b": 1710,
+  "bc": false,
+  "d": 1780,
+  "dc": false
+ },
+ "Q348899": {
+  "b": 1681,
+  "bc": false,
+  "d": 1736,
+  "dc": false
+ },
+ "Q349070": {
+  "b": 1707,
+  "bc": false,
+  "d": 1788,
+  "dc": false
+ },
+ "Q3494318": {
+  "b": 1838,
+  "bc": false,
+  "d": 1921,
+  "dc": false
+ },
+ "Q3507189": {
+  "b": 1680,
+  "bc": false,
+  "d": 1766,
+  "dc": false
+ },
+ "Q3511109": {
+  "b": 1750,
+  "bc": true,
+  "d": 1823,
+  "dc": false
+ },
+ "Q3526554": {
+  "b": 1889,
+  "bc": false,
+  "d": 1970,
+  "dc": false
+ },
+ "Q3556566": {
+  "b": 1560,
+  "bc": false,
+  "d": 1636,
+  "dc": false
+ },
+ "Q3560087": {
+  "b": 550,
+  "bc": true,
+  "d": 609,
+  "dc": false
+ },
+ "Q3562444": {
+  "b": 1700,
+  "bc": false,
+  "d": 1775,
+  "dc": false
+ },
+ "Q3562548": {
+  "b": 1723,
+  "bc": false,
+  "d": 1783,
+  "dc": false
+ },
+ "Q3563876": {
+  "b": null,
+  "bc": false,
+  "d": 1645,
+  "dc": false
+ },
+ "Q3569025": {
+  "b": 1748,
+  "bc": false,
+  "d": 1836,
+  "dc": false
+ },
+ "Q3572083": {
+  "b": null,
+  "bc": false,
+  "d": 946,
+  "dc": false
+ },
+ "Q3574923": {
+  "b": 400,
+  "bc": true,
+  "d": 381,
+  "dc": false
+ },
+ "Q3592383": {
+  "b": null,
+  "bc": false,
+  "d": 1567,
+  "dc": false
+ },
+ "Q3652858": {
+  "b": 1762,
+  "bc": false,
+  "d": 1827,
+  "dc": false
+ },
+ "Q3655441": {
+  "b": 1633,
+  "bc": false,
+  "d": 1714,
+  "dc": false
+ },
+ "Q3655768": {
+  "b": 1917,
+  "bc": false,
+  "d": 1988,
+  "dc": false
+ },
+ "Q365927": {
+  "b": 300,
+  "bc": true,
+  "d": 311,
+  "dc": false
+ },
+ "Q365941": {
+  "b": null,
+  "bc": false,
+  "d": 412,
+  "dc": false
+ },
+ "Q372668": {
+  "b": 550,
+  "bc": true,
+  "d": 619,
+  "dc": true
+ },
+ "Q374728": {
+  "b": 1952,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q37577": {
+  "b": 1509,
+  "bc": false,
+  "d": 1564,
+  "dc": false
+ },
+ "Q376460": {
+  "b": null,
+  "bc": false,
+  "d": 1058,
+  "dc": false
+ },
+ "Q3785003": {
+  "b": 1874,
+  "bc": false,
+  "d": 1959,
+  "dc": false
+ },
+ "Q3785352": {
+  "b": 1969,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q379587": {
+  "b": 1605,
+  "bc": false,
+  "d": 1681,
+  "dc": false
+ },
+ "Q380422": {
+  "b": 1920,
+  "bc": false,
+  "d": 2012,
+  "dc": false
+ },
+ "Q381094": {
+  "b": 1800,
+  "bc": false,
+  "d": 1870,
+  "dc": false
+ },
+ "Q382012": {
+  "b": 100,
+  "bc": true,
+  "d": 82,
+  "dc": false
+ },
+ "Q3846200": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q391378": {
+  "b": 700,
+  "bc": true,
+  "d": 680,
+  "dc": false
+ },
+ "Q397161": {
+  "b": null,
+  "bc": false,
+  "d": 178,
+  "dc": false
+ },
+ "Q4115729": {
+  "b": null,
+  "bc": false,
+  "d": 1363,
+  "dc": false
+ },
+ "Q4115730": {
+  "b": null,
+  "bc": false,
+  "d": 1474,
+  "dc": false
+ },
+ "Q4115733": {
+  "b": 1450,
+  "bc": true,
+  "d": 1571,
+  "dc": false
+ },
+ "Q4115736": {
+  "b": null,
+  "bc": false,
+  "d": 1348,
+  "dc": false
+ },
+ "Q4115741": {
+  "b": null,
+  "bc": false,
+  "d": 1339,
+  "dc": false
+ },
+ "Q4117065": {
+  "b": null,
+  "bc": false,
+  "d": 1261,
+  "dc": false
+ },
+ "Q4117907": {
+  "b": 1350,
+  "bc": true,
+  "d": 1427,
+  "dc": false
+ },
+ "Q4117917": {
+  "b": 1599,
+  "bc": false,
+  "d": 1675,
+  "dc": false
+ },
+ "Q4117919": {
+  "b": null,
+  "bc": false,
+  "d": 1629,
+  "dc": false
+ },
+ "Q4117923": {
+  "b": null,
+  "bc": false,
+  "d": 1378,
+  "dc": false
+ },
+ "Q4117926": {
+  "b": null,
+  "bc": false,
+  "d": 1465,
+  "dc": false
+ },
+ "Q4117944": {
+  "b": null,
+  "bc": false,
+  "d": 1408,
+  "dc": false
+ },
+ "Q4118000": {
+  "b": 1600,
+  "bc": true,
+  "d": 1619,
+  "dc": false
+ },
+ "Q4118004": {
+  "b": null,
+  "bc": false,
+  "d": 1452,
+  "dc": false
+ },
+ "Q4118008": {
+  "b": null,
+  "bc": false,
+  "d": 1320,
+  "dc": false
+ },
+ "Q4118017": {
+  "b": null,
+  "bc": false,
+  "d": 1327,
+  "dc": false
+ },
+ "Q4118024": {
+  "b": null,
+  "bc": false,
+  "d": 1271,
+  "dc": false
+ },
+ "Q4118031": {
+  "b": null,
+  "bc": false,
+  "d": 1293,
+  "dc": false
+ },
+ "Q4118033": {
+  "b": null,
+  "bc": false,
+  "d": 1603,
+  "dc": false
+ },
+ "Q4118036": {
+  "b": null,
+  "bc": false,
+  "d": 1586,
+  "dc": false
+ },
+ "Q4120137": {
+  "b": 1680,
+  "bc": false,
+  "d": 1726,
+  "dc": false
+ },
+ "Q4120216": {
+  "b": null,
+  "bc": false,
+  "d": 1369,
+  "dc": false
+ },
+ "Q4120233": {
+  "b": null,
+  "bc": false,
+  "d": 1484,
+  "dc": false
+ },
+ "Q4120239": {
+  "b": 1235,
+  "bc": false,
+  "d": 1243,
+  "dc": false
+ },
+ "Q4120243": {
+  "b": null,
+  "bc": false,
+  "d": 1524,
+  "dc": false
+ },
+ "Q4120274": {
+  "b": 1630,
+  "bc": true,
+  "d": 1718,
+  "dc": false
+ },
+ "Q4120276": {
+  "b": null,
+  "bc": false,
+  "d": 1216,
+  "dc": false
+ },
+ "Q4120349": {
+  "b": 1650,
+  "bc": true,
+  "d": 1745,
+  "dc": false
+ },
+ "Q4120357": {
+  "b": 1800,
+  "bc": true,
+  "d": 1796,
+  "dc": false
+ },
+ "Q4120617": {
+  "b": null,
+  "bc": false,
+  "d": 1769,
+  "dc": false
+ },
+ "Q4120675": {
+  "b": null,
+  "bc": false,
+  "d": 1300,
+  "dc": false
+ },
+ "Q4166457": {
+  "b": 1750,
+  "bc": true,
+  "d": 1809,
+  "dc": false
+ },
+ "Q4193072": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q4202382": {
+  "b": 1448,
+  "bc": false,
+  "d": 1567,
+  "dc": false
+ },
+ "Q4202383": {
+  "b": null,
+  "bc": false,
+  "d": 1592,
+  "dc": false
+ },
+ "Q4202525": {
+  "b": null,
+  "bc": false,
+  "d": 1657,
+  "dc": false
+ },
+ "Q4234957": {
+  "b": null,
+  "bc": false,
+  "d": 1746,
+  "dc": false
+ },
+ "Q4342213": {
+  "b": 1610,
+  "bc": false,
+  "d": 1678,
+  "dc": false
+ },
+ "Q4346144": {
+  "b": 1650,
+  "bc": true,
+  "d": 1688,
+  "dc": false
+ },
+ "Q43945": {
+  "b": 10,
+  "bc": false,
+  "d": 62,
+  "dc": false
+ },
+ "Q43977": {
+  "b": 1372,
+  "bc": false,
+  "d": 1415,
+  "dc": false
+ },
+ "Q43982": {
+  "b": -100,
+  "bc": true,
+  "d": 100,
+  "dc": true
+ },
+ "Q44024": {
+  "b": 296,
+  "bc": false,
+  "d": 373,
+  "dc": false
+ },
+ "Q4407096": {
+  "b": 1661,
+  "bc": false,
+  "d": 1723,
+  "dc": false
+ },
+ "Q44079": {
+  "b": 376,
+  "bc": false,
+  "d": 444,
+  "dc": false
+ },
+ "Q44187": {
+  "b": 1946,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q4419388": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q4450287": {
+  "b": null,
+  "bc": false,
+  "d": 1033,
+  "dc": false
+ },
+ "Q44794": {
+  "b": 250,
+  "bc": false,
+  "d": 326,
+  "dc": false
+ },
+ "Q459700": {
+  "b": 1861,
+  "bc": false,
+  "d": 1927,
+  "dc": false
+ },
+ "Q4670618": {
+  "b": 1869,
+  "bc": false,
+  "d": 1876,
+  "dc": false
+ },
+ "Q4670621": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q467835": {
+  "b": 390,
+  "bc": false,
+  "d": 454,
+  "dc": false
+ },
+ "Q4689383": {
+  "b": 1579,
+  "bc": false,
+  "d": 1659,
+  "dc": false
+ },
+ "Q469801": {
+  "b": 1865,
+  "bc": false,
+  "d": 1925,
+  "dc": false
+ },
+ "Q46996189": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q46996191": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q4718574": {
+  "b": 1832,
+  "bc": false,
+  "d": 1924,
+  "dc": false
+ },
+ "Q4723056": {
+  "b": 1807,
+  "bc": false,
+  "d": 1887,
+  "dc": false
+ },
+ "Q47471974": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q4760289": {
+  "b": 1518,
+  "bc": false,
+  "d": 1577,
+  "dc": false
+ },
+ "Q477834": {
+  "b": 1872,
+  "bc": false,
+  "d": 1945,
+  "dc": false
+ },
+ "Q4813251": {
+  "b": null,
+  "bc": false,
+  "d": 1619,
+  "dc": false
+ },
+ "Q486816": {
+  "b": 600,
+  "bc": true,
+  "d": 609,
+  "dc": false
+ },
+ "Q48774263": {
+  "b": null,
+  "bc": false,
+  "d": 563,
+  "dc": false
+ },
+ "Q4889238": {
+  "b": 1784,
+  "bc": false,
+  "d": 1884,
+  "dc": false
+ },
+ "Q503356": {
+  "b": 100,
+  "bc": true,
+  "d": 141,
+  "dc": false
+ },
+ "Q5081410": {
+  "b": 1863,
+  "bc": false,
+  "d": 1930,
+  "dc": false
+ },
+ "Q511502": {
+  "b": 1933,
+  "bc": false,
+  "d": 2026,
+  "dc": false
+ },
+ "Q5200619": {
+  "b": 1965,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q5200909": {
+  "b": 1655,
+  "bc": false,
+  "d": 1720,
+  "dc": false
+ },
+ "Q5217572": {
+  "b": null,
+  "bc": false,
+  "d": 347,
+  "dc": false
+ },
+ "Q5218670": {
+  "b": 1837,
+  "bc": false,
+  "d": 1923,
+  "dc": false
+ },
+ "Q5298271": {
+  "b": null,
+  "bc": false,
+  "d": 1611,
+  "dc": false
+ },
+ "Q5360527": {
+  "b": 850,
+  "bc": true,
+  "d": 906,
+  "dc": false
+ },
+ "Q5403253": {
+  "b": 1848,
+  "bc": false,
+  "d": 1927,
+  "dc": false
+ },
+ "Q5414530": {
+  "b": 1572,
+  "bc": false,
+  "d": 1635,
+  "dc": false
+ },
+ "Q5414533": {
+  "b": 1580,
+  "bc": false,
+  "d": 1647,
+  "dc": false
+ },
+ "Q546039": {
+  "b": null,
+  "bc": false,
+  "d": 851,
+  "dc": false
+ },
+ "Q5464322": {
+  "b": 1959,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q547687": {
+  "b": 1910,
+  "bc": false,
+  "d": 1990,
+  "dc": false
+ },
+ "Q547702": {
+  "b": 1877,
+  "bc": false,
+  "d": 1970,
+  "dc": false
+ },
+ "Q547759": {
+  "b": 1553,
+  "bc": false,
+  "d": 1633,
+  "dc": false
+ },
+ "Q5517219": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q553866": {
+  "b": 1948,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q559194": {
+  "b": 127,
+  "bc": false,
+  "d": 231,
+  "dc": false
+ },
+ "Q559224": {
+  "b": 100,
+  "bc": true,
+  "d": 95,
+  "dc": false
+ },
+ "Q561050": {
+  "b": 1499,
+  "bc": false,
+  "d": 1573,
+  "dc": false
+ },
+ "Q561645": {
+  "b": 1530,
+  "bc": false,
+  "d": 1612,
+  "dc": false
+ },
+ "Q562243": {
+  "b": 990,
+  "bc": false,
+  "d": 1055,
+  "dc": false
+ },
+ "Q573494": {
+  "b": 1932,
+  "bc": false,
+  "d": 1999,
+  "dc": false
+ },
+ "Q581124": {
+  "b": null,
+  "bc": false,
+  "d": 1046,
+  "dc": false
+ },
+ "Q587613": {
+  "b": 1855,
+  "bc": false,
+  "d": 1942,
+  "dc": false
+ },
+ "Q590458": {
+  "b": 1720,
+  "bc": false,
+  "d": 1788,
+  "dc": false
+ },
+ "Q597539": {
+  "b": 1605,
+  "bc": false,
+  "d": 1652,
+  "dc": false
+ },
+ "Q5992723": {
+  "b": 1501,
+  "bc": true,
+  "d": 1639,
+  "dc": false
+ },
+ "Q5992738": {
+  "b": null,
+  "bc": false,
+  "d": 1252,
+  "dc": false
+ },
+ "Q5992741": {
+  "b": 1647,
+  "bc": false,
+  "d": 1724,
+  "dc": false
+ },
+ "Q5992745": {
+  "b": 1442,
+  "bc": false,
+  "d": 1493,
+  "dc": false
+ },
+ "Q5992766": {
+  "b": null,
+  "bc": false,
+  "d": 1587,
+  "dc": false
+ },
+ "Q610951": {
+  "b": 1923,
+  "bc": false,
+  "d": 2000,
+  "dc": false
+ },
+ "Q6132491": {
+  "b": 1871,
+  "bc": false,
+  "d": 1947,
+  "dc": false
+ },
+ "Q61721803": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q61721804": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q61721836": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q61721837": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q6234881": {
+  "b": 1857,
+  "bc": false,
+  "d": 1929,
+  "dc": false
+ },
+ "Q6238831": {
+  "b": 1792,
+  "bc": false,
+  "d": 1868,
+  "dc": false
+ },
+ "Q62532": {
+  "b": 1485,
+  "bc": false,
+  "d": 1528,
+  "dc": false
+ },
+ "Q6264336": {
+  "b": 1817,
+  "bc": false,
+  "d": 1899,
+  "dc": false
+ },
+ "Q63356526": {
+  "b": 1843,
+  "bc": false,
+  "d": 1926,
+  "dc": false
+ },
+ "Q6338743": {
+  "b": 1941,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q64048": {
+  "b": 1954,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q645553": {
+  "b": 1450,
+  "bc": true,
+  "d": 1489,
+  "dc": false
+ },
+ "Q647121": {
+  "b": 1570,
+  "bc": false,
+  "d": 1644,
+  "dc": false
+ },
+ "Q648527": {
+  "b": 1870,
+  "bc": false,
+  "d": 1922,
+  "dc": false
+ },
+ "Q65065937": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q664250": {
+  "b": 264,
+  "bc": false,
+  "d": 333,
+  "dc": false
+ },
+ "Q667950": {
+  "b": null,
+  "bc": false,
+  "d": 581,
+  "dc": false
+ },
+ "Q6730596": {
+  "b": null,
+  "bc": false,
+  "d": 661,
+  "dc": false
+ },
+ "Q68225311": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q6829589": {
+  "b": 1953,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q6993685": {
+  "b": null,
+  "bc": false,
+  "d": 1686,
+  "dc": false
+ },
+ "Q704712": {
+  "b": 1000,
+  "bc": true,
+  "d": 1010,
+  "dc": false
+ },
+ "Q707663": {
+  "b": 1380,
+  "bc": false,
+  "d": 1463,
+  "dc": false
+ },
+ "Q708890": {
+  "b": 1900,
+  "bc": false,
+  "d": 1968,
+  "dc": false
+ },
+ "Q712783": {
+  "b": 1949,
+  "bc": false,
+  "d": 2004,
+  "dc": false
+ },
+ "Q7145250": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145254": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145257": {
+  "b": null,
+  "bc": false,
+  "d": 768,
+  "dc": false
+ },
+ "Q7145260": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145263": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145264": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145265": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145267": {
+  "b": 641,
+  "bc": false,
+  "d": 723,
+  "dc": false
+ },
+ "Q7145270": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145272": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145274": {
+  "b": null,
+  "bc": false,
+  "d": 630,
+  "dc": false
+ },
+ "Q7145276": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145278": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145279": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145280": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145282": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145284": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145286": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145290": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145291": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145292": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145293": {
+  "b": 1500,
+  "bc": true,
+  "d": 1484,
+  "dc": false
+ },
+ "Q7145295": {
+  "b": null,
+  "bc": false,
+  "d": 901,
+  "dc": true
+ },
+ "Q7145297": {
+  "b": null,
+  "bc": false,
+  "d": 870,
+  "dc": false
+ },
+ "Q7145301": {
+  "b": 1400,
+  "bc": true,
+  "d": 1396,
+  "dc": false
+ },
+ "Q7145302": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145303": {
+  "b": 1400,
+  "bc": true,
+  "d": 1417,
+  "dc": false
+ },
+ "Q7145304": {
+  "b": null,
+  "bc": false,
+  "d": 1243,
+  "dc": false
+ },
+ "Q7145305": {
+  "b": 1350,
+  "bc": true,
+  "d": 1385,
+  "dc": false
+ },
+ "Q7145308": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145311": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145313": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145321": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145323": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7145324": {
+  "b": null,
+  "bc": false,
+  "d": 860,
+  "dc": false
+ },
+ "Q717251": {
+  "b": 1290,
+  "bc": true,
+  "d": 1378,
+  "dc": false
+ },
+ "Q7182907": {
+  "b": 1775,
+  "bc": false,
+  "d": 1852,
+  "dc": false
+ },
+ "Q7219224": {
+  "b": null,
+  "bc": false,
+  "d": 521,
+  "dc": false
+ },
+ "Q7229170": {
+  "b": null,
+  "bc": false,
+  "d": 1145,
+  "dc": false
+ },
+ "Q7229215": {
+  "b": null,
+  "bc": false,
+  "d": 1478,
+  "dc": false
+ },
+ "Q7229217": {
+  "b": null,
+  "bc": false,
+  "d": 1146,
+  "dc": false
+ },
+ "Q726341": {
+  "b": 1867,
+  "bc": false,
+  "d": 1944,
+  "dc": false
+ },
+ "Q729105": {
+  "b": 456,
+  "bc": false,
+  "d": 538,
+  "dc": false
+ },
+ "Q730623": {
+  "b": 1764,
+  "bc": false,
+  "d": 1833,
+  "dc": false
+ },
+ "Q733896": {
+  "b": 100,
+  "bc": true,
+  "d": 106,
+  "dc": false
+ },
+ "Q733952": {
+  "b": 1935,
+  "bc": false,
+  "d": 2012,
+  "dc": false
+ },
+ "Q733961": {
+  "b": 500,
+  "bc": true,
+  "d": 490,
+  "dc": false
+ },
+ "Q733984": {
+  "b": 1902,
+  "bc": false,
+  "d": 1971,
+  "dc": false
+ },
+ "Q738738": {
+  "b": 180,
+  "bc": false,
+  "d": 248,
+  "dc": false
+ },
+ "Q738752": {
+  "b": 300,
+  "bc": true,
+  "d": 300,
+  "dc": false
+ },
+ "Q739349": {
+  "b": 1908,
+  "bc": false,
+  "d": 1994,
+  "dc": false
+ },
+ "Q7441509": {
+  "b": 1975,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7497858": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q7614349": {
+  "b": 1963,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q76325": {
+  "b": 1497,
+  "bc": false,
+  "d": 1560,
+  "dc": false
+ },
+ "Q76326": {
+  "b": 1906,
+  "bc": false,
+  "d": 1945,
+  "dc": false
+ },
+ "Q76336": {
+  "b": 1700,
+  "bc": false,
+  "d": 1760,
+  "dc": false
+ },
+ "Q7788419": {
+  "b": 1779,
+  "bc": false,
+  "d": 1865,
+  "dc": false
+ },
+ "Q7792034": {
+  "b": 1812,
+  "bc": false,
+  "d": 1903,
+  "dc": false
+ },
+ "Q786307": {
+  "b": 1939,
+  "bc": false,
+  "d": 2023,
+  "dc": false
+ },
+ "Q8027": {
+  "b": 1929,
+  "bc": false,
+  "d": 1968,
+  "dc": false
+ },
+ "Q87455": {
+  "b": 1923,
+  "bc": false,
+  "d": 2012,
+  "dc": false
+ },
+ "Q926036": {
+  "b": 1737,
+  "bc": false,
+  "d": 1812,
+  "dc": false
+ },
+ "Q927368": {
+  "b": 1641,
+  "bc": false,
+  "d": 1707,
+  "dc": false
+ },
+ "Q928195": {
+  "b": 1570,
+  "bc": false,
+  "d": 1612,
+  "dc": false
+ },
+ "Q943339": {
+  "b": 350,
+  "bc": true,
+  "d": 348,
+  "dc": false
+ },
+ "Q94889": {
+  "b": 1858,
+  "bc": false,
+  "d": 1922,
+  "dc": false
+ },
+ "Q9554": {
+  "b": 1483,
+  "bc": false,
+  "d": 1546,
+  "dc": false
+ },
+ "Q955665": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q958162": {
+  "b": null,
+  "bc": false,
+  "d": 1646,
+  "dc": false
+ },
+ "Q96091843": {
+  "b": null,
+  "bc": false,
+  "d": 1604,
+  "dc": false
+ },
+ "Q9611854": {
+  "b": 550,
+  "bc": true,
+  "d": null,
+  "dc": false
+ },
+ "Q96392830": {
+  "b": null,
+  "bc": false,
+  "d": 1592,
+  "dc": false
+ },
+ "Q966904": {
+  "b": 1590,
+  "bc": true,
+  "d": 1640,
+  "dc": false
+ },
+ "Q976915": {
+  "b": 1300,
+  "bc": false,
+  "d": 1385,
+  "dc": false
+ },
+ "Q97846494": {
+  "b": null,
+  "bc": false,
+  "d": null,
+  "dc": false
+ },
+ "Q981901": {
+  "b": 1816,
+  "bc": false,
+  "d": 1861,
+  "dc": false
+ },
+ "Q982936": {
+  "b": 1933,
+  "bc": false,
+  "d": 2014,
+  "dc": false
+ },
+ "Q982977": {
+  "b": 1797,
+  "bc": false,
+  "d": 1879,
+  "dc": false
+ },
+ "Q983502": {
+  "b": 329,
+  "bc": false,
+  "d": 373,
+  "dc": false
+ }
+}

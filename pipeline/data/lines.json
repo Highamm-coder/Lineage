@@ -1,0 +1,11245 @@
+{
+ "constantinople": {
+  "title": "List of ecumenical patriarchs of Constantinople",
+  "rows": [
+   {
+    "name": "Alexander",
+    "start": 330,
+    "end": 337,
+    "num": "27"
+   },
+   {
+    "name": "Paul I",
+    "start": 337,
+    "end": 339,
+    "num": "28"
+   },
+   {
+    "name": "Eusebius of Nicomeda",
+    "start": 339,
+    "end": 341,
+    "num": "29"
+   },
+   {
+    "name": "Paul I",
+    "start": 341,
+    "end": 342,
+    "num": "(28)"
+   },
+   {
+    "name": "Macedonius I",
+    "start": 342,
+    "end": 346,
+    "num": "30"
+   },
+   {
+    "name": "Paul I",
+    "start": 346,
+    "end": 351,
+    "num": "(28)"
+   },
+   {
+    "name": "Macedonius I",
+    "start": 351,
+    "end": 360,
+    "num": "(30)"
+   },
+   {
+    "name": "Eudoxius of Antioch",
+    "start": 360,
+    "end": 370,
+    "num": "31"
+   },
+   {
+    "name": "Demophilus",
+    "start": 370,
+    "end": 380,
+    "num": "32"
+   },
+   {
+    "name": "Evagrius",
+    "start": 370,
+    "end": null,
+    "num": "33"
+   },
+   {
+    "name": "Gregory of Nazianzus",
+    "start": 379,
+    "end": 381,
+    "num": "34"
+   },
+   {
+    "name": "Maximus I",
+    "start": 380,
+    "end": null,
+    "num": "35"
+   },
+   {
+    "name": "Nectarius",
+    "start": 381,
+    "end": 397,
+    "num": "36"
+   },
+   {
+    "name": "John Chrysostom",
+    "start": 398,
+    "end": 404,
+    "num": "37"
+   },
+   {
+    "name": "Arsacius",
+    "start": 404,
+    "end": 405,
+    "num": "38"
+   },
+   {
+    "name": "Atticus",
+    "start": 406,
+    "end": 425,
+    "num": "39"
+   },
+   {
+    "name": "Sisinnius I",
+    "start": 426,
+    "end": 427,
+    "num": "40"
+   },
+   {
+    "name": "Nestorius",
+    "start": 428,
+    "end": 431,
+    "num": "41"
+   },
+   {
+    "name": "Maximianus",
+    "start": 431,
+    "end": 434,
+    "num": "42"
+   },
+   {
+    "name": "Proclus",
+    "start": 434,
+    "end": 446,
+    "num": "43"
+   },
+   {
+    "name": "Flavian",
+    "start": 446,
+    "end": 449,
+    "num": "44"
+   },
+   {
+    "name": "Anatolius",
+    "start": 449,
+    "end": 458,
+    "num": "45"
+   },
+   {
+    "name": "Gennadius",
+    "start": 458,
+    "end": 471,
+    "num": "46"
+   },
+   {
+    "name": "Acacius",
+    "start": 472,
+    "end": 489,
+    "num": "47"
+   },
+   {
+    "name": "Fravitta",
+    "start": 488,
+    "end": 489,
+    "num": "48"
+   },
+   {
+    "name": "Euphemius",
+    "start": 490,
+    "end": 496,
+    "num": "49"
+   },
+   {
+    "name": "Macedonius II",
+    "start": 496,
+    "end": 511,
+    "num": "50"
+   },
+   {
+    "name": "Timothy I",
+    "start": 511,
+    "end": 518,
+    "num": "51"
+   },
+   {
+    "name": "John of Cappadocia",
+    "start": 518,
+    "end": 520,
+    "num": "52"
+   },
+   {
+    "name": "Epiphanius",
+    "start": 520,
+    "end": 535,
+    "num": "53"
+   },
+   {
+    "name": "Anthimus I",
+    "start": 535,
+    "end": 536,
+    "num": "54"
+   },
+   {
+    "name": "Menas",
+    "start": 536,
+    "end": 552,
+    "num": "55"
+   },
+   {
+    "name": "Eutychius",
+    "start": 552,
+    "end": 565,
+    "num": "56"
+   },
+   {
+    "name": "John Scholasticus",
+    "start": 565,
+    "end": 577,
+    "num": "57"
+   },
+   {
+    "name": "Eutychius",
+    "start": 577,
+    "end": 582,
+    "num": "(56)"
+   },
+   {
+    "name": "John IV",
+    "start": 582,
+    "end": 595,
+    "num": "58"
+   },
+   {
+    "name": "Cyriacus II",
+    "start": 596,
+    "end": 606,
+    "num": "59"
+   },
+   {
+    "name": "Thomas I",
+    "start": 607,
+    "end": 610,
+    "num": "60"
+   },
+   {
+    "name": "Sergius I",
+    "start": 610,
+    "end": 638,
+    "num": "61"
+   },
+   {
+    "name": "Pyrrhus",
+    "start": 638,
+    "end": 641,
+    "num": "62"
+   },
+   {
+    "name": "Paul II",
+    "start": 641,
+    "end": 653,
+    "num": "63"
+   },
+   {
+    "name": "Pyrrhus",
+    "start": 654,
+    "end": null,
+    "num": "(62)"
+   },
+   {
+    "name": "Peter",
+    "start": 654,
+    "end": 666,
+    "num": "64"
+   },
+   {
+    "name": "Thomas II",
+    "start": 667,
+    "end": 669,
+    "num": "65"
+   },
+   {
+    "name": "John V",
+    "start": 669,
+    "end": 675,
+    "num": "66"
+   },
+   {
+    "name": "Constantine I",
+    "start": 675,
+    "end": 677,
+    "num": "67"
+   },
+   {
+    "name": "Theodore I",
+    "start": 677,
+    "end": 679,
+    "num": "68"
+   },
+   {
+    "name": "George I",
+    "start": 679,
+    "end": 686,
+    "num": "69"
+   },
+   {
+    "name": "Theodore I",
+    "start": 686,
+    "end": 687,
+    "num": "(68)"
+   },
+   {
+    "name": "Paul III",
+    "start": 688,
+    "end": 693,
+    "num": "70"
+   },
+   {
+    "name": "Callinicus I",
+    "start": 693,
+    "end": 705,
+    "num": "71"
+   },
+   {
+    "name": "Kyros",
+    "start": 705,
+    "end": 711,
+    "num": "72"
+   },
+   {
+    "name": "John VI",
+    "start": 712,
+    "end": 715,
+    "num": "73"
+   },
+   {
+    "name": "Germanus I",
+    "start": 715,
+    "end": 730,
+    "num": "74"
+   },
+   {
+    "name": "Anastasius",
+    "start": 730,
+    "end": 754,
+    "num": "75"
+   },
+   {
+    "name": "Constantine II",
+    "start": 754,
+    "end": 766,
+    "num": "76"
+   },
+   {
+    "name": "Nicetas I",
+    "start": 766,
+    "end": 780,
+    "num": "77"
+   },
+   {
+    "name": "Paul IV",
+    "start": 780,
+    "end": 784,
+    "num": "78"
+   },
+   {
+    "name": "Tarasios",
+    "start": 784,
+    "end": 806,
+    "num": "79"
+   },
+   {
+    "name": "Nicephorus I",
+    "start": 806,
+    "end": 815,
+    "num": "80"
+   },
+   {
+    "name": "Theodotus I",
+    "start": 815,
+    "end": 821,
+    "num": "81"
+   },
+   {
+    "name": "Antony I",
+    "start": 821,
+    "end": 837,
+    "num": "82"
+   },
+   {
+    "name": "John VII",
+    "start": 836,
+    "end": 843,
+    "num": "83"
+   },
+   {
+    "name": "Methodius I",
+    "start": 843,
+    "end": 847,
+    "num": "84"
+   },
+   {
+    "name": "Ignatius",
+    "start": 847,
+    "end": 858,
+    "num": "85"
+   },
+   {
+    "name": "Photius I",
+    "start": 858,
+    "end": 867,
+    "num": "86"
+   },
+   {
+    "name": "Ignatius",
+    "start": 867,
+    "end": 877,
+    "num": "(85)"
+   },
+   {
+    "name": "Photius I",
+    "start": 877,
+    "end": 886,
+    "num": "(86)"
+   },
+   {
+    "name": "Stephen I",
+    "start": 886,
+    "end": 893,
+    "num": "87"
+   },
+   {
+    "name": "Antony II",
+    "start": 893,
+    "end": 901,
+    "num": "88"
+   },
+   {
+    "name": "Nicholas I",
+    "start": 901,
+    "end": 907,
+    "num": "89"
+   },
+   {
+    "name": "Euthymius I",
+    "start": 907,
+    "end": 912,
+    "num": "90"
+   },
+   {
+    "name": "Nicholas I",
+    "start": 912,
+    "end": 925,
+    "num": "(89)"
+   },
+   {
+    "name": "Stephen II",
+    "start": 925,
+    "end": 927,
+    "num": "91"
+   },
+   {
+    "name": "Tryphon",
+    "start": 927,
+    "end": 931,
+    "num": "92"
+   },
+   {
+    "name": "Theophylact",
+    "start": 933,
+    "end": 956,
+    "num": "93"
+   },
+   {
+    "name": "Polyeuctus",
+    "start": 956,
+    "end": 970,
+    "num": "94"
+   },
+   {
+    "name": "Basil I",
+    "start": 970,
+    "end": 973,
+    "num": "95"
+   },
+   {
+    "name": "Antony III",
+    "start": 973,
+    "end": 978,
+    "num": "96"
+   },
+   {
+    "name": "Nicholas II",
+    "start": 980,
+    "end": 991,
+    "num": "97"
+   },
+   {
+    "name": "Sisinnius II",
+    "start": 996,
+    "end": 998,
+    "num": "98"
+   },
+   {
+    "name": "Sergius II",
+    "start": 1001,
+    "end": 1019,
+    "num": "99"
+   },
+   {
+    "name": "Eustathius",
+    "start": 1019,
+    "end": 1025,
+    "num": "100"
+   },
+   {
+    "name": "Alexius",
+    "start": 1025,
+    "end": 1043,
+    "num": "101"
+   },
+   {
+    "name": "Michael I",
+    "start": 1043,
+    "end": 1058,
+    "num": "102"
+   },
+   {
+    "name": "Constantine III",
+    "start": 1059,
+    "end": 1063,
+    "num": "103"
+   },
+   {
+    "name": "John VIII",
+    "start": 1064,
+    "end": 1075,
+    "num": "104"
+   },
+   {
+    "name": "Cosmas I",
+    "start": 1075,
+    "end": 1081,
+    "num": "105"
+   },
+   {
+    "name": "Eustratius II",
+    "start": 1081,
+    "end": 1084,
+    "num": "106"
+   },
+   {
+    "name": "Nicholas III",
+    "start": 1084,
+    "end": 1111,
+    "num": "107"
+   },
+   {
+    "name": "John IX",
+    "start": 1111,
+    "end": 1134,
+    "num": "108"
+   },
+   {
+    "name": "Leo",
+    "start": 1134,
+    "end": 1143,
+    "num": "109"
+   },
+   {
+    "name": "Michael II",
+    "start": 1143,
+    "end": 1146,
+    "num": "110"
+   },
+   {
+    "name": "Cosmas II",
+    "start": 1146,
+    "end": 1147,
+    "num": "111"
+   },
+   {
+    "name": "Nicholas IV",
+    "start": 1147,
+    "end": 1151,
+    "num": "112"
+   },
+   {
+    "name": "Theodotus II",
+    "start": 1151,
+    "end": 1153,
+    "num": "113"
+   },
+   {
+    "name": "Neophytus I",
+    "start": 1154,
+    "end": null,
+    "num": "114"
+   },
+   {
+    "name": "Constantine IV",
+    "start": 1154,
+    "end": 1157,
+    "num": "115"
+   },
+   {
+    "name": "Luke",
+    "start": 1157,
+    "end": 1169,
+    "num": "116"
+   },
+   {
+    "name": "Michael III",
+    "start": 1170,
+    "end": 1178,
+    "num": "117"
+   },
+   {
+    "name": "Chariton",
+    "start": 1178,
+    "end": 1179,
+    "num": "118"
+   },
+   {
+    "name": "Theodosius I",
+    "start": 1179,
+    "end": 1183,
+    "num": "119"
+   },
+   {
+    "name": "Basil II",
+    "start": 1183,
+    "end": 1186,
+    "num": "120"
+   },
+   {
+    "name": "Nicetas II",
+    "start": 1186,
+    "end": 1189,
+    "num": "121"
+   },
+   {
+    "name": "Dositheus",
+    "start": 1189,
+    "end": null,
+    "num": "122"
+   },
+   {
+    "name": "Leontius",
+    "start": 1189,
+    "end": null,
+    "num": "123"
+   },
+   {
+    "name": "George II",
+    "start": 1191,
+    "end": 1198,
+    "num": "124"
+   },
+   {
+    "name": "John X",
+    "start": 1198,
+    "end": 1204,
+    "num": "125"
+   },
+   {
+    "name": "Michael IV",
+    "start": 1208,
+    "end": 1212,
+    "num": "126"
+   },
+   {
+    "name": "Theodore II",
+    "start": 1213,
+    "end": 1216,
+    "num": "127"
+   },
+   {
+    "name": "Maximus II",
+    "start": 1216,
+    "end": null,
+    "num": "128"
+   },
+   {
+    "name": "Manuel I",
+    "start": 1217,
+    "end": 1222,
+    "num": "129"
+   },
+   {
+    "name": "Germanus II",
+    "start": 1223,
+    "end": 1240,
+    "num": "130"
+   },
+   {
+    "name": "Methodius II",
+    "start": 1240,
+    "end": null,
+    "num": "131"
+   },
+   {
+    "name": "Manuel II",
+    "start": 1243,
+    "end": 1254,
+    "num": "132"
+   },
+   {
+    "name": "Arsenius",
+    "start": 1254,
+    "end": 1260,
+    "num": "133"
+   },
+   {
+    "name": "Nicephorus II",
+    "start": 1260,
+    "end": 1261,
+    "num": "134"
+   },
+   {
+    "name": "Arsenius",
+    "start": 1261,
+    "end": null,
+    "num": "(133)"
+   },
+   {
+    "name": "Germanus III",
+    "start": 1265,
+    "end": 1266,
+    "num": "135"
+   },
+   {
+    "name": "Joseph I",
+    "start": 1266,
+    "end": 1275,
+    "num": "136"
+   },
+   {
+    "name": "John XI",
+    "start": 1275,
+    "end": 1282,
+    "num": "137"
+   },
+   {
+    "name": "Joseph I",
+    "start": 1282,
+    "end": 1283,
+    "num": "(136)"
+   },
+   {
+    "name": "Gregory II",
+    "start": 1283,
+    "end": 1289,
+    "num": "138"
+   },
+   {
+    "name": "Athanasius I",
+    "start": 1289,
+    "end": 1293,
+    "num": "139"
+   },
+   {
+    "name": "John XII",
+    "start": 1294,
+    "end": 1303,
+    "num": "140"
+   },
+   {
+    "name": "Athanasius I",
+    "start": 1303,
+    "end": 1309,
+    "num": "(139)"
+   },
+   {
+    "name": "Nephon I",
+    "start": 1310,
+    "end": 1314,
+    "num": "141"
+   },
+   {
+    "name": "John XIII",
+    "start": 1315,
+    "end": 1319,
+    "num": "142"
+   },
+   {
+    "name": "Gerasimus I",
+    "start": 1320,
+    "end": 1321,
+    "num": "143"
+   },
+   {
+    "name": "Isaias",
+    "start": 1323,
+    "end": 1332,
+    "num": "144"
+   },
+   {
+    "name": "John XIV",
+    "start": 1334,
+    "end": 1347,
+    "num": "145"
+   },
+   {
+    "name": "Isidore I",
+    "start": 1347,
+    "end": 1350,
+    "num": "146"
+   },
+   {
+    "name": "Callistus I",
+    "start": 1350,
+    "end": 1353,
+    "num": "147"
+   },
+   {
+    "name": "Philotheus I",
+    "start": 1353,
+    "end": 1354,
+    "num": "148"
+   },
+   {
+    "name": "Callistus I",
+    "start": 1355,
+    "end": 1363,
+    "num": "(147)"
+   },
+   {
+    "name": "Philotheus I",
+    "start": 1364,
+    "end": 1376,
+    "num": "(148)"
+   },
+   {
+    "name": "Macarius",
+    "start": 1377,
+    "end": 1379,
+    "num": "149"
+   },
+   {
+    "name": "Nilus",
+    "start": 1380,
+    "end": 1388,
+    "num": "150"
+   },
+   {
+    "name": "Antony IV",
+    "start": 1389,
+    "end": 1390,
+    "num": "151"
+   },
+   {
+    "name": "Macarius",
+    "start": 1390,
+    "end": null,
+    "num": "(149)"
+   },
+   {
+    "name": "Antony IV",
+    "start": 1390,
+    "end": 1397,
+    "num": "(151)"
+   },
+   {
+    "name": "Callistus II",
+    "start": 1397,
+    "end": null,
+    "num": "152"
+   },
+   {
+    "name": "Matthew I",
+    "start": 1397,
+    "end": 1410,
+    "num": "153"
+   },
+   {
+    "name": "Euthymius II",
+    "start": 1410,
+    "end": 1416,
+    "num": "154"
+   },
+   {
+    "name": "Joseph II",
+    "start": 1416,
+    "end": 1439,
+    "num": "155"
+   },
+   {
+    "name": "Metrophanes II",
+    "start": 1440,
+    "end": 1443,
+    "num": "156"
+   },
+   {
+    "name": "Gregory III",
+    "start": 1445,
+    "end": 1450,
+    "num": "157"
+   },
+   {
+    "name": "Athanasius II",
+    "start": 1450,
+    "end": 1453,
+    "num": "158"
+   },
+   {
+    "name": "Gennadius II",
+    "start": 1454,
+    "end": 1456,
+    "num": "159"
+   },
+   {
+    "name": "Isidore II",
+    "start": 1456,
+    "end": 1462,
+    "num": "160"
+   },
+   {
+    "name": "Dionysius I",
+    "start": 1466,
+    "end": 1471,
+    "num": "165"
+   },
+   {
+    "name": "Symeon I",
+    "start": 1471,
+    "end": 1475,
+    "num": "(164)"
+   },
+   {
+    "name": "Raphael I",
+    "start": 1475,
+    "end": 1476,
+    "num": "166"
+   },
+   {
+    "name": "Maximus III",
+    "start": 1476,
+    "end": 1482,
+    "num": "167"
+   },
+   {
+    "name": "Symeon I",
+    "start": 1482,
+    "end": 1486,
+    "num": "(164)"
+   },
+   {
+    "name": "Nephon II",
+    "start": 1486,
+    "end": 1488,
+    "num": "168"
+   },
+   {
+    "name": "Dionysius I",
+    "start": 1488,
+    "end": 1490,
+    "num": "(165)"
+   },
+   {
+    "name": "Maximus IV",
+    "start": 1491,
+    "end": 1497,
+    "num": "169"
+   },
+   {
+    "name": "Nephon II",
+    "start": 1497,
+    "end": 1498,
+    "num": "(168)"
+   },
+   {
+    "name": "Joachim I",
+    "start": 1498,
+    "end": 1502,
+    "num": "170"
+   },
+   {
+    "name": "Nephon II",
+    "start": 1502,
+    "end": null,
+    "num": "(168)"
+   },
+   {
+    "name": "Pachomius I",
+    "start": 1503,
+    "end": 1504,
+    "num": "171"
+   },
+   {
+    "name": "Joachim I",
+    "start": 1504,
+    "end": null,
+    "num": "(170)"
+   },
+   {
+    "name": "Pachomius I",
+    "start": 1504,
+    "end": 1513,
+    "num": "(171)"
+   },
+   {
+    "name": "Theoleptus I",
+    "start": 1513,
+    "end": 1522,
+    "num": "172"
+   },
+   {
+    "name": "Jeremias I",
+    "start": 1522,
+    "end": 1524,
+    "num": "173"
+   },
+   {
+    "name": "Joannicius I",
+    "start": 1524,
+    "end": 1525,
+    "num": "174"
+   },
+   {
+    "name": "Jeremias I",
+    "start": 1525,
+    "end": 1546,
+    "num": "(173)"
+   },
+   {
+    "name": "Dionysius II",
+    "start": 1546,
+    "end": 1556,
+    "num": "175"
+   },
+   {
+    "name": "Joasaph II",
+    "start": 1556,
+    "end": 1565,
+    "num": "176"
+   },
+   {
+    "name": "Metrophanes III",
+    "start": 1565,
+    "end": 1572,
+    "num": "177"
+   },
+   {
+    "name": "Jeremias II",
+    "start": 1572,
+    "end": 1579,
+    "num": "178"
+   },
+   {
+    "name": "Metrophanes III",
+    "start": 1579,
+    "end": 1580,
+    "num": "(177)"
+   },
+   {
+    "name": "Jeremias II",
+    "start": 1580,
+    "end": 1584,
+    "num": "(178)"
+   },
+   {
+    "name": "Pachomius II",
+    "start": 1584,
+    "end": 1585,
+    "num": "179"
+   },
+   {
+    "name": "Theoleptus II",
+    "start": 1585,
+    "end": 1586,
+    "num": "180"
+   },
+   {
+    "name": "Jeremias II",
+    "start": 1587,
+    "end": 1595,
+    "num": "(178)"
+   },
+   {
+    "name": "Matthew II",
+    "start": 1596,
+    "end": null,
+    "num": "181"
+   },
+   {
+    "name": "Gabriel I",
+    "start": 1596,
+    "end": null,
+    "num": "182"
+   },
+   {
+    "name": "Theophanes I",
+    "start": 1596,
+    "end": 1597,
+    "num": "183"
+   },
+   {
+    "name": "Meletius I",
+    "start": 1597,
+    "end": 1598,
+    "num": "184"
+   },
+   {
+    "name": "Matthew II",
+    "start": 1598,
+    "end": 1602,
+    "num": "(181)"
+   },
+   {
+    "name": "Neophytus II",
+    "start": 1602,
+    "end": 1603,
+    "num": "185"
+   },
+   {
+    "name": "Matthew II",
+    "start": 1603,
+    "end": null,
+    "num": "(181)"
+   },
+   {
+    "name": "Raphael II",
+    "start": 1603,
+    "end": 1607,
+    "num": "186"
+   },
+   {
+    "name": "Neophytus II",
+    "start": 1607,
+    "end": 1612,
+    "num": "(185)"
+   },
+   {
+    "name": "Cyril I",
+    "start": 1612,
+    "end": null,
+    "num": "187"
+   },
+   {
+    "name": "Timothy II",
+    "start": 1612,
+    "end": 1620,
+    "num": "188"
+   },
+   {
+    "name": "Cyril I",
+    "start": 1620,
+    "end": 1623,
+    "num": "(187)"
+   },
+   {
+    "name": "Gregory IV",
+    "start": 1623,
+    "end": null,
+    "num": "189"
+   },
+   {
+    "name": "Anthimus II",
+    "start": 1623,
+    "end": null,
+    "num": "190"
+   },
+   {
+    "name": "Cyril I",
+    "start": 1623,
+    "end": 1633,
+    "num": "(187)"
+   },
+   {
+    "name": "Cyril II",
+    "start": 1633,
+    "end": null,
+    "num": "191"
+   },
+   {
+    "name": "Cyril I",
+    "start": 1633,
+    "end": 1634,
+    "num": "(187)"
+   },
+   {
+    "name": "Athanasius III",
+    "start": 1634,
+    "end": null,
+    "num": "192"
+   },
+   {
+    "name": "Cyril I",
+    "start": 1634,
+    "end": 1635,
+    "num": "(187)"
+   },
+   {
+    "name": "Cyril II",
+    "start": 1635,
+    "end": 1636,
+    "num": "(191)"
+   },
+   {
+    "name": "Neophytus III",
+    "start": 1636,
+    "end": 1637,
+    "num": "193"
+   },
+   {
+    "name": "Cyril I",
+    "start": 1637,
+    "end": 1638,
+    "num": "(187)"
+   },
+   {
+    "name": "Cyril II",
+    "start": 1638,
+    "end": 1639,
+    "num": "(191)"
+   },
+   {
+    "name": "Parthenius I",
+    "start": 1639,
+    "end": 1644,
+    "num": "194"
+   },
+   {
+    "name": "Parthenius II",
+    "start": 1644,
+    "end": 1646,
+    "num": "195"
+   },
+   {
+    "name": "Joannicius II",
+    "start": 1646,
+    "end": 1648,
+    "num": "196"
+   },
+   {
+    "name": "Parthenius II",
+    "start": 1648,
+    "end": 1651,
+    "num": "(195)"
+   },
+   {
+    "name": "Joannicius II",
+    "start": 1651,
+    "end": 1652,
+    "num": "(196)"
+   },
+   {
+    "name": "Cyril III",
+    "start": 1652,
+    "end": null,
+    "num": "197"
+   },
+   {
+    "name": "Athanasius III",
+    "start": 1652,
+    "end": null,
+    "num": "(192)"
+   },
+   {
+    "name": "Paisius I",
+    "start": 1652,
+    "end": 1653,
+    "num": "198"
+   },
+   {
+    "name": "Joannicius II",
+    "start": 1653,
+    "end": 1654,
+    "num": "(196)"
+   },
+   {
+    "name": "Cyril III",
+    "start": 1654,
+    "end": null,
+    "num": "(197)"
+   },
+   {
+    "name": "Paisus I",
+    "start": 1654,
+    "end": 1655,
+    "num": "(198)"
+   },
+   {
+    "name": "Joannicius II",
+    "start": 1655,
+    "end": 1656,
+    "num": "(196)"
+   },
+   {
+    "name": "Parthenius III",
+    "start": 1656,
+    "end": 1657,
+    "num": "199"
+   },
+   {
+    "name": "Gabriel II",
+    "start": 1657,
+    "end": 1657,
+    "num": "200"
+   },
+   {
+    "name": "Parthenius IV",
+    "start": 1657,
+    "end": 1662,
+    "num": "201"
+   },
+   {
+    "name": "Dionysius III",
+    "start": 1662,
+    "end": 1665,
+    "num": "202"
+   },
+   {
+    "name": "Parthenius IV",
+    "start": 1665,
+    "end": 1667,
+    "num": "(201)"
+   },
+   {
+    "name": "Clement",
+    "start": 1667,
+    "end": 1668,
+    "num": "203"
+   },
+   {
+    "name": "Methodius III",
+    "start": 1668,
+    "end": 1671,
+    "num": "204"
+   },
+   {
+    "name": "Parthenius IV",
+    "start": 1671,
+    "end": null,
+    "num": "(201)"
+   },
+   {
+    "name": "Dionysius IV",
+    "start": 1671,
+    "end": 1673,
+    "num": "205"
+   },
+   {
+    "name": "Gerasimus II",
+    "start": 1673,
+    "end": 1674,
+    "num": "206"
+   },
+   {
+    "name": "Parthenius IV",
+    "start": 1675,
+    "end": 1676,
+    "num": "(201)"
+   },
+   {
+    "name": "Dionysius IV",
+    "start": 1676,
+    "end": 1679,
+    "num": "(205)"
+   },
+   {
+    "name": "Athanasius IV",
+    "start": 1679,
+    "end": null,
+    "num": "207"
+   },
+   {
+    "name": "James",
+    "start": 1679,
+    "end": 1682,
+    "num": "208"
+   },
+   {
+    "name": "Dionysius IV",
+    "start": 1682,
+    "end": 1684,
+    "num": "(205)"
+   },
+   {
+    "name": "Parthenius IV",
+    "start": 1684,
+    "end": 1685,
+    "num": "(201)"
+   },
+   {
+    "name": "James",
+    "start": 1685,
+    "end": 1686,
+    "num": "(208)"
+   },
+   {
+    "name": "Dionysius IV",
+    "start": 1686,
+    "end": 1687,
+    "num": "(205)"
+   },
+   {
+    "name": "James",
+    "start": 1687,
+    "end": 1688,
+    "num": "(208)"
+   },
+   {
+    "name": "Callinicus II",
+    "start": 1688,
+    "end": null,
+    "num": "209"
+   },
+   {
+    "name": "Neophytus IV",
+    "start": 1688,
+    "end": 1689,
+    "num": "210"
+   },
+   {
+    "name": "Callinicus II",
+    "start": 1689,
+    "end": 1693,
+    "num": "(209)"
+   },
+   {
+    "name": "Dionysius IV",
+    "start": 1693,
+    "end": 1694,
+    "num": "(205)"
+   },
+   {
+    "name": "Callinicus II",
+    "start": 1694,
+    "end": 1702,
+    "num": "(209)"
+   },
+   {
+    "name": "Gabriel III",
+    "start": 1702,
+    "end": 1707,
+    "num": "211"
+   },
+   {
+    "name": "Neophytus V",
+    "start": 1707,
+    "end": 1707,
+    "num": "212"
+   },
+   {
+    "name": "Cyprianus",
+    "start": 1707,
+    "end": 1709,
+    "num": "213"
+   },
+   {
+    "name": "Athanasius V",
+    "start": 1709,
+    "end": 1711,
+    "num": "214"
+   },
+   {
+    "name": "Cyril IV",
+    "start": 1711,
+    "end": 1713,
+    "num": "215"
+   },
+   {
+    "name": "Cyprianus",
+    "start": 1713,
+    "end": 1714,
+    "num": "(213)"
+   },
+   {
+    "name": "Cosmas III",
+    "start": 1714,
+    "end": 1716,
+    "num": "216"
+   },
+   {
+    "name": "Jeremias III",
+    "start": 1716,
+    "end": 1726,
+    "num": "217"
+   },
+   {
+    "name": "Callinicus III",
+    "start": 1726,
+    "end": 1726,
+    "num": "218"
+   },
+   {
+    "name": "Paisius II",
+    "start": 1726,
+    "end": 1732,
+    "num": "219"
+   },
+   {
+    "name": "Jeremias III",
+    "start": 1732,
+    "end": 1733,
+    "num": "(217)"
+   },
+   {
+    "name": "Seraphim I",
+    "start": 1733,
+    "end": 1734,
+    "num": "220"
+   },
+   {
+    "name": "Neophytus VI",
+    "start": 1734,
+    "end": 1740,
+    "num": "221"
+   },
+   {
+    "name": "Paisius II",
+    "start": 1740,
+    "end": 1743,
+    "num": "(219)"
+   },
+   {
+    "name": "Neophytus VI",
+    "start": 1743,
+    "end": 1744,
+    "num": "(221)"
+   },
+   {
+    "name": "Paisius II",
+    "start": 1744,
+    "end": 1748,
+    "num": "(219)"
+   },
+   {
+    "name": "Cyril V",
+    "start": 1748,
+    "end": 1751,
+    "num": "222"
+   },
+   {
+    "name": "Paisius II",
+    "start": 1751,
+    "end": 1752,
+    "num": "(219)"
+   },
+   {
+    "name": "Cyril V",
+    "start": 1752,
+    "end": 1757,
+    "num": "(222)"
+   },
+   {
+    "name": "Callinicus IV",
+    "start": 1757,
+    "end": null,
+    "num": "223"
+   },
+   {
+    "name": "Seraphim II",
+    "start": 1757,
+    "end": 1761,
+    "num": "224"
+   },
+   {
+    "name": "Joannicius III",
+    "start": 1761,
+    "end": 1763,
+    "num": "225"
+   },
+   {
+    "name": "Samuel",
+    "start": 1763,
+    "end": 1768,
+    "num": "226"
+   },
+   {
+    "name": "Meletius II",
+    "start": 1768,
+    "end": 1769,
+    "num": "227"
+   },
+   {
+    "name": "Theodosius II",
+    "start": 1769,
+    "end": 1773,
+    "num": "228"
+   },
+   {
+    "name": "Samuel",
+    "start": 1773,
+    "end": 1774,
+    "num": "(226)"
+   },
+   {
+    "name": "Sophronius II",
+    "start": 1774,
+    "end": 1780,
+    "num": "229"
+   },
+   {
+    "name": "Gabriel IV",
+    "start": 1780,
+    "end": 1785,
+    "num": "230"
+   },
+   {
+    "name": "Procopius",
+    "start": 1785,
+    "end": 1789,
+    "num": "231"
+   },
+   {
+    "name": "Neophytus VII",
+    "start": 1789,
+    "end": 1794,
+    "num": "232"
+   },
+   {
+    "name": "Gerasimus III",
+    "start": 1794,
+    "end": 1797,
+    "num": "233"
+   },
+   {
+    "name": "Gregory V",
+    "start": 1797,
+    "end": 1798,
+    "num": "234"
+   },
+   {
+    "name": "Neophytus VII",
+    "start": 1798,
+    "end": 1801,
+    "num": "(232)"
+   },
+   {
+    "name": "Callinicus V",
+    "start": 1801,
+    "end": 1806,
+    "num": "235"
+   },
+   {
+    "name": "Gregory V",
+    "start": 1806,
+    "end": 1808,
+    "num": "(234)"
+   },
+   {
+    "name": "Callinicus V",
+    "start": 1808,
+    "end": 1809,
+    "num": "(235)"
+   },
+   {
+    "name": "Jeremias IV",
+    "start": 1809,
+    "end": 1813,
+    "num": "236"
+   },
+   {
+    "name": "Cyril VI",
+    "start": 1813,
+    "end": 1818,
+    "num": "237"
+   },
+   {
+    "name": "Gregory V",
+    "start": 1818,
+    "end": 1821,
+    "num": "(234)"
+   },
+   {
+    "name": "Eugenius II",
+    "start": 1821,
+    "end": 1822,
+    "num": "238"
+   },
+   {
+    "name": "Anthimus III",
+    "start": 1822,
+    "end": 1824,
+    "num": "239"
+   },
+   {
+    "name": "Chrysanthus",
+    "start": 1824,
+    "end": 1826,
+    "num": "240"
+   },
+   {
+    "name": "Agathangelus",
+    "start": 1826,
+    "end": 1830,
+    "num": "241"
+   },
+   {
+    "name": "Constantius I",
+    "start": 1830,
+    "end": 1834,
+    "num": "242"
+   },
+   {
+    "name": "Constantius II",
+    "start": 1834,
+    "end": 1835,
+    "num": "243"
+   },
+   {
+    "name": "Gregory VI",
+    "start": 1835,
+    "end": 1840,
+    "num": "244"
+   },
+   {
+    "name": "Anthimus IV",
+    "start": 1840,
+    "end": 1841,
+    "num": "245"
+   },
+   {
+    "name": "Anthimus V",
+    "start": 1841,
+    "end": 1842,
+    "num": "246"
+   },
+   {
+    "name": "Germanus IV",
+    "start": 1842,
+    "end": 1845,
+    "num": "247"
+   },
+   {
+    "name": "Meletius III",
+    "start": 1845,
+    "end": null,
+    "num": "248"
+   },
+   {
+    "name": "Anthimus VI",
+    "start": 1845,
+    "end": 1848,
+    "num": "249"
+   },
+   {
+    "name": "Anthimus IV",
+    "start": 1848,
+    "end": 1852,
+    "num": "(245)"
+   },
+   {
+    "name": "Germanus IV",
+    "start": 1852,
+    "end": 1853,
+    "num": "(247)"
+   },
+   {
+    "name": "Anthimus VI",
+    "start": 1853,
+    "end": 1855,
+    "num": "(249)"
+   },
+   {
+    "name": "Cyril VII",
+    "start": 1855,
+    "end": 1860,
+    "num": "250"
+   },
+   {
+    "name": "Joachim II",
+    "start": 1860,
+    "end": 1863,
+    "num": "251"
+   },
+   {
+    "name": "Sophronius III",
+    "start": 1863,
+    "end": 1866,
+    "num": "252"
+   },
+   {
+    "name": "Gregory VI",
+    "start": 1867,
+    "end": 1871,
+    "num": "(244)"
+   },
+   {
+    "name": "Anthimus VI",
+    "start": 1871,
+    "end": 1873,
+    "num": "(249)"
+   },
+   {
+    "name": "Joachim II",
+    "start": 1873,
+    "end": 1878,
+    "num": "(251)"
+   },
+   {
+    "name": "Joachim III",
+    "start": 1878,
+    "end": 1884,
+    "num": "253"
+   },
+   {
+    "name": "Joachim IV",
+    "start": 1884,
+    "end": 1886,
+    "num": "254"
+   },
+   {
+    "name": "Dionysius V",
+    "start": 1887,
+    "end": 1891,
+    "num": "255"
+   },
+   {
+    "name": "Neophytus VIII",
+    "start": 1891,
+    "end": 1894,
+    "num": "256"
+   },
+   {
+    "name": "Anthimus VII",
+    "start": 1895,
+    "end": 1897,
+    "num": "257"
+   },
+   {
+    "name": "Constantine V",
+    "start": 1897,
+    "end": 1901,
+    "num": "258"
+   },
+   {
+    "name": "Joachim III",
+    "start": 1901,
+    "end": 1912,
+    "num": "(253)"
+   },
+   {
+    "name": "Germanus V",
+    "start": 1913,
+    "end": 1918,
+    "num": "259"
+   },
+   {
+    "name": "Meletius IV",
+    "start": 1918,
+    "end": 1923,
+    "num": "260"
+   },
+   {
+    "name": "Gregory VII",
+    "start": 1923,
+    "end": 1924,
+    "num": "261"
+   },
+   {
+    "name": "Constantine VI",
+    "start": 1924,
+    "end": 1925,
+    "num": "262"
+   },
+   {
+    "name": "Basil III",
+    "start": 1925,
+    "end": 1929,
+    "num": "263"
+   },
+   {
+    "name": "Photius II",
+    "start": 1929,
+    "end": 1935,
+    "num": "264"
+   },
+   {
+    "name": "Benjamin I",
+    "start": 1936,
+    "end": 1946,
+    "num": "265"
+   },
+   {
+    "name": "Maximus V",
+    "start": 1946,
+    "end": 1948,
+    "num": "266"
+   },
+   {
+    "name": "Athenagoras I",
+    "start": 1948,
+    "end": 1972,
+    "num": "267"
+   },
+   {
+    "name": "Demetrios I",
+    "start": 1972,
+    "end": 1991,
+    "num": "268"
+   },
+   {
+    "name": "Bartholomew I",
+    "start": 1991,
+    "end": "present",
+    "num": "269"
+   }
+  ]
+ },
+ "coptic": {
+  "title": "List of popes of the Coptic Orthodox Church",
+  "rows": [
+   {
+    "name": "Mark the Apostle, Evangelist and Martyr",
+    "start": 30,
+    "end": 68,
+    "num": "1"
+   },
+   {
+    "name": "Anianus",
+    "start": 62,
+    "end": null,
+    "num": "2"
+   },
+   {
+    "name": "Avilius",
+    "start": 83,
+    "end": null,
+    "num": "3"
+   },
+   {
+    "name": "Kedron",
+    "start": 106,
+    "end": null,
+    "num": "4"
+   },
+   {
+    "name": "Primus",
+    "start": 106,
+    "end": 118,
+    "num": "5"
+   },
+   {
+    "name": "Justus",
+    "start": 118,
+    "end": 129,
+    "num": "6"
+   },
+   {
+    "name": "Eumenius",
+    "start": 129,
+    "end": 141,
+    "num": "7"
+   },
+   {
+    "name": "Markianos",
+    "start": 141,
+    "end": 152,
+    "num": "8"
+   },
+   {
+    "name": "Celadion",
+    "start": 152,
+    "end": 166,
+    "num": "9"
+   },
+   {
+    "name": "Agrippinus",
+    "start": 166,
+    "end": 178,
+    "num": "10"
+   },
+   {
+    "name": "Julian",
+    "start": 178,
+    "end": 188,
+    "num": "11"
+   },
+   {
+    "name": "Demetrius the Vinedresser",
+    "start": 188,
+    "end": 230,
+    "num": "12"
+   },
+   {
+    "name": "Heraclas",
+    "start": 230,
+    "end": 246,
+    "num": "13"
+   },
+   {
+    "name": "Dionysius the Great",
+    "start": 246,
+    "end": 264,
+    "num": "14"
+   },
+   {
+    "name": "Maximus",
+    "start": 264,
+    "end": 282,
+    "num": "15"
+   },
+   {
+    "name": "Theonas",
+    "start": 282,
+    "end": 301,
+    "num": "16"
+   },
+   {
+    "name": "Peter the Seal of the Martyrs",
+    "start": 302,
+    "end": 311,
+    "num": "17"
+   },
+   {
+    "name": "Achillas the Great",
+    "start": 311,
+    "end": 312,
+    "num": "18"
+   },
+   {
+    "name": "Alexander I",
+    "start": 312,
+    "end": 328,
+    "num": "19"
+   },
+   {
+    "name": "Athanasius the Apostolic",
+    "start": 328,
+    "end": 373,
+    "num": "20"
+   },
+   {
+    "name": "Peter II",
+    "start": 373,
+    "end": 379,
+    "num": "21"
+   },
+   {
+    "name": "Timothy I",
+    "start": 379,
+    "end": 385,
+    "num": "22"
+   },
+   {
+    "name": "Theophilus I",
+    "start": 385,
+    "end": 412,
+    "num": "23"
+   },
+   {
+    "name": "Cyril the Pillar of Faith",
+    "start": 412,
+    "end": 444,
+    "num": "24"
+   },
+   {
+    "name": "Dioscorus the Champion",
+    "start": 444,
+    "end": 454,
+    "num": "25"
+   },
+   {
+    "name": "Timothy II",
+    "start": 455,
+    "end": 477,
+    "num": "26"
+   },
+   {
+    "name": "Peter III",
+    "start": 477,
+    "end": 489,
+    "num": "27"
+   },
+   {
+    "name": "Athanasius II",
+    "start": 489,
+    "end": 496,
+    "num": "28"
+   },
+   {
+    "name": "John I",
+    "start": 496,
+    "end": 505,
+    "num": "29"
+   },
+   {
+    "name": "John II",
+    "start": 505,
+    "end": 516,
+    "num": "30"
+   },
+   {
+    "name": "Dioscorus II",
+    "start": 516,
+    "end": 518,
+    "num": "31"
+   },
+   {
+    "name": "Timothy III",
+    "start": 518,
+    "end": 536,
+    "num": "32"
+   },
+   {
+    "name": "Theodosius I",
+    "start": 536,
+    "end": 567,
+    "num": "33"
+   },
+   {
+    "name": "Peter IV",
+    "start": 567,
+    "end": 569,
+    "num": "34"
+   },
+   {
+    "name": "Damian",
+    "start": 569,
+    "end": 605,
+    "num": "35"
+   },
+   {
+    "name": "Anastasius",
+    "start": 605,
+    "end": 616,
+    "num": "36"
+   },
+   {
+    "name": "Andronicus",
+    "start": 617,
+    "end": 623,
+    "num": "37"
+   },
+   {
+    "name": "Benjamin I",
+    "start": 623,
+    "end": 662,
+    "num": "38"
+   },
+   {
+    "name": "Agathon",
+    "start": 662,
+    "end": 680,
+    "num": "39"
+   },
+   {
+    "name": "John III",
+    "start": 680,
+    "end": 689,
+    "num": "40"
+   },
+   {
+    "name": "Isaac",
+    "start": 690,
+    "end": 692,
+    "num": "41"
+   },
+   {
+    "name": "Simeon I",
+    "start": 692,
+    "end": 700,
+    "num": "42"
+   },
+   {
+    "name": "Alexander II",
+    "start": 704,
+    "end": 729,
+    "num": "43"
+   },
+   {
+    "name": "Cosmas I",
+    "start": 729,
+    "end": 730,
+    "num": "44"
+   },
+   {
+    "name": "Theodore I",
+    "start": 730,
+    "end": 742,
+    "num": "45"
+   },
+   {
+    "name": "Michael I",
+    "start": 743,
+    "end": 767,
+    "num": "46"
+   },
+   {
+    "name": "Mina I",
+    "start": 767,
+    "end": 776,
+    "num": "47"
+   },
+   {
+    "name": "John IV",
+    "start": 777,
+    "end": 799,
+    "num": "48"
+   },
+   {
+    "name": "Mark II",
+    "start": 799,
+    "end": 819,
+    "num": "49"
+   },
+   {
+    "name": "James",
+    "start": 819,
+    "end": 830,
+    "num": "50"
+   },
+   {
+    "name": "Simeon II",
+    "start": 830,
+    "end": 830,
+    "num": "51"
+   },
+   {
+    "name": "Joseph",
+    "start": 831,
+    "end": 849,
+    "num": "52"
+   },
+   {
+    "name": "Michael II",
+    "start": 849,
+    "end": 851,
+    "num": "53"
+   },
+   {
+    "name": "Cosmas II",
+    "start": 851,
+    "end": 858,
+    "num": "54"
+   },
+   {
+    "name": "Shenouda I",
+    "start": 859,
+    "end": 880,
+    "num": "55"
+   },
+   {
+    "name": "Michael III",
+    "start": 880,
+    "end": 907,
+    "num": "56"
+   },
+   {
+    "name": "Gabriel I",
+    "start": 909,
+    "end": 920,
+    "num": "57"
+   },
+   {
+    "name": "Cosmas III",
+    "start": 920,
+    "end": 932,
+    "num": "58"
+   },
+   {
+    "name": "Macarius I",
+    "start": 932,
+    "end": 952,
+    "num": "59"
+   },
+   {
+    "name": "Theophilus II",
+    "start": 952,
+    "end": 956,
+    "num": "60"
+   },
+   {
+    "name": "Mina II",
+    "start": 956,
+    "end": 974,
+    "num": "61"
+   },
+   {
+    "name": "Abraham",
+    "start": 975,
+    "end": 978,
+    "num": "62"
+   },
+   {
+    "name": "Philotheos",
+    "start": 979,
+    "end": 1003,
+    "num": "63"
+   },
+   {
+    "name": "Zacharias",
+    "start": 1004,
+    "end": 1032,
+    "num": "64"
+   },
+   {
+    "name": "Shenouda II",
+    "start": 1032,
+    "end": 1046,
+    "num": "65"
+   },
+   {
+    "name": "Christodoulos",
+    "start": 1046,
+    "end": 1077,
+    "num": "66"
+   },
+   {
+    "name": "Cyril II",
+    "start": 1078,
+    "end": 1092,
+    "num": "67"
+   },
+   {
+    "name": "Michael IV",
+    "start": 1092,
+    "end": 1102,
+    "num": "68"
+   },
+   {
+    "name": "Macarius II",
+    "start": 1102,
+    "end": 1128,
+    "num": "69"
+   },
+   {
+    "name": "Gabriel II",
+    "start": 1131,
+    "end": 1145,
+    "num": "70"
+   },
+   {
+    "name": "Michael V",
+    "start": 1145,
+    "end": 1146,
+    "num": "71"
+   },
+   {
+    "name": "John V",
+    "start": 1147,
+    "end": 1166,
+    "num": "72"
+   },
+   {
+    "name": "Mark III",
+    "start": 1166,
+    "end": 1189,
+    "num": "73"
+   },
+   {
+    "name": "John VI",
+    "start": 1189,
+    "end": 1216,
+    "num": "74"
+   },
+   {
+    "name": "Cyril III",
+    "start": 1235,
+    "end": 1243,
+    "num": "75"
+   },
+   {
+    "name": "Athanasius III",
+    "start": 1250,
+    "end": 1261,
+    "num": "76"
+   },
+   {
+    "name": "John VII",
+    "start": 1262,
+    "end": 1293,
+    "num": "78"
+   },
+   {
+    "name": "Gabriel III",
+    "start": 1268,
+    "end": 1271,
+    "num": "77"
+   },
+   {
+    "name": "Theodosius III",
+    "start": 1294,
+    "end": 1300,
+    "num": "79"
+   },
+   {
+    "name": "John VIII",
+    "start": 1300,
+    "end": 1320,
+    "num": "80"
+   },
+   {
+    "name": "John IX",
+    "start": 1320,
+    "end": 1327,
+    "num": "81"
+   },
+   {
+    "name": "Benjamin II",
+    "start": 1327,
+    "end": 1339,
+    "num": "82"
+   },
+   {
+    "name": "Peter V",
+    "start": 1340,
+    "end": 1348,
+    "num": "83"
+   },
+   {
+    "name": "Mark IV",
+    "start": 1348,
+    "end": 1363,
+    "num": "84"
+   },
+   {
+    "name": "John X",
+    "start": 1363,
+    "end": 1369,
+    "num": "85"
+   },
+   {
+    "name": "Gabriel IV",
+    "start": 1370,
+    "end": 1378,
+    "num": "86"
+   },
+   {
+    "name": "Matthew",
+    "start": 1378,
+    "end": 1408,
+    "num": "87"
+   },
+   {
+    "name": "Gabriel V",
+    "start": 1409,
+    "end": 1427,
+    "num": "88"
+   },
+   {
+    "name": "John XI",
+    "start": 1427,
+    "end": 1452,
+    "num": "89"
+   },
+   {
+    "name": "Matthew II",
+    "start": 1452,
+    "end": 1465,
+    "num": "90"
+   },
+   {
+    "name": "Gabriel VI",
+    "start": 1466,
+    "end": 1475,
+    "num": "91"
+   },
+   {
+    "name": "Michael VI",
+    "start": 1477,
+    "end": 1478,
+    "num": "92"
+   },
+   {
+    "name": "John XII",
+    "start": 1480,
+    "end": 1483,
+    "num": "93"
+   },
+   {
+    "name": "John XIII",
+    "start": 1484,
+    "end": 1524,
+    "num": "94"
+   },
+   {
+    "name": "Gabriel VII",
+    "start": 1525,
+    "end": 1568,
+    "num": "95"
+   },
+   {
+    "name": "John XIV",
+    "start": 1571,
+    "end": 1586,
+    "num": "96"
+   },
+   {
+    "name": "Gabriel VIII",
+    "start": 1587,
+    "end": 1603,
+    "num": "97"
+   },
+   {
+    "name": "Mark V",
+    "start": 1603,
+    "end": 1619,
+    "num": "98"
+   },
+   {
+    "name": "John XV",
+    "start": 1619,
+    "end": 1629,
+    "num": "99"
+   },
+   {
+    "name": "Matthew III",
+    "start": 1631,
+    "end": 1646,
+    "num": "100"
+   },
+   {
+    "name": "Mark VI",
+    "start": 1646,
+    "end": 1656,
+    "num": "101"
+   },
+   {
+    "name": "Matthew IV",
+    "start": 1660,
+    "end": 1675,
+    "num": "102"
+   },
+   {
+    "name": "John XVI",
+    "start": 1676,
+    "end": 1718,
+    "num": "103"
+   },
+   {
+    "name": "Peter VI",
+    "start": 1718,
+    "end": 1726,
+    "num": "104"
+   },
+   {
+    "name": "John XVII",
+    "start": 1727,
+    "end": 1745,
+    "num": "105"
+   },
+   {
+    "name": "Mark VII",
+    "start": 1745,
+    "end": 1769,
+    "num": "106"
+   },
+   {
+    "name": "John XVIII",
+    "start": 1769,
+    "end": 1796,
+    "num": "107"
+   },
+   {
+    "name": "Mark VIII",
+    "start": 1796,
+    "end": 1809,
+    "num": "108"
+   },
+   {
+    "name": "Peter VII",
+    "start": 1809,
+    "end": 1852,
+    "num": "109"
+   },
+   {
+    "name": "Cyril IV",
+    "start": 1853,
+    "end": 1862,
+    "num": "110"
+   },
+   {
+    "name": "Demetrius II",
+    "start": 1862,
+    "end": 1870,
+    "num": "111"
+   },
+   {
+    "name": "Cyril V",
+    "start": 1874,
+    "end": 1927,
+    "num": "112"
+   },
+   {
+    "name": "John XIX",
+    "start": 1928,
+    "end": 1942,
+    "num": "113"
+   },
+   {
+    "name": "Macarius III",
+    "start": 1944,
+    "end": 1945,
+    "num": "114"
+   },
+   {
+    "name": "Joseph II",
+    "start": 1946,
+    "end": 1956,
+    "num": "115"
+   },
+   {
+    "name": "Cyril VI",
+    "start": 1959,
+    "end": 1971,
+    "num": "116"
+   },
+   {
+    "name": "Shenouda III",
+    "start": 1971,
+    "end": 2012,
+    "num": "117"
+   },
+   {
+    "name": "Tawadros II",
+    "start": 2012,
+    "end": "present",
+    "num": "118"
+   }
+  ]
+ },
+ "armenian": {
+  "title": "List of catholicoi of all Armenians",
+  "rows": [
+   {
+    "name": "Thaddeus the Apostle",
+    "start": 43,
+    "end": 66,
+    "num": "1"
+   },
+   {
+    "name": "Bartholomew the Apostle",
+    "start": 60,
+    "end": 68,
+    "num": "2"
+   },
+   {
+    "name": "Zacharias",
+    "start": 68,
+    "end": 72,
+    "num": "3"
+   },
+   {
+    "name": "Zementus",
+    "start": 72,
+    "end": 76,
+    "num": "4"
+   },
+   {
+    "name": "Atrnerseh",
+    "start": 76,
+    "end": 92,
+    "num": "5"
+   },
+   {
+    "name": "Mushe",
+    "start": 123,
+    "end": 123,
+    "num": "6"
+   },
+   {
+    "name": "Shahen",
+    "start": 124,
+    "end": 150,
+    "num": "7"
+   },
+   {
+    "name": "Shavarsh",
+    "start": 151,
+    "end": 171,
+    "num": "8"
+   },
+   {
+    "name": "Leontius",
+    "start": 172,
+    "end": 190,
+    "num": "9"
+   },
+   {
+    "name": "Merozanes",
+    "start": 240,
+    "end": 270,
+    "num": "10"
+   },
+   {
+    "name": "Gregory I the Illuminator",
+    "start": 288,
+    "end": 301,
+    "num": "11"
+   },
+   {
+    "name": "Gregory I the Illuminator",
+    "start": 301,
+    "end": 325,
+    "num": ""
+   },
+   {
+    "name": "Aristaces I",
+    "start": 325,
+    "end": 333,
+    "num": ""
+   },
+   {
+    "name": "Vrtanes I",
+    "start": 333,
+    "end": 341,
+    "num": ""
+   },
+   {
+    "name": "Husik I",
+    "start": 341,
+    "end": 347,
+    "num": ""
+   },
+   {
+    "name": "Daniel I of Armenia",
+    "start": 347,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Pharen I of Armenia",
+    "start": 348,
+    "end": 352,
+    "num": ""
+   },
+   {
+    "name": "Nerses I the Great",
+    "start": 353,
+    "end": 373,
+    "num": ""
+   },
+   {
+    "name": "Sahak I",
+    "start": 373,
+    "end": 377,
+    "num": ""
+   },
+   {
+    "name": "Zaven I",
+    "start": 377,
+    "end": 381,
+    "num": ""
+   },
+   {
+    "name": "Aspuraces I",
+    "start": 381,
+    "end": 386,
+    "num": ""
+   },
+   {
+    "name": "Sahak I",
+    "start": 387,
+    "end": 428,
+    "num": ""
+   },
+   {
+    "name": "Brkisho of Armenia",
+    "start": 428,
+    "end": 432,
+    "num": ""
+   },
+   {
+    "name": "Samuel of Armenia",
+    "start": 432,
+    "end": 437,
+    "num": ""
+   },
+   {
+    "name": "Hovsep I",
+    "start": 437,
+    "end": 452,
+    "num": ""
+   },
+   {
+    "name": "Melitus I",
+    "start": 452,
+    "end": 456,
+    "num": ""
+   },
+   {
+    "name": "Movses I",
+    "start": 456,
+    "end": 461,
+    "num": ""
+   },
+   {
+    "name": "Gyut I",
+    "start": 461,
+    "end": 478,
+    "num": ""
+   },
+   {
+    "name": "John I",
+    "start": 478,
+    "end": 490,
+    "num": ""
+   },
+   {
+    "name": "Babken I",
+    "start": 490,
+    "end": 516,
+    "num": ""
+   },
+   {
+    "name": "Samuel I",
+    "start": 516,
+    "end": 526,
+    "num": ""
+   },
+   {
+    "name": "Mushe I",
+    "start": 526,
+    "end": 534,
+    "num": ""
+   },
+   {
+    "name": "Sahak II",
+    "start": 534,
+    "end": 539,
+    "num": ""
+   },
+   {
+    "name": "Christopher I",
+    "start": 539,
+    "end": 545,
+    "num": ""
+   },
+   {
+    "name": "Ghevond I",
+    "start": 545,
+    "end": 548,
+    "num": ""
+   },
+   {
+    "name": "Nerses II",
+    "start": 548,
+    "end": 557,
+    "num": ""
+   },
+   {
+    "name": "John II",
+    "start": 557,
+    "end": 574,
+    "num": ""
+   },
+   {
+    "name": "Abraham I",
+    "start": 607,
+    "end": 615,
+    "num": ""
+   },
+   {
+    "name": "Komitas I",
+    "start": 615,
+    "end": 628,
+    "num": ""
+   },
+   {
+    "name": "Christopher II, died aft. 630 \u2014 \u0554\u0580\u056b\u057d\u057f\u0561\u0583\u0578\u0580 \u0532 \u0531\u057a\u0561\u0570\u0578\u0582\u0576\u056b",
+    "start": 628,
+    "end": 630,
+    "num": ""
+   },
+   {
+    "name": "Ezra",
+    "start": 630,
+    "end": 641,
+    "num": ""
+   },
+   {
+    "name": "Nerses III the Builder",
+    "start": 641,
+    "end": 661,
+    "num": ""
+   },
+   {
+    "name": "Anastasius I",
+    "start": 661,
+    "end": 667,
+    "num": ""
+   },
+   {
+    "name": "Israel I",
+    "start": 667,
+    "end": 677,
+    "num": ""
+   },
+   {
+    "name": "Sahak III",
+    "start": 677,
+    "end": 703,
+    "num": ""
+   },
+   {
+    "name": "Elias I",
+    "start": 703,
+    "end": 717,
+    "num": ""
+   },
+   {
+    "name": "Saint John III the Philosopher",
+    "start": 717,
+    "end": 728,
+    "num": ""
+   },
+   {
+    "name": "David I",
+    "start": 728,
+    "end": 741,
+    "num": ""
+   },
+   {
+    "name": "Dertad I",
+    "start": 741,
+    "end": 764,
+    "num": ""
+   },
+   {
+    "name": "Dertad II",
+    "start": 764,
+    "end": 767,
+    "num": ""
+   },
+   {
+    "name": "Sion I",
+    "start": 767,
+    "end": 775,
+    "num": ""
+   },
+   {
+    "name": "Isaiah I",
+    "start": 775,
+    "end": 788,
+    "num": ""
+   },
+   {
+    "name": "Stephen I",
+    "start": 788,
+    "end": 790,
+    "num": ""
+   },
+   {
+    "name": "Joab I",
+    "start": 790,
+    "end": 791,
+    "num": ""
+   },
+   {
+    "name": "Solomon I",
+    "start": 791,
+    "end": 792,
+    "num": ""
+   },
+   {
+    "name": "George I",
+    "start": 792,
+    "end": 795,
+    "num": ""
+   },
+   {
+    "name": "Joseph I",
+    "start": 795,
+    "end": 806,
+    "num": ""
+   },
+   {
+    "name": "David II",
+    "start": 806,
+    "end": 833,
+    "num": ""
+   },
+   {
+    "name": "John IV",
+    "start": 833,
+    "end": 855,
+    "num": ""
+   },
+   {
+    "name": "Zacharias I",
+    "start": 855,
+    "end": 876,
+    "num": ""
+   },
+   {
+    "name": "Gevorg II",
+    "start": 877,
+    "end": 897,
+    "num": ""
+   },
+   {
+    "name": "Mashdotz I",
+    "start": 897,
+    "end": 898,
+    "num": ""
+   },
+   {
+    "name": "John V the Historian",
+    "start": 898,
+    "end": 929,
+    "num": ""
+   },
+   {
+    "name": "Stephen II",
+    "start": 929,
+    "end": 930,
+    "num": ""
+   },
+   {
+    "name": "Theodore I",
+    "start": 930,
+    "end": 941,
+    "num": ""
+   },
+   {
+    "name": "Yeghishe I",
+    "start": 941,
+    "end": 946,
+    "num": ""
+   },
+   {
+    "name": "Ananias I",
+    "start": 949,
+    "end": 968,
+    "num": ""
+   },
+   {
+    "name": "Vahan I",
+    "start": 968,
+    "end": 969,
+    "num": ""
+   },
+   {
+    "name": "Stephen III",
+    "start": 969,
+    "end": 972,
+    "num": ""
+   },
+   {
+    "name": "Khachig I",
+    "start": 973,
+    "end": 992,
+    "num": ""
+   },
+   {
+    "name": "Sarkis I, d. aft. 1019 \u2014 \u054d\u0561\u0580\u0563\u056b\u057d \u0531 \u054d\u0587\u0561\u0576\u0581\u056b",
+    "start": 992,
+    "end": 1019,
+    "num": ""
+   },
+   {
+    "name": "Peter I",
+    "start": 1019,
+    "end": 1058,
+    "num": ""
+   },
+   {
+    "name": "Giragos I",
+    "start": 1441,
+    "end": 1443,
+    "num": ""
+   },
+   {
+    "name": "Gregory X",
+    "start": 1443,
+    "end": 1465,
+    "num": ""
+   },
+   {
+    "name": "Aristaces II",
+    "start": 1465,
+    "end": 1469,
+    "num": "Coadjutor"
+   },
+   {
+    "name": "Sarkis II the Relic-Carrier",
+    "start": 1469,
+    "end": 1474,
+    "num": ""
+   },
+   {
+    "name": "John VII the Relic-Bearer",
+    "start": 1474,
+    "end": 1484,
+    "num": "Died 1506"
+   },
+   {
+    "name": "Sarkis III the Other",
+    "start": 1484,
+    "end": 1515,
+    "num": ""
+   },
+   {
+    "name": "Zacharias II",
+    "start": 1515,
+    "end": 1520,
+    "num": ""
+   },
+   {
+    "name": "Sarkis IV",
+    "start": 1520,
+    "end": 1536,
+    "num": ""
+   },
+   {
+    "name": "Gregory XI",
+    "start": 1536,
+    "end": 1545,
+    "num": ""
+   },
+   {
+    "name": "Stepanos V",
+    "start": 1545,
+    "end": 1567,
+    "num": ""
+   },
+   {
+    "name": "Michael I",
+    "start": 1567,
+    "end": 1576,
+    "num": ""
+   },
+   {
+    "name": "Gregory XII",
+    "start": 1576,
+    "end": 1590,
+    "num": ""
+   },
+   {
+    "name": "David IV",
+    "start": 1590,
+    "end": 1629,
+    "num": "Died 1633"
+   },
+   {
+    "name": "Movses III",
+    "start": 1629,
+    "end": 1632,
+    "num": ""
+   },
+   {
+    "name": "Philip I",
+    "start": 1633,
+    "end": 1655,
+    "num": ""
+   },
+   {
+    "name": "Jacob IV",
+    "start": 1655,
+    "end": 1680,
+    "num": ""
+   },
+   {
+    "name": "Eliazar I",
+    "start": 1681,
+    "end": 1691,
+    "num": ""
+   },
+   {
+    "name": "Nahabed I",
+    "start": 1691,
+    "end": 1705,
+    "num": ""
+   },
+   {
+    "name": "Alexander I",
+    "start": 1706,
+    "end": 1714,
+    "num": ""
+   },
+   {
+    "name": "Asdvadzadur",
+    "start": 1715,
+    "end": 1725,
+    "num": ""
+   },
+   {
+    "name": "Karapet II",
+    "start": 1726,
+    "end": 1729,
+    "num": ""
+   },
+   {
+    "name": "Abraham II",
+    "start": 1730,
+    "end": 1734,
+    "num": ""
+   },
+   {
+    "name": "Abraham III",
+    "start": 1734,
+    "end": 1737,
+    "num": ""
+   },
+   {
+    "name": "Lazar I",
+    "start": 1737,
+    "end": 1751,
+    "num": ""
+   },
+   {
+    "name": "Minas I",
+    "start": 1751,
+    "end": 1753,
+    "num": ""
+   },
+   {
+    "name": "Alexander II",
+    "start": 1753,
+    "end": 1755,
+    "num": ""
+   },
+   {
+    "name": "Sahak V",
+    "start": 1755,
+    "end": null,
+    "num": "Elected but never consecrated"
+   },
+   {
+    "name": "Seat vacant",
+    "start": 1755,
+    "end": 1759,
+    "num": "Seat vacant (1755\u20131759)"
+   },
+   {
+    "name": "Jacob V",
+    "start": 1759,
+    "end": 1763,
+    "num": ""
+   },
+   {
+    "name": "Simeon I",
+    "start": 1763,
+    "end": 1780,
+    "num": ""
+   },
+   {
+    "name": "Ghukas I",
+    "start": 1780,
+    "end": 1799,
+    "num": ""
+   },
+   {
+    "name": "Hovsep II",
+    "start": 1800,
+    "end": null,
+    "num": "Elected but never consecrated; died 1801"
+   },
+   {
+    "name": "David V",
+    "start": 1801,
+    "end": 1807,
+    "num": ""
+   },
+   {
+    "name": "Daniel II",
+    "start": 1802,
+    "end": 1808,
+    "num": ""
+   },
+   {
+    "name": "Yeprem I",
+    "start": 1809,
+    "end": 1830,
+    "num": "Died 1835"
+   },
+   {
+    "name": "John VIII",
+    "start": 1831,
+    "end": 1842,
+    "num": ""
+   },
+   {
+    "name": "Nerses V",
+    "start": 1843,
+    "end": 1857,
+    "num": ""
+   },
+   {
+    "name": "Matthew I",
+    "start": 1858,
+    "end": 1865,
+    "num": ""
+   },
+   {
+    "name": "Gevorg IV",
+    "start": 1866,
+    "end": 1882,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant",
+    "start": 1882,
+    "end": 1885,
+    "num": "Seat vacant (1882\u20131885)"
+   },
+   {
+    "name": "Magar",
+    "start": 1885,
+    "end": 1891,
+    "num": ""
+   },
+   {
+    "name": "Mkrtich I Khrimian",
+    "start": 1892,
+    "end": 1907,
+    "num": ""
+   },
+   {
+    "name": "Matthew II Izmirlian",
+    "start": 1908,
+    "end": 1910,
+    "num": ""
+   },
+   {
+    "name": "Gevorg V",
+    "start": 1911,
+    "end": 1930,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant",
+    "start": 1930,
+    "end": 1932,
+    "num": "Seat vacant (1930\u20131932)"
+   },
+   {
+    "name": "Khoren I",
+    "start": 1932,
+    "end": 1938,
+    "num": "Likely murdered by the NKVD"
+   },
+   {
+    "name": "Seat vacant",
+    "start": 1938,
+    "end": 1945,
+    "num": "Seat vacant (1938\u20131945)"
+   },
+   {
+    "name": "Gevorg VI",
+    "start": 1945,
+    "end": 1954,
+    "num": ""
+   },
+   {
+    "name": "Vazgen I",
+    "start": 1955,
+    "end": 1994,
+    "num": ""
+   },
+   {
+    "name": "Karekin I",
+    "start": 1994,
+    "end": 1999,
+    "num": "Previously served as the Catholicos of Cilicia from | 1983 to 1994 as Karekin II"
+   },
+   {
+    "name": "Karekin II",
+    "start": 1999,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "moscow": {
+  "title": "List of metropolitans and patriarchs of Moscow",
+  "rows": [
+   {
+    "name": "Peter",
+    "start": 1308,
+    "end": 1326,
+    "num": "1"
+   },
+   {
+    "name": "Seat vacant 1326\u20131328",
+    "start": 1326,
+    "end": 1328,
+    "num": "Seat vacant 1326\u20131328"
+   },
+   {
+    "name": "Theognostus",
+    "start": 1328,
+    "end": 1353,
+    "num": "2"
+   },
+   {
+    "name": "Alexius",
+    "start": 1354,
+    "end": 1378,
+    "num": "3"
+   },
+   {
+    "name": "Mikhail (Mityay)",
+    "start": 1378,
+    "end": 1379,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1379\u20131381",
+    "start": 1379,
+    "end": 1381,
+    "num": "Seat vacant 1379\u20131381"
+   },
+   {
+    "name": "Cyprian",
+    "start": 1381,
+    "end": 1382,
+    "num": "4"
+   },
+   {
+    "name": "Pimen",
+    "start": 1382,
+    "end": 1384,
+    "num": "5"
+   },
+   {
+    "name": "Dionysius I",
+    "start": 1384,
+    "end": 1385,
+    "num": "6"
+   },
+   {
+    "name": "Seat vacant 1385\u20131390",
+    "start": 1385,
+    "end": 1390,
+    "num": "Seat vacant 1385\u20131390"
+   },
+   {
+    "name": "Cyprian",
+    "start": 1390,
+    "end": 1406,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1406\u20131408",
+    "start": 1406,
+    "end": 1408,
+    "num": "Seat vacant 1406\u20131408"
+   },
+   {
+    "name": "Photius",
+    "start": 1408,
+    "end": 1431,
+    "num": "7"
+   },
+   {
+    "name": "Seat vacant 1431\u20131433",
+    "start": 1431,
+    "end": 1433,
+    "num": "Seat vacant 1431\u20131433"
+   },
+   {
+    "name": "Gerasim",
+    "start": 1433,
+    "end": 1435,
+    "num": "8"
+   },
+   {
+    "name": "Isidore of Kiev",
+    "start": 1436,
+    "end": 1441,
+    "num": "9"
+   },
+   {
+    "name": "Jonah",
+    "start": 1448,
+    "end": null,
+    "num": "1"
+   },
+   {
+    "name": "Theodosius",
+    "start": 1461,
+    "end": null,
+    "num": "2"
+   },
+   {
+    "name": "Philip I",
+    "start": 1464,
+    "end": null,
+    "num": "3"
+   },
+   {
+    "name": "Gerontius",
+    "start": 1473,
+    "end": null,
+    "num": "4"
+   },
+   {
+    "name": "Zosimus",
+    "start": 1490,
+    "end": null,
+    "num": "5"
+   },
+   {
+    "name": "Simon",
+    "start": 1495,
+    "end": null,
+    "num": "6"
+   },
+   {
+    "name": "Varlaam",
+    "start": 1511,
+    "end": null,
+    "num": "7"
+   },
+   {
+    "name": "Daniel",
+    "start": 1522,
+    "end": null,
+    "num": "8"
+   },
+   {
+    "name": "Joasaphus",
+    "start": 1539,
+    "end": null,
+    "num": "9"
+   },
+   {
+    "name": "Macarius",
+    "start": 1542,
+    "end": null,
+    "num": "10"
+   },
+   {
+    "name": "Athanasius",
+    "start": 1564,
+    "end": null,
+    "num": "11"
+   },
+   {
+    "name": "Herman",
+    "start": 1566,
+    "end": null,
+    "num": "12"
+   },
+   {
+    "name": "Philip II",
+    "start": 1566,
+    "end": null,
+    "num": "13"
+   },
+   {
+    "name": "Cyril III",
+    "start": 1568,
+    "end": null,
+    "num": "14"
+   },
+   {
+    "name": "Anthony",
+    "start": 1572,
+    "end": null,
+    "num": "15"
+   },
+   {
+    "name": "Dionysius II",
+    "start": 1581,
+    "end": null,
+    "num": "16"
+   },
+   {
+    "name": "Job",
+    "start": 1587,
+    "end": null,
+    "num": "17"
+   },
+   {
+    "name": "Job",
+    "start": 1589,
+    "end": null,
+    "num": "1"
+   },
+   {
+    "name": "Ignatius",
+    "start": 1605,
+    "end": null,
+    "num": "\u2014"
+   },
+   {
+    "name": "Hermogenes",
+    "start": 1606,
+    "end": null,
+    "num": "2"
+   },
+   {
+    "name": "Seat vacant 1612\u20131619",
+    "start": 1612,
+    "end": 1619,
+    "num": "Seat vacant 1612\u20131619"
+   },
+   {
+    "name": "Filaret",
+    "start": 1619,
+    "end": null,
+    "num": "3"
+   },
+   {
+    "name": "Joasaphus I",
+    "start": 1634,
+    "end": null,
+    "num": "4"
+   },
+   {
+    "name": "Seat vacant 1640\u20131642",
+    "start": 1640,
+    "end": 1642,
+    "num": "Seat vacant 1640\u20131642"
+   },
+   {
+    "name": "Joseph",
+    "start": 1642,
+    "end": null,
+    "num": "5"
+   },
+   {
+    "name": "Nikon",
+    "start": 1652,
+    "end": null,
+    "num": "6"
+   },
+   {
+    "name": "Pitirim",
+    "start": 1658,
+    "end": null,
+    "num": "\u2014"
+   },
+   {
+    "name": "Joasaphus II",
+    "start": 1667,
+    "end": null,
+    "num": "7"
+   },
+   {
+    "name": "Pitirim",
+    "start": 1672,
+    "end": null,
+    "num": "8"
+   },
+   {
+    "name": "Joachim",
+    "start": 1674,
+    "end": null,
+    "num": "9"
+   },
+   {
+    "name": "Adrian",
+    "start": 1690,
+    "end": null,
+    "num": "10"
+   },
+   {
+    "name": "Stefan",
+    "start": 1700,
+    "end": null,
+    "num": "\u2014"
+   },
+   {
+    "name": "Stefan",
+    "start": 1721,
+    "end": null,
+    "num": "1"
+   },
+   {
+    "name": "Theophan",
+    "start": 1722,
+    "end": null,
+    "num": "2"
+   },
+   {
+    "name": "Seat vacant 1736\u20131742",
+    "start": 1736,
+    "end": 1742,
+    "num": "Seat vacant 1736\u20131742"
+   },
+   {
+    "name": "Joseph",
+    "start": 1742,
+    "end": null,
+    "num": "3"
+   },
+   {
+    "name": "Plato I",
+    "start": 1748,
+    "end": null,
+    "num": "4"
+   },
+   {
+    "name": "Hilarion",
+    "start": 1754,
+    "end": 1757,
+    "num": ""
+   },
+   {
+    "name": "Timothy",
+    "start": 1757,
+    "end": null,
+    "num": "5"
+   },
+   {
+    "name": "Ambrosius",
+    "start": 1768,
+    "end": null,
+    "num": "6"
+   },
+   {
+    "name": "Samoel",
+    "start": 1771,
+    "end": 1775,
+    "num": ""
+   },
+   {
+    "name": "Plato II",
+    "start": 1775,
+    "end": null,
+    "num": "7"
+   },
+   {
+    "name": "Seat vacant 1812\u20131818",
+    "start": 1812,
+    "end": 1818,
+    "num": "Seat vacant 1812\u20131818"
+   },
+   {
+    "name": "Augustine",
+    "start": 1818,
+    "end": null,
+    "num": "8"
+   },
+   {
+    "name": "Seraphim",
+    "start": 1819,
+    "end": null,
+    "num": "9"
+   },
+   {
+    "name": "Philaret",
+    "start": 1821,
+    "end": null,
+    "num": "10"
+   },
+   {
+    "name": "Innocent",
+    "start": 1868,
+    "end": null,
+    "num": "11"
+   },
+   {
+    "name": "Macarius I",
+    "start": 1879,
+    "end": null,
+    "num": "12"
+   },
+   {
+    "name": "Joannicius",
+    "start": 1882,
+    "end": null,
+    "num": "13"
+   },
+   {
+    "name": "Leontius",
+    "start": 1891,
+    "end": null,
+    "num": "14"
+   },
+   {
+    "name": "Sergius",
+    "start": 1893,
+    "end": null,
+    "num": "15"
+   },
+   {
+    "name": "Vladimir",
+    "start": 1898,
+    "end": null,
+    "num": "16"
+   },
+   {
+    "name": "Macarius II",
+    "start": 1912,
+    "end": null,
+    "num": "17"
+   },
+   {
+    "name": "Tikhon",
+    "start": 1917,
+    "end": null,
+    "num": "11"
+   },
+   {
+    "name": "Peter",
+    "start": 1925,
+    "end": null,
+    "num": "\u2014"
+   },
+   {
+    "name": "Sergius",
+    "start": 1925,
+    "end": null,
+    "num": "\u2014"
+   },
+   {
+    "name": "Sergius",
+    "start": 1936,
+    "end": null,
+    "num": "\u2014"
+   },
+   {
+    "name": "Sergius",
+    "start": 1943,
+    "end": null,
+    "num": "12"
+   },
+   {
+    "name": "Alexy I",
+    "start": 1945,
+    "end": null,
+    "num": "13"
+   },
+   {
+    "name": "Pimen I",
+    "start": 1971,
+    "end": null,
+    "num": "14"
+   },
+   {
+    "name": "Alexy II",
+    "start": 1990,
+    "end": null,
+    "num": "15"
+   },
+   {
+    "name": "Kirill",
+    "start": 2009,
+    "end": "present",
+    "num": "16"
+   }
+  ]
+ },
+ "coe": {
+  "title": "List of patriarchs of the Church of the East",
+  "rows": [
+   {
+    "name": "Abris",
+    "start": 121,
+    "end": 137,
+    "num": ""
+   },
+   {
+    "name": "Abraham I",
+    "start": 159,
+    "end": 171,
+    "num": ""
+   },
+   {
+    "name": "Yaqob I",
+    "start": 172,
+    "end": 190,
+    "num": ""
+   },
+   {
+    "name": "Ahadabui",
+    "start": 202,
+    "end": 220,
+    "num": ""
+   },
+   {
+    "name": "Shahlufa",
+    "start": 220,
+    "end": 240,
+    "num": ""
+   },
+   {
+    "name": "Papa bar Aggai",
+    "start": 280,
+    "end": 329,
+    "num": ""
+   },
+   {
+    "name": "Shemon bar Sabbae",
+    "start": 329,
+    "end": 341,
+    "num": ""
+   },
+   {
+    "name": "Shahdost",
+    "start": 341,
+    "end": 342,
+    "num": ""
+   },
+   {
+    "name": "Barba'shmin",
+    "start": 343,
+    "end": 346,
+    "num": ""
+   },
+   {
+    "name": "Tomarsa",
+    "start": 363,
+    "end": 371,
+    "num": ""
+   },
+   {
+    "name": "Qayyoma",
+    "start": 377,
+    "end": 399,
+    "num": ""
+   },
+   {
+    "name": "Isaac",
+    "start": 399,
+    "end": 410,
+    "num": ""
+   },
+   {
+    "name": "Ahha",
+    "start": 410,
+    "end": 414,
+    "num": ""
+   },
+   {
+    "name": "Yahballaha I",
+    "start": 415,
+    "end": 420,
+    "num": ""
+   },
+   {
+    "name": "Mana",
+    "start": 420,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Farbokht",
+    "start": 421,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Dadisho",
+    "start": 421,
+    "end": 456,
+    "num": ""
+   },
+   {
+    "name": "Babowai",
+    "start": 457,
+    "end": 484,
+    "num": ""
+   },
+   {
+    "name": "Acacius",
+    "start": 485,
+    "end": 496,
+    "num": ""
+   },
+   {
+    "name": "Babai",
+    "start": 497,
+    "end": 503,
+    "num": ""
+   },
+   {
+    "name": "Shila",
+    "start": 503,
+    "end": 523,
+    "num": ""
+   },
+   {
+    "name": "Elisha",
+    "start": 524,
+    "end": 537,
+    "num": ""
+   },
+   {
+    "name": "Narsai",
+    "start": 524,
+    "end": 537,
+    "num": ""
+   },
+   {
+    "name": "Paul",
+    "start": 539,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Aba I",
+    "start": 540,
+    "end": 552,
+    "num": ""
+   },
+   {
+    "name": "Joseph",
+    "start": 552,
+    "end": 567,
+    "num": ""
+   },
+   {
+    "name": "Ezekiel",
+    "start": 570,
+    "end": 581,
+    "num": ""
+   },
+   {
+    "name": "Ishoyahb I",
+    "start": 582,
+    "end": 595,
+    "num": ""
+   },
+   {
+    "name": "Sabrisho I",
+    "start": 596,
+    "end": 604,
+    "num": ""
+   },
+   {
+    "name": "Gregory",
+    "start": 605,
+    "end": 608,
+    "num": ""
+   },
+   {
+    "name": "Ishoyahb II",
+    "start": 628,
+    "end": 645,
+    "num": ""
+   },
+   {
+    "name": "Maremmeh",
+    "start": 646,
+    "end": 649,
+    "num": ""
+   },
+   {
+    "name": "Ishoyahb III",
+    "start": 649,
+    "end": 659,
+    "num": ""
+   },
+   {
+    "name": "Giwargis I",
+    "start": 661,
+    "end": 680,
+    "num": ""
+   },
+   {
+    "name": "Yohannan I",
+    "start": 680,
+    "end": 683,
+    "num": ""
+   },
+   {
+    "name": "Hnanisho I",
+    "start": 686,
+    "end": 698,
+    "num": ""
+   },
+   {
+    "name": "Sliba-zkha",
+    "start": 714,
+    "end": 728,
+    "num": ""
+   },
+   {
+    "name": "Pethion",
+    "start": 731,
+    "end": 740,
+    "num": ""
+   },
+   {
+    "name": "Aba II",
+    "start": 741,
+    "end": 751,
+    "num": ""
+   },
+   {
+    "name": "Yaqob II",
+    "start": 753,
+    "end": 775,
+    "num": ""
+   },
+   {
+    "name": "Hnanisho II",
+    "start": 773,
+    "end": 780,
+    "num": ""
+   },
+   {
+    "name": "Timothy I",
+    "start": 780,
+    "end": 823,
+    "num": ""
+   },
+   {
+    "name": "Isho Bar Nun",
+    "start": 823,
+    "end": 828,
+    "num": ""
+   },
+   {
+    "name": "Giwargis II",
+    "start": 828,
+    "end": 831,
+    "num": ""
+   },
+   {
+    "name": "Sabrisho II",
+    "start": 831,
+    "end": 835,
+    "num": ""
+   },
+   {
+    "name": "Abraham II",
+    "start": 837,
+    "end": 850,
+    "num": ""
+   },
+   {
+    "name": "Theodosius",
+    "start": 853,
+    "end": 858,
+    "num": ""
+   },
+   {
+    "name": "Sargis",
+    "start": 860,
+    "end": 872,
+    "num": ""
+   },
+   {
+    "name": "Enosh",
+    "start": 877,
+    "end": 884,
+    "num": ""
+   },
+   {
+    "name": "Yohannan II",
+    "start": 884,
+    "end": 892,
+    "num": ""
+   },
+   {
+    "name": "Yohannan III",
+    "start": 893,
+    "end": 899,
+    "num": ""
+   },
+   {
+    "name": "Yohannan IV",
+    "start": 900,
+    "end": 905,
+    "num": ""
+   },
+   {
+    "name": "Abraham III",
+    "start": 906,
+    "end": 937,
+    "num": ""
+   },
+   {
+    "name": "Emmanuel I",
+    "start": 937,
+    "end": 960,
+    "num": ""
+   },
+   {
+    "name": "Israel",
+    "start": 961,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Abdisho I",
+    "start": 963,
+    "end": 986,
+    "num": ""
+   },
+   {
+    "name": "Mari II",
+    "start": 987,
+    "end": 999,
+    "num": ""
+   },
+   {
+    "name": "Yohannan V",
+    "start": 1000,
+    "end": 1011,
+    "num": ""
+   },
+   {
+    "name": "Yohannan VI",
+    "start": 1012,
+    "end": 1020,
+    "num": ""
+   },
+   {
+    "name": "Ishoyahb IV",
+    "start": 1020,
+    "end": 1025,
+    "num": ""
+   },
+   {
+    "name": "Eliya I",
+    "start": 1028,
+    "end": 1049,
+    "num": ""
+   },
+   {
+    "name": "Yohannan VII",
+    "start": 1049,
+    "end": 1057,
+    "num": ""
+   },
+   {
+    "name": "Sabrisho III",
+    "start": 1064,
+    "end": 1072,
+    "num": ""
+   },
+   {
+    "name": "Abdisho II",
+    "start": 1074,
+    "end": 1090,
+    "num": ""
+   },
+   {
+    "name": "Makkikha I",
+    "start": 1092,
+    "end": 1110,
+    "num": ""
+   },
+   {
+    "name": "Eliya II",
+    "start": 1111,
+    "end": 1132,
+    "num": ""
+   },
+   {
+    "name": "Bar Sawma",
+    "start": 1134,
+    "end": 1136,
+    "num": ""
+   },
+   {
+    "name": "Abdisho III",
+    "start": 1139,
+    "end": 1148,
+    "num": ""
+   },
+   {
+    "name": "Ishoyahb V",
+    "start": 1149,
+    "end": 1175,
+    "num": ""
+   },
+   {
+    "name": "Eliya III",
+    "start": 1176,
+    "end": 1190,
+    "num": ""
+   },
+   {
+    "name": "Yahballaha II",
+    "start": 1190,
+    "end": 1222,
+    "num": ""
+   },
+   {
+    "name": "Sabrisho IV",
+    "start": 1222,
+    "end": 1224,
+    "num": ""
+   },
+   {
+    "name": "Sabrisho V",
+    "start": 1226,
+    "end": 1256,
+    "num": ""
+   },
+   {
+    "name": "Makkikha II",
+    "start": 1257,
+    "end": 1265,
+    "num": ""
+   },
+   {
+    "name": "Denha I",
+    "start": 1265,
+    "end": 1281,
+    "num": ""
+   },
+   {
+    "name": "Yahballaha III",
+    "start": 1281,
+    "end": 1317,
+    "num": ""
+   },
+   {
+    "name": "Timothy II",
+    "start": 1318,
+    "end": 1332,
+    "num": ""
+   },
+   {
+    "name": "Denha II",
+    "start": 1336,
+    "end": 1382,
+    "num": ""
+   },
+   {
+    "name": "Shemon II",
+    "start": 1385,
+    "end": 1405,
+    "num": ""
+   },
+   {
+    "name": "Eliya IV",
+    "start": 1405,
+    "end": 1425,
+    "num": ""
+   },
+   {
+    "name": "Shemon III",
+    "start": 1425,
+    "end": 1450,
+    "num": ""
+   },
+   {
+    "name": "Shemon IV",
+    "start": 1450,
+    "end": 1497,
+    "num": ""
+   },
+   {
+    "name": "Shemon V",
+    "start": 1497,
+    "end": 1502,
+    "num": ""
+   },
+   {
+    "name": "Eliya V",
+    "start": 1502,
+    "end": 1504,
+    "num": ""
+   },
+   {
+    "name": "Shemon VI",
+    "start": 1504,
+    "end": 1538,
+    "num": ""
+   },
+   {
+    "name": "Shemon VII Ishoyahb",
+    "start": 1538,
+    "end": 1558,
+    "num": ""
+   },
+   {
+    "name": "Shimun XVIII Rubil",
+    "start": 1861,
+    "end": 1903,
+    "num": ""
+   },
+   {
+    "name": "Shimun XIX Benyamin",
+    "start": 1903,
+    "end": 1918,
+    "num": ""
+   },
+   {
+    "name": "Shimun XX Paulos",
+    "start": 1918,
+    "end": 1920,
+    "num": ""
+   },
+   {
+    "name": "Shimun XXI Eshai",
+    "start": 1920,
+    "end": 1975,
+    "num": ""
+   },
+   {
+    "name": "Dinkha IV",
+    "start": 1976,
+    "end": 2015,
+    "num": ""
+   },
+   {
+    "name": "Gewargis III",
+    "start": 2015,
+    "end": 2021,
+    "num": ""
+   },
+   {
+    "name": "Awa III",
+    "start": 2021,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "syriac": {
+  "title": "List of Syriac Orthodox patriarchs of Antioch",
+  "rows": [
+   {
+    "name": "Severus I",
+    "start": 512,
+    "end": 538,
+    "num": ""
+   },
+   {
+    "name": "Sergius of Tella",
+    "start": 544,
+    "end": 564,
+    "num": ""
+   },
+   {
+    "name": "Paul II",
+    "start": 551,
+    "end": 581,
+    "num": ""
+   },
+   {
+    "name": "Peter III",
+    "start": 578,
+    "end": 591,
+    "num": ""
+   },
+   {
+    "name": "Julian II",
+    "start": 591,
+    "end": 603,
+    "num": ""
+   },
+   {
+    "name": "Athanasius I Gammolo",
+    "start": 594,
+    "end": 631,
+    "num": ""
+   },
+   {
+    "name": "John III",
+    "start": 631,
+    "end": 648,
+    "num": ""
+   },
+   {
+    "name": "Theodore",
+    "start": 649,
+    "end": 667,
+    "num": ""
+   },
+   {
+    "name": "Severus II bar Masqeh",
+    "start": 667,
+    "end": 684,
+    "num": ""
+   },
+   {
+    "name": "Athanasius II Baldoyo",
+    "start": 683,
+    "end": 687,
+    "num": ""
+   },
+   {
+    "name": "Julian III",
+    "start": 687,
+    "end": 708,
+    "num": ""
+   },
+   {
+    "name": "Elias I",
+    "start": 709,
+    "end": 724,
+    "num": ""
+   },
+   {
+    "name": "Athanasius III",
+    "start": 724,
+    "end": 740,
+    "num": ""
+   },
+   {
+    "name": "Iwannis I",
+    "start": 739,
+    "end": 758,
+    "num": ""
+   },
+   {
+    "name": "George I",
+    "start": 758,
+    "end": 774,
+    "num": ""
+   },
+   {
+    "name": "Joseph",
+    "start": 790,
+    "end": 792,
+    "num": ""
+   },
+   {
+    "name": "Quriaqos of Tagrit",
+    "start": 793,
+    "end": 837,
+    "num": ""
+   },
+   {
+    "name": "Dionysius I Telmaharoyo",
+    "start": 818,
+    "end": 837,
+    "num": ""
+   },
+   {
+    "name": "John IV",
+    "start": 846,
+    "end": 878,
+    "num": ""
+   },
+   {
+    "name": "Ignatius II",
+    "start": 878,
+    "end": 887,
+    "num": ""
+   },
+   {
+    "name": "Theodosius Romanus",
+    "start": 887,
+    "end": 897,
+    "num": ""
+   },
+   {
+    "name": "Dionysius II",
+    "start": 896,
+    "end": 909,
+    "num": ""
+   },
+   {
+    "name": "John V",
+    "start": 910,
+    "end": 922,
+    "num": ""
+   },
+   {
+    "name": "Basil I",
+    "start": 923,
+    "end": 935,
+    "num": ""
+   },
+   {
+    "name": "John VI",
+    "start": 936,
+    "end": 953,
+    "num": ""
+   },
+   {
+    "name": "Iwannis II",
+    "start": 954,
+    "end": 957,
+    "num": ""
+   },
+   {
+    "name": "Dionysius III",
+    "start": 958,
+    "end": 961,
+    "num": ""
+   },
+   {
+    "name": "Abraham I",
+    "start": 962,
+    "end": 965,
+    "num": ""
+   },
+   {
+    "name": "John VII Sarigta",
+    "start": 965,
+    "end": 985,
+    "num": ""
+   },
+   {
+    "name": "Athanasius IV Salhoyo",
+    "start": 986,
+    "end": 1003,
+    "num": ""
+   },
+   {
+    "name": "John VIII bar Abdoun",
+    "start": 1004,
+    "end": 1033,
+    "num": ""
+   },
+   {
+    "name": "Dionysius IV Yahyo",
+    "start": 1031,
+    "end": 1049,
+    "num": ""
+   },
+   {
+    "name": "John IX bar \u02bfAbdun",
+    "start": 1042,
+    "end": 1057,
+    "num": ""
+   },
+   {
+    "name": "Athanasius V Yahyo",
+    "start": 1057,
+    "end": 1064,
+    "num": ""
+   },
+   {
+    "name": "John X bar Shushan",
+    "start": 1063,
+    "end": 1073,
+    "num": ""
+   },
+   {
+    "name": "Basil II",
+    "start": 1074,
+    "end": 1077,
+    "num": ""
+   },
+   {
+    "name": "Dionysius V Lazarus",
+    "start": 1077,
+    "end": 1079,
+    "num": ""
+   },
+   {
+    "name": "Iwannis III",
+    "start": 1086,
+    "end": 1088,
+    "num": ""
+   },
+   {
+    "name": "Dionysius VI",
+    "start": 1088,
+    "end": 1090,
+    "num": ""
+   },
+   {
+    "name": "Athanasius VI bar Khamoro",
+    "start": 1090,
+    "end": 1129,
+    "num": ""
+   },
+   {
+    "name": "John XI bar Mawdyono",
+    "start": 1129,
+    "end": 1137,
+    "num": ""
+   },
+   {
+    "name": "Athanasius VII bar Qatra",
+    "start": 1138,
+    "end": 1166,
+    "num": ""
+   },
+   {
+    "name": "Michael I",
+    "start": 1166,
+    "end": 1193,
+    "num": ""
+   },
+   {
+    "name": "Athanasius VIII bar Salibi",
+    "start": 1199,
+    "end": 1215,
+    "num": ""
+   },
+   {
+    "name": "John XII",
+    "start": 1207,
+    "end": 1222,
+    "num": ""
+   },
+   {
+    "name": "Ignatius III David",
+    "start": 1222,
+    "end": 1261,
+    "num": ""
+   },
+   {
+    "name": "John XIII bar Ma'dani",
+    "start": 1252,
+    "end": 1263,
+    "num": ""
+   },
+   {
+    "name": "Ignatius IV Yeshu",
+    "start": 1264,
+    "end": 1283,
+    "num": ""
+   },
+   {
+    "name": "Philoxenus I Nemrud",
+    "start": 1283,
+    "end": 1292,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Behnam Hadloyo",
+    "start": 1445,
+    "end": 1455,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Khalaf Ma\u02bfdnoyo",
+    "start": 1455,
+    "end": 1456,
+    "num": ""
+   },
+   {
+    "name": "Ignatius John XIV",
+    "start": 1484,
+    "end": 1493,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Noah of Lebanon",
+    "start": 1493,
+    "end": 1509,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Yeshu I",
+    "start": 1509,
+    "end": 1519,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Jacob I",
+    "start": 1510,
+    "end": 1518,
+    "num": ""
+   },
+   {
+    "name": "Ignatius David I",
+    "start": 1519,
+    "end": 1521,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Abdullah I",
+    "start": 1521,
+    "end": 1557,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Ni'matallah",
+    "start": 1557,
+    "end": 1576,
+    "num": ""
+   },
+   {
+    "name": "Ignatius David II Shah",
+    "start": 1576,
+    "end": 1591,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Pilate",
+    "start": 1591,
+    "end": 1597,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Hidayat Allah",
+    "start": 1597,
+    "end": 1640,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Simon",
+    "start": 1640,
+    "end": 1670,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Yeshu II",
+    "start": 1653,
+    "end": 1661,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Abdulmasih I",
+    "start": 1661,
+    "end": 1686,
+    "num": ""
+   },
+   {
+    "name": "Ignatius George II",
+    "start": 1687,
+    "end": 1708,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Isaac II",
+    "start": 1709,
+    "end": 1722,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Shukrallah II",
+    "start": 1722,
+    "end": 1745,
+    "num": ""
+   },
+   {
+    "name": "Ignatius George III",
+    "start": 1745,
+    "end": 1768,
+    "num": ""
+   },
+   {
+    "name": "Ignatius George IV",
+    "start": 1768,
+    "end": 1781,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Matthew",
+    "start": 1782,
+    "end": 1817,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Yunan",
+    "start": 1817,
+    "end": 1818,
+    "num": ""
+   },
+   {
+    "name": "Ignatius George V",
+    "start": 1819,
+    "end": 1838,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Elias II",
+    "start": 1838,
+    "end": 1847,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Jacob II",
+    "start": 1847,
+    "end": 1871,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Peter IV",
+    "start": 1872,
+    "end": 1894,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Abdulmasih II",
+    "start": 1894,
+    "end": 1903,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Abdullah II",
+    "start": 1906,
+    "end": 1917,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Elias III",
+    "start": 1917,
+    "end": 1932,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Aphrem I",
+    "start": 1933,
+    "end": 1957,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Jacob III",
+    "start": 1957,
+    "end": 1980,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Zakka I",
+    "start": 1980,
+    "end": 2014,
+    "num": ""
+   },
+   {
+    "name": "Ignatius Aphrem II",
+    "start": 2014,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "antioch": {
+  "title": "List of Greek Orthodox patriarchs of Antioch",
+  "rows": [
+   {
+    "name": "Paul II the Jew",
+    "start": 519,
+    "end": 521,
+    "num": ""
+   },
+   {
+    "name": "Euphrasius",
+    "start": 521,
+    "end": 526,
+    "num": ""
+   },
+   {
+    "name": "Ephraim of Amid",
+    "start": 527,
+    "end": 545,
+    "num": ""
+   },
+   {
+    "name": "Domninus",
+    "start": 545,
+    "end": 559,
+    "num": ""
+   },
+   {
+    "name": "Anastasius I, first time",
+    "start": 559,
+    "end": 570,
+    "num": ""
+   },
+   {
+    "name": "Gregory",
+    "start": 570,
+    "end": 593,
+    "num": ""
+   },
+   {
+    "name": "Anastasius I, second time",
+    "start": 593,
+    "end": 598,
+    "num": ""
+   },
+   {
+    "name": "Anastasius II",
+    "start": 599,
+    "end": 609,
+    "num": ""
+   },
+   {
+    "name": "Macedonius",
+    "start": 639,
+    "end": 649,
+    "num": ""
+   },
+   {
+    "name": "Theophanes [it]",
+    "start": 681,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "George II",
+    "start": 685,
+    "end": 702,
+    "num": ""
+   },
+   {
+    "name": "Stephen III",
+    "start": 742,
+    "end": 744,
+    "num": ""
+   },
+   {
+    "name": "Theophylact Bar Q\u0101nbara [fr]",
+    "start": 744,
+    "end": 750,
+    "num": ""
+   },
+   {
+    "name": "Theodore I",
+    "start": 750,
+    "end": 773,
+    "num": ""
+   },
+   {
+    "name": "Job [fr]",
+    "start": 813,
+    "end": 844,
+    "num": ""
+   },
+   {
+    "name": "Nicholas I",
+    "start": 845,
+    "end": 867,
+    "num": ""
+   },
+   {
+    "name": "Eustathius II",
+    "start": 845,
+    "end": 869,
+    "num": ""
+   },
+   {
+    "name": "Stephen IV",
+    "start": 870,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Theodosius I",
+    "start": 870,
+    "end": 890,
+    "num": ""
+   },
+   {
+    "name": "Simeon I",
+    "start": 892,
+    "end": 907,
+    "num": ""
+   },
+   {
+    "name": "Elias I",
+    "start": 907,
+    "end": 934,
+    "num": ""
+   },
+   {
+    "name": "Theodosius II",
+    "start": 936,
+    "end": 943,
+    "num": ""
+   },
+   {
+    "name": "Theocharistus",
+    "start": 944,
+    "end": 948,
+    "num": ""
+   },
+   {
+    "name": "Agapius I",
+    "start": 952,
+    "end": 959,
+    "num": ""
+   },
+   {
+    "name": "Christopher",
+    "start": 960,
+    "end": 969,
+    "num": ""
+   },
+   {
+    "name": "Eustratius",
+    "start": 969,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Theodore II of Koloneia",
+    "start": 970,
+    "end": 976,
+    "num": ""
+   },
+   {
+    "name": "Agapius II",
+    "start": 978,
+    "end": 996,
+    "num": ""
+   },
+   {
+    "name": "John III",
+    "start": 996,
+    "end": 1021,
+    "num": ""
+   },
+   {
+    "name": "Nicholas II",
+    "start": 1025,
+    "end": 1030,
+    "num": ""
+   },
+   {
+    "name": "Elias II",
+    "start": 1032,
+    "end": 1033,
+    "num": ""
+   },
+   {
+    "name": "Theodore IIISeal of Basil II",
+    "start": 1034,
+    "end": 1042,
+    "num": ""
+   },
+   {
+    "name": "Peter III",
+    "start": 1052,
+    "end": 1056,
+    "num": ""
+   },
+   {
+    "name": "John IV",
+    "start": 1056,
+    "end": 1057,
+    "num": ""
+   },
+   {
+    "name": "Theodosius III",
+    "start": 1057,
+    "end": 1059,
+    "num": ""
+   },
+   {
+    "name": "Aemilian",
+    "start": 1074,
+    "end": 1079,
+    "num": ""
+   },
+   {
+    "name": "Nicephorus the Black",
+    "start": 1079,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "John V",
+    "start": 1091,
+    "end": 1100,
+    "num": ""
+   },
+   {
+    "name": "John VI",
+    "start": 1106,
+    "end": 1134,
+    "num": ""
+   },
+   {
+    "name": "Luke",
+    "start": 1137,
+    "end": 1156,
+    "num": ""
+   },
+   {
+    "name": "Soterichos Panteugenos, elect",
+    "start": 1156,
+    "end": 1157,
+    "num": ""
+   },
+   {
+    "name": "Athanasius I Manasses",
+    "start": 1157,
+    "end": 1171,
+    "num": ""
+   },
+   {
+    "name": "Cyril II",
+    "start": 1173,
+    "end": 1179,
+    "num": ""
+   },
+   {
+    "name": "Theodosius?",
+    "start": 1180,
+    "end": 1182,
+    "num": ""
+   },
+   {
+    "name": "Theodore IV Balsamon",
+    "start": 1189,
+    "end": 1195,
+    "num": ""
+   },
+   {
+    "name": "Theodosius V of Villehardouin",
+    "start": 1275,
+    "end": 1283,
+    "num": ""
+   },
+   {
+    "name": "Arsenius",
+    "start": 1283,
+    "end": 1286,
+    "num": ""
+   },
+   {
+    "name": "Dionysius I",
+    "start": 1287,
+    "end": 1316,
+    "num": ""
+   },
+   {
+    "name": "Ignatius II",
+    "start": 1344,
+    "end": 1359,
+    "num": ""
+   },
+   {
+    "name": "Pachomius I (before 1359\u20131368), first time",
+    "start": 1359,
+    "end": 1368,
+    "num": ""
+   },
+   {
+    "name": "Michael I",
+    "start": 1368,
+    "end": 1375,
+    "num": ""
+   },
+   {
+    "name": "Pachomius I, second time",
+    "start": 1375,
+    "end": 1377,
+    "num": ""
+   },
+   {
+    "name": "Mark I",
+    "start": 1377,
+    "end": 1378,
+    "num": ""
+   },
+   {
+    "name": "Pachomius I, third time",
+    "start": 1378,
+    "end": 1386,
+    "num": ""
+   },
+   {
+    "name": "Nilus or Nikon",
+    "start": 1388,
+    "end": 1395,
+    "num": ""
+   },
+   {
+    "name": "Michael II",
+    "start": 1395,
+    "end": 1412,
+    "num": ""
+   },
+   {
+    "name": "Pachomius II",
+    "start": 1412,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Mark II",
+    "start": 1426,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Dorotheus I",
+    "start": 1434,
+    "end": 1451,
+    "num": ""
+   },
+   {
+    "name": "Michael III",
+    "start": 1451,
+    "end": 1456,
+    "num": ""
+   },
+   {
+    "name": "Mark III",
+    "start": 1456,
+    "end": 1457,
+    "num": ""
+   },
+   {
+    "name": "Joachim I",
+    "start": 1458,
+    "end": 1459,
+    "num": ""
+   },
+   {
+    "name": "Michael IV",
+    "start": 1470,
+    "end": 1484,
+    "num": ""
+   },
+   {
+    "name": "Michael V",
+    "start": 1523,
+    "end": 1541,
+    "num": ""
+   },
+   {
+    "name": "Dorotheus III",
+    "start": 1541,
+    "end": 1543,
+    "num": ""
+   },
+   {
+    "name": "Joachim IV Ibn Juma",
+    "start": 1543,
+    "end": 1576,
+    "num": ""
+   },
+   {
+    "name": "Michael VI Sabbagh",
+    "start": 1577,
+    "end": 1581,
+    "num": ""
+   },
+   {
+    "name": "Joachim V",
+    "start": 1581,
+    "end": 1592,
+    "num": ""
+   },
+   {
+    "name": "Joachim VI",
+    "start": 1593,
+    "end": 1604,
+    "num": ""
+   },
+   {
+    "name": "Dorotheus IV",
+    "start": 1604,
+    "end": 1611,
+    "num": ""
+   },
+   {
+    "name": "Athanasius II",
+    "start": 1611,
+    "end": 1619,
+    "num": ""
+   },
+   {
+    "name": "Cyril IV Dabbas",
+    "start": 1619,
+    "end": 1627,
+    "num": ""
+   },
+   {
+    "name": "Euthymius II",
+    "start": 1634,
+    "end": 1635,
+    "num": ""
+   },
+   {
+    "name": "Euthymius III",
+    "start": 1635,
+    "end": 1647,
+    "num": ""
+   },
+   {
+    "name": "Macarius III Ibn al-Za'im",
+    "start": 1647,
+    "end": 1672,
+    "num": ""
+   },
+   {
+    "name": "Cyril V",
+    "start": 1672,
+    "end": 1720,
+    "num": ""
+   },
+   {
+    "name": "Neophytos of Chios",
+    "start": 1673,
+    "end": 1682,
+    "num": ""
+   },
+   {
+    "name": "Athanasius III (or IV) Dabbas, first time",
+    "start": 1685,
+    "end": 1694,
+    "num": ""
+   },
+   {
+    "name": "Athanasius III Dabbas, second time",
+    "start": 1720,
+    "end": 1724,
+    "num": ""
+   },
+   {
+    "name": "Sylvester",
+    "start": 1724,
+    "end": 1766,
+    "num": ""
+   },
+   {
+    "name": "Philemon",
+    "start": 1766,
+    "end": 1767,
+    "num": ""
+   },
+   {
+    "name": "Daniel",
+    "start": 1767,
+    "end": 1791,
+    "num": ""
+   },
+   {
+    "name": "Anthemius",
+    "start": 1791,
+    "end": 1813,
+    "num": ""
+   },
+   {
+    "name": "Seraphim",
+    "start": 1813,
+    "end": 1823,
+    "num": ""
+   },
+   {
+    "name": "Methodius",
+    "start": 1823,
+    "end": 1850,
+    "num": ""
+   },
+   {
+    "name": "Hierotheos",
+    "start": 1850,
+    "end": 1885,
+    "num": ""
+   },
+   {
+    "name": "Gerasimos",
+    "start": 1885,
+    "end": 1891,
+    "num": ""
+   },
+   {
+    "name": "Spyridon",
+    "start": 1891,
+    "end": 1898,
+    "num": ""
+   },
+   {
+    "name": "Meletius II",
+    "start": 1899,
+    "end": 1906,
+    "num": ""
+   },
+   {
+    "name": "Arsenius II",
+    "start": 1931,
+    "end": 1933,
+    "num": ""
+   },
+   {
+    "name": "Theodosius VI",
+    "start": 1958,
+    "end": 1970,
+    "num": ""
+   },
+   {
+    "name": "Elias IV",
+    "start": 1970,
+    "end": 1979,
+    "num": ""
+   },
+   {
+    "name": "Ignatius IV",
+    "start": 1979,
+    "end": 2012,
+    "num": ""
+   },
+   {
+    "name": "John X",
+    "start": 2012,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "alexandria_gr": {
+  "title": "List of Greek Orthodox patriarchs of Alexandria",
+  "rows": [
+   {
+    "name": "Gainas",
+    "start": 536,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Paul of Tabennesis",
+    "start": 537,
+    "end": 540,
+    "num": ""
+   },
+   {
+    "name": "Zoilus",
+    "start": 540,
+    "end": 551,
+    "num": ""
+   },
+   {
+    "name": "Apollinarius",
+    "start": 551,
+    "end": 569,
+    "num": ""
+   },
+   {
+    "name": "John IV",
+    "start": 569,
+    "end": 580,
+    "num": ""
+   },
+   {
+    "name": "Eulogius I",
+    "start": 581,
+    "end": 608,
+    "num": ""
+   },
+   {
+    "name": "Theodore I",
+    "start": 608,
+    "end": 610,
+    "num": ""
+   },
+   {
+    "name": "John V Eleemon",
+    "start": 610,
+    "end": 621,
+    "num": ""
+   },
+   {
+    "name": "George I",
+    "start": 621,
+    "end": 630,
+    "num": ""
+   },
+   {
+    "name": "Cyrus",
+    "start": 631,
+    "end": 641,
+    "num": ""
+   },
+   {
+    "name": "Peter IV",
+    "start": 642,
+    "end": 651,
+    "num": ""
+   },
+   {
+    "name": "Cosmas I",
+    "start": 727,
+    "end": 768,
+    "num": ""
+   },
+   {
+    "name": "Politianus",
+    "start": 768,
+    "end": 813,
+    "num": ""
+   },
+   {
+    "name": "Eustatius",
+    "start": 813,
+    "end": 817,
+    "num": ""
+   },
+   {
+    "name": "Christopher I",
+    "start": 817,
+    "end": 841,
+    "num": ""
+   },
+   {
+    "name": "Sophronius I",
+    "start": 841,
+    "end": 860,
+    "num": ""
+   },
+   {
+    "name": "Michael I",
+    "start": 860,
+    "end": 870,
+    "num": ""
+   },
+   {
+    "name": "Michael II",
+    "start": 870,
+    "end": 907,
+    "num": ""
+   },
+   {
+    "name": "Christodoulos",
+    "start": 907,
+    "end": 932,
+    "num": ""
+   },
+   {
+    "name": "Eutychius",
+    "start": 932,
+    "end": 940,
+    "num": ""
+   },
+   {
+    "name": "Sophronius II",
+    "start": 941,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Isaac",
+    "start": 941,
+    "end": 954,
+    "num": ""
+   },
+   {
+    "name": "Job",
+    "start": 954,
+    "end": 963,
+    "num": ""
+   },
+   {
+    "name": "Elias I",
+    "start": 963,
+    "end": 1000,
+    "num": ""
+   },
+   {
+    "name": "Arsenius",
+    "start": 1000,
+    "end": 1010,
+    "num": ""
+   },
+   {
+    "name": "Theophilus",
+    "start": 1010,
+    "end": 1020,
+    "num": ""
+   },
+   {
+    "name": "George II",
+    "start": 1021,
+    "end": 1051,
+    "num": ""
+   },
+   {
+    "name": "Leontius",
+    "start": 1052,
+    "end": 1059,
+    "num": ""
+   },
+   {
+    "name": "Alexander II",
+    "start": 1059,
+    "end": 1062,
+    "num": ""
+   },
+   {
+    "name": "John VI Kodonatos Eulogius II Coadjutor?",
+    "start": 1062,
+    "end": 1117,
+    "num": ""
+   },
+   {
+    "name": "Cyril II",
+    "start": 1100,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Sabbas Theodosius II ( \u20131137) Coadjutor?",
+    "start": 1117,
+    "end": 1137,
+    "num": ""
+   },
+   {
+    "name": "Sophronius III",
+    "start": 1137,
+    "end": 1171,
+    "num": ""
+   },
+   {
+    "name": "Elias II",
+    "start": 1171,
+    "end": 1175,
+    "num": ""
+   },
+   {
+    "name": "Eleutherius",
+    "start": 1175,
+    "end": 1180,
+    "num": ""
+   },
+   {
+    "name": "Mark III",
+    "start": 1180,
+    "end": 1209,
+    "num": ""
+   },
+   {
+    "name": "Nicholas I",
+    "start": 1210,
+    "end": 1243,
+    "num": ""
+   },
+   {
+    "name": "Gregory I",
+    "start": 1243,
+    "end": 1263,
+    "num": ""
+   },
+   {
+    "name": "Nicholas II",
+    "start": 1263,
+    "end": 1276,
+    "num": ""
+   },
+   {
+    "name": "Athanasius III",
+    "start": 1276,
+    "end": 1316,
+    "num": ""
+   },
+   {
+    "name": "Gregory II",
+    "start": 1316,
+    "end": 1354,
+    "num": ""
+   },
+   {
+    "name": "Gregory III",
+    "start": 1354,
+    "end": 1366,
+    "num": ""
+   },
+   {
+    "name": "Niphon",
+    "start": 1366,
+    "end": 1385,
+    "num": ""
+   },
+   {
+    "name": "Mark IV",
+    "start": 1385,
+    "end": 1389,
+    "num": ""
+   },
+   {
+    "name": "Nicholas III",
+    "start": 1389,
+    "end": 1398,
+    "num": ""
+   },
+   {
+    "name": "Gregory IV",
+    "start": 1398,
+    "end": 1412,
+    "num": ""
+   },
+   {
+    "name": "Nicholas IV",
+    "start": 1412,
+    "end": 1417,
+    "num": ""
+   },
+   {
+    "name": "Athanasius IV",
+    "start": 1417,
+    "end": 1425,
+    "num": ""
+   },
+   {
+    "name": "Mark V",
+    "start": 1425,
+    "end": 1435,
+    "num": ""
+   },
+   {
+    "name": "Philotheus",
+    "start": 1435,
+    "end": 1459,
+    "num": ""
+   },
+   {
+    "name": "Mark VI",
+    "start": 1459,
+    "end": 1484,
+    "num": ""
+   },
+   {
+    "name": "Gregory V",
+    "start": 1484,
+    "end": 1486,
+    "num": ""
+   },
+   {
+    "name": "Joachim Pany",
+    "start": 1486,
+    "end": 1569,
+    "num": ""
+   },
+   {
+    "name": "Silvester",
+    "start": 1569,
+    "end": 1590,
+    "num": ""
+   },
+   {
+    "name": "Meletius I",
+    "start": 1590,
+    "end": 1601,
+    "num": ""
+   },
+   {
+    "name": "Cyril III Loucaris",
+    "start": 1601,
+    "end": 1620,
+    "num": ""
+   },
+   {
+    "name": "Gerasimus I Spartaliotes",
+    "start": 1620,
+    "end": 1636,
+    "num": ""
+   },
+   {
+    "name": "Metrophanes Kritikopoulos",
+    "start": 1636,
+    "end": 1639,
+    "num": ""
+   },
+   {
+    "name": "Nicephorus",
+    "start": 1639,
+    "end": 1645,
+    "num": ""
+   },
+   {
+    "name": "Joannicius",
+    "start": 1645,
+    "end": 1657,
+    "num": ""
+   },
+   {
+    "name": "Paisius",
+    "start": 1657,
+    "end": 1678,
+    "num": ""
+   },
+   {
+    "name": "Parthenius I",
+    "start": 1678,
+    "end": 1688,
+    "num": ""
+   },
+   {
+    "name": "Gerasimus II Paladas",
+    "start": 1688,
+    "end": 1710,
+    "num": ""
+   },
+   {
+    "name": "Samuel Kapasoulis",
+    "start": 1710,
+    "end": 1712,
+    "num": ""
+   },
+   {
+    "name": "Cosmas II",
+    "start": 1712,
+    "end": 1736,
+    "num": ""
+   },
+   {
+    "name": "Cosmas III",
+    "start": 1737,
+    "end": 1746,
+    "num": ""
+   },
+   {
+    "name": "Matthew Psaltis",
+    "start": 1746,
+    "end": 1766,
+    "num": ""
+   },
+   {
+    "name": "Cyprian",
+    "start": 1766,
+    "end": 1783,
+    "num": ""
+   },
+   {
+    "name": "Gerasimus III Gimaris",
+    "start": 1783,
+    "end": 1788,
+    "num": ""
+   },
+   {
+    "name": "Parthenius II Pankostas",
+    "start": 1788,
+    "end": 1805,
+    "num": ""
+   },
+   {
+    "name": "Theophilus III Pankostas",
+    "start": 1805,
+    "end": 1825,
+    "num": ""
+   },
+   {
+    "name": "Hierotheus I",
+    "start": 1825,
+    "end": 1845,
+    "num": ""
+   },
+   {
+    "name": "Artemius",
+    "start": 1845,
+    "end": 1847,
+    "num": ""
+   },
+   {
+    "name": "Hierotheus II",
+    "start": 1847,
+    "end": 1858,
+    "num": ""
+   },
+   {
+    "name": "Callinicus",
+    "start": 1858,
+    "end": 1861,
+    "num": ""
+   },
+   {
+    "name": "Jacob",
+    "start": 1861,
+    "end": 1865,
+    "num": ""
+   },
+   {
+    "name": "Nicanor",
+    "start": 1866,
+    "end": 1869,
+    "num": ""
+   },
+   {
+    "name": "Nilus",
+    "start": 1869,
+    "end": 1870,
+    "num": ""
+   },
+   {
+    "name": "Sophronius IV",
+    "start": 1870,
+    "end": 1899,
+    "num": ""
+   },
+   {
+    "name": "Photius",
+    "start": 1900,
+    "end": 1925,
+    "num": ""
+   },
+   {
+    "name": "Meletius II Metaxakis",
+    "start": 1926,
+    "end": 1935,
+    "num": ""
+   },
+   {
+    "name": "Nicholas V",
+    "start": 1936,
+    "end": 1939,
+    "num": ""
+   },
+   {
+    "name": "Christopher II",
+    "start": 1939,
+    "end": 1968,
+    "num": ""
+   },
+   {
+    "name": "Nicholas VI",
+    "start": 1968,
+    "end": 1986,
+    "num": ""
+   },
+   {
+    "name": "Parthenius III",
+    "start": 1986,
+    "end": 1996,
+    "num": ""
+   },
+   {
+    "name": "Peter VII",
+    "start": 1997,
+    "end": 2004,
+    "num": ""
+   },
+   {
+    "name": "Theodore II",
+    "start": 2004,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "jerusalem": {
+  "title": "Greek Orthodox Patriarch of Jerusalem",
+  "rows": [
+   {
+    "name": "Anastasius I",
+    "start": 458,
+    "end": 478,
+    "num": ""
+   },
+   {
+    "name": "Martyrius",
+    "start": 478,
+    "end": 486,
+    "num": ""
+   },
+   {
+    "name": "Sallustius",
+    "start": 486,
+    "end": 494,
+    "num": ""
+   },
+   {
+    "name": "Elias I",
+    "start": 494,
+    "end": 516,
+    "num": ""
+   },
+   {
+    "name": "John III",
+    "start": 516,
+    "end": 524,
+    "num": ""
+   },
+   {
+    "name": "Peter",
+    "start": 524,
+    "end": 544,
+    "num": ""
+   },
+   {
+    "name": "Macarius II",
+    "start": 544,
+    "end": 575,
+    "num": ""
+   },
+   {
+    "name": "Eustochius",
+    "start": 552,
+    "end": 564,
+    "num": ""
+   },
+   {
+    "name": "John IV",
+    "start": 575,
+    "end": 594,
+    "num": ""
+   },
+   {
+    "name": "Amos",
+    "start": 594,
+    "end": 601,
+    "num": ""
+   },
+   {
+    "name": "Isaac",
+    "start": 601,
+    "end": 609,
+    "num": ""
+   },
+   {
+    "name": "Zacharias",
+    "start": 609,
+    "end": 632,
+    "num": ""
+   },
+   {
+    "name": "Modestus",
+    "start": 632,
+    "end": 634,
+    "num": ""
+   },
+   {
+    "name": "Anastasius II",
+    "start": 681,
+    "end": 706,
+    "num": ""
+   },
+   {
+    "name": "John V",
+    "start": 706,
+    "end": 735,
+    "num": ""
+   },
+   {
+    "name": "Theodore",
+    "start": 745,
+    "end": 770,
+    "num": ""
+   },
+   {
+    "name": "Elias II",
+    "start": 770,
+    "end": 797,
+    "num": ""
+   },
+   {
+    "name": "George",
+    "start": 797,
+    "end": 807,
+    "num": ""
+   },
+   {
+    "name": "Thomas I",
+    "start": 807,
+    "end": 820,
+    "num": ""
+   },
+   {
+    "name": "Basileus",
+    "start": 820,
+    "end": 838,
+    "num": ""
+   },
+   {
+    "name": "John VI",
+    "start": 838,
+    "end": 842,
+    "num": ""
+   },
+   {
+    "name": "Theodosius",
+    "start": 862,
+    "end": 878,
+    "num": ""
+   },
+   {
+    "name": "Elias III",
+    "start": 878,
+    "end": 907,
+    "num": ""
+   },
+   {
+    "name": "Sergius II",
+    "start": 908,
+    "end": 911,
+    "num": ""
+   },
+   {
+    "name": "Leontius I",
+    "start": 912,
+    "end": 929,
+    "num": ""
+   },
+   {
+    "name": "Athanasius I",
+    "start": 929,
+    "end": 937,
+    "num": ""
+   },
+   {
+    "name": "Christodolus",
+    "start": 937,
+    "end": 950,
+    "num": ""
+   },
+   {
+    "name": "Agathon",
+    "start": 950,
+    "end": 964,
+    "num": ""
+   },
+   {
+    "name": "John VII",
+    "start": 964,
+    "end": 966,
+    "num": ""
+   },
+   {
+    "name": "Christodolus II",
+    "start": 966,
+    "end": 969,
+    "num": ""
+   },
+   {
+    "name": "Joseph II",
+    "start": 980,
+    "end": 983,
+    "num": ""
+   },
+   {
+    "name": "Theophilus I",
+    "start": 1012,
+    "end": 1020,
+    "num": ""
+   },
+   {
+    "name": "Nicephorus I",
+    "start": 1020,
+    "end": 1048,
+    "num": ""
+   },
+   {
+    "name": "Joannichius",
+    "start": 1048,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Euthemius I",
+    "start": 1084,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Simeon II",
+    "start": 1084,
+    "end": 1099,
+    "num": ""
+   },
+   {
+    "name": "Savvas",
+    "start": 1106,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "John IX",
+    "start": 1156,
+    "end": 1166,
+    "num": ""
+   },
+   {
+    "name": "Nicephorus II",
+    "start": 1166,
+    "end": 1170,
+    "num": ""
+   },
+   {
+    "name": "Leontius II",
+    "start": 1170,
+    "end": 1189,
+    "num": ""
+   },
+   {
+    "name": "Euthemius II",
+    "start": 1223,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Athanasius II",
+    "start": 1231,
+    "end": 1244,
+    "num": ""
+   },
+   {
+    "name": "Sophronius III",
+    "start": 1236,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Dorotheus I",
+    "start": 1376,
+    "end": 1417,
+    "num": ""
+   },
+   {
+    "name": "Theophilus II",
+    "start": 1417,
+    "end": 1424,
+    "num": ""
+   },
+   {
+    "name": "Theophanes I",
+    "start": 1424,
+    "end": 1431,
+    "num": ""
+   },
+   {
+    "name": "Abraham I",
+    "start": 1468,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Dorotheus II",
+    "start": 1505,
+    "end": 1537,
+    "num": ""
+   },
+   {
+    "name": "Germanus",
+    "start": 1537,
+    "end": 1579,
+    "num": ""
+   },
+   {
+    "name": "Sophronius IV",
+    "start": 1579,
+    "end": 1608,
+    "num": ""
+   },
+   {
+    "name": "Theophanes III",
+    "start": 1608,
+    "end": 1644,
+    "num": ""
+   },
+   {
+    "name": "Paiseus",
+    "start": 1645,
+    "end": 1660,
+    "num": ""
+   },
+   {
+    "name": "Nectarius I",
+    "start": 1660,
+    "end": 1669,
+    "num": ""
+   },
+   {
+    "name": "Dositheos II",
+    "start": 1669,
+    "end": 1707,
+    "num": ""
+   },
+   {
+    "name": "Chrysanthus",
+    "start": 1707,
+    "end": 1731,
+    "num": ""
+   },
+   {
+    "name": "Meletius",
+    "start": 1731,
+    "end": 1737,
+    "num": ""
+   },
+   {
+    "name": "Parthenius",
+    "start": 1737,
+    "end": 1766,
+    "num": ""
+   },
+   {
+    "name": "Ephram II",
+    "start": 1766,
+    "end": 1771,
+    "num": ""
+   },
+   {
+    "name": "Sophronius V",
+    "start": 1771,
+    "end": 1775,
+    "num": ""
+   },
+   {
+    "name": "Abraham II",
+    "start": 1775,
+    "end": 1787,
+    "num": ""
+   },
+   {
+    "name": "Procopius I",
+    "start": 1787,
+    "end": 1788,
+    "num": ""
+   },
+   {
+    "name": "Anthemus",
+    "start": 1788,
+    "end": 1808,
+    "num": ""
+   },
+   {
+    "name": "Polycarpus",
+    "start": 1808,
+    "end": 1827,
+    "num": ""
+   },
+   {
+    "name": "Athanasius V",
+    "start": 1827,
+    "end": 1845,
+    "num": ""
+   },
+   {
+    "name": "Cyril II",
+    "start": 1845,
+    "end": 1872,
+    "num": ""
+   },
+   {
+    "name": "Procopius II",
+    "start": 1872,
+    "end": 1875,
+    "num": ""
+   },
+   {
+    "name": "Hierotheus",
+    "start": 1875,
+    "end": 1882,
+    "num": ""
+   },
+   {
+    "name": "Nicodemus I",
+    "start": 1883,
+    "end": 1890,
+    "num": ""
+   },
+   {
+    "name": "Gerasimus I",
+    "start": 1891,
+    "end": 1897,
+    "num": ""
+   },
+   {
+    "name": "Damian I",
+    "start": 1897,
+    "end": 1931,
+    "num": ""
+   },
+   {
+    "name": "Benedict I",
+    "start": 1957,
+    "end": 1980,
+    "num": ""
+   },
+   {
+    "name": "Diodoros I",
+    "start": 1980,
+    "end": 2000,
+    "num": ""
+   },
+   {
+    "name": "Irenaios I",
+    "start": 2000,
+    "end": 2005,
+    "num": ""
+   },
+   {
+    "name": "Theophilos III",
+    "start": 2005,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "georgia": {
+  "title": "List of heads of the Georgian Orthodox Church",
+  "rows": [
+   {
+    "name": "John I",
+    "start": 326,
+    "end": 363,
+    "num": "1"
+   },
+   {
+    "name": "Jacob",
+    "start": 363,
+    "end": 375,
+    "num": "2"
+   },
+   {
+    "name": "Iobi",
+    "start": 375,
+    "end": 390,
+    "num": "3"
+   },
+   {
+    "name": "Elia I",
+    "start": 390,
+    "end": 400,
+    "num": "4"
+   },
+   {
+    "name": "Svimeon I",
+    "start": 400,
+    "end": 410,
+    "num": "5"
+   },
+   {
+    "name": "Mose",
+    "start": 410,
+    "end": 425,
+    "num": "6"
+   },
+   {
+    "name": "Iona",
+    "start": 425,
+    "end": 429,
+    "num": "7"
+   },
+   {
+    "name": "Ieremia",
+    "start": 429,
+    "end": 433,
+    "num": "8"
+   },
+   {
+    "name": "Grigol I",
+    "start": 433,
+    "end": 434,
+    "num": "9"
+   },
+   {
+    "name": "Vasili I",
+    "start": 434,
+    "end": 436,
+    "num": "10"
+   },
+   {
+    "name": "Glonakor",
+    "start": 436,
+    "end": 448,
+    "num": "11"
+   },
+   {
+    "name": "Iovel I",
+    "start": 448,
+    "end": 452,
+    "num": "12"
+   },
+   {
+    "name": "Mikael I",
+    "start": 452,
+    "end": 467,
+    "num": "13"
+   },
+   {
+    "name": "Petre I",
+    "start": 467,
+    "end": 474,
+    "num": "14"
+   },
+   {
+    "name": "Samoel I",
+    "start": 474,
+    "end": 502,
+    "num": "15"
+   },
+   {
+    "name": "Gabriel I",
+    "start": 502,
+    "end": 510,
+    "num": "16"
+   },
+   {
+    "name": "Tavfechag I",
+    "start": 510,
+    "end": 516,
+    "num": "17"
+   },
+   {
+    "name": "Chirmagi\u2013Chigirmane",
+    "start": 516,
+    "end": 523,
+    "num": "18"
+   },
+   {
+    "name": "Saba I",
+    "start": 523,
+    "end": 532,
+    "num": "19"
+   },
+   {
+    "name": "Evlavi",
+    "start": 532,
+    "end": 544,
+    "num": "20"
+   },
+   {
+    "name": "Samoel II",
+    "start": 544,
+    "end": 553,
+    "num": "21"
+   },
+   {
+    "name": "Makari",
+    "start": 553,
+    "end": 569,
+    "num": "22"
+   },
+   {
+    "name": "Svimeon II",
+    "start": 569,
+    "end": 575,
+    "num": "23"
+   },
+   {
+    "name": "Samoel III",
+    "start": 575,
+    "end": 582,
+    "num": "24"
+   },
+   {
+    "name": "Samoel IV",
+    "start": 582,
+    "end": 591,
+    "num": "25"
+   },
+   {
+    "name": "Bartlome",
+    "start": 591,
+    "end": 595,
+    "num": "26"
+   },
+   {
+    "name": "Kirion I",
+    "start": 595,
+    "end": 610,
+    "num": "27"
+   },
+   {
+    "name": "Ioane II",
+    "start": 610,
+    "end": 619,
+    "num": "28"
+   },
+   {
+    "name": "Babila",
+    "start": 619,
+    "end": 629,
+    "num": "29"
+   },
+   {
+    "name": "Tabor",
+    "start": 629,
+    "end": 634,
+    "num": "30"
+   },
+   {
+    "name": "Samoel V",
+    "start": 634,
+    "end": 640,
+    "num": "31"
+   },
+   {
+    "name": "Evnon",
+    "start": 640,
+    "end": 649,
+    "num": "32"
+   },
+   {
+    "name": "Tavfechag II",
+    "start": 649,
+    "end": 664,
+    "num": "33"
+   },
+   {
+    "name": "Evlale",
+    "start": 664,
+    "end": 668,
+    "num": "34"
+   },
+   {
+    "name": "Iovel II",
+    "start": 668,
+    "end": 670,
+    "num": "35"
+   },
+   {
+    "name": "Samoel VI",
+    "start": 670,
+    "end": 677,
+    "num": "36"
+   },
+   {
+    "name": "Giorgi I",
+    "start": 677,
+    "end": 678,
+    "num": "37"
+   },
+   {
+    "name": "Kirion II",
+    "start": 678,
+    "end": 683,
+    "num": "38"
+   },
+   {
+    "name": "Izid\u2013Bozidi",
+    "start": 683,
+    "end": 685,
+    "num": "39"
+   },
+   {
+    "name": "Teodore I",
+    "start": 685,
+    "end": 689,
+    "num": "40"
+   },
+   {
+    "name": "Petre (Svimeoni) II",
+    "start": 689,
+    "end": 720,
+    "num": "41"
+   },
+   {
+    "name": "Talale",
+    "start": 720,
+    "end": 731,
+    "num": "42"
+   },
+   {
+    "name": "Mamai",
+    "start": 731,
+    "end": 744,
+    "num": "43"
+   },
+   {
+    "name": "Ioane III",
+    "start": 744,
+    "end": 760,
+    "num": "44"
+   },
+   {
+    "name": "Grigol II",
+    "start": 760,
+    "end": 767,
+    "num": "45"
+   },
+   {
+    "name": "Sarmeane",
+    "start": 767,
+    "end": 774,
+    "num": "46"
+   },
+   {
+    "name": "Mikael II",
+    "start": 774,
+    "end": 780,
+    "num": "47"
+   },
+   {
+    "name": "Samoel VII",
+    "start": 780,
+    "end": 790,
+    "num": "48"
+   },
+   {
+    "name": "Kirile",
+    "start": 791,
+    "end": 802,
+    "num": "49"
+   },
+   {
+    "name": "Grigol III",
+    "start": 802,
+    "end": 814,
+    "num": "50"
+   },
+   {
+    "name": "Samoel VIII",
+    "start": 814,
+    "end": 826,
+    "num": "51"
+   },
+   {
+    "name": "Giorgi II",
+    "start": 826,
+    "end": 838,
+    "num": "52"
+   },
+   {
+    "name": "Gabriel II",
+    "start": 838,
+    "end": 850,
+    "num": "53"
+   },
+   {
+    "name": "Ilarion I",
+    "start": 850,
+    "end": 860,
+    "num": "54"
+   },
+   {
+    "name": "Arsen I",
+    "start": 860,
+    "end": 887,
+    "num": "55"
+   },
+   {
+    "name": "Evsuki",
+    "start": 887,
+    "end": 900,
+    "num": "56"
+   },
+   {
+    "name": "Klementos",
+    "start": 900,
+    "end": 914,
+    "num": "57"
+   },
+   {
+    "name": "Basili II",
+    "start": 914,
+    "end": 930,
+    "num": "58"
+   },
+   {
+    "name": "Mikael III",
+    "start": 930,
+    "end": 944,
+    "num": "59"
+   },
+   {
+    "name": "Davit I",
+    "start": 944,
+    "end": 955,
+    "num": "60"
+   },
+   {
+    "name": "Arseni II",
+    "start": 955,
+    "end": 980,
+    "num": "61"
+   },
+   {
+    "name": "Okropir",
+    "start": 980,
+    "end": 1001,
+    "num": "62"
+   },
+   {
+    "name": "Svimeon III",
+    "start": 1001,
+    "end": null,
+    "num": "63"
+   },
+   {
+    "name": "Melkisedek I",
+    "start": 1001,
+    "end": 1030,
+    "num": "64"
+   },
+   {
+    "name": "Okropir (Ioane) II",
+    "start": 1031,
+    "end": 1039,
+    "num": "65"
+   },
+   {
+    "name": "Melkisedek I",
+    "start": 1039,
+    "end": 1045,
+    "num": "66"
+   },
+   {
+    "name": "Okropir (Ioane) II",
+    "start": 1045,
+    "end": 1049,
+    "num": "67"
+   },
+   {
+    "name": "Ekvtime I",
+    "start": 1049,
+    "end": 1055,
+    "num": "68"
+   },
+   {
+    "name": "Giorgi III",
+    "start": 1055,
+    "end": 1065,
+    "num": "69"
+   },
+   {
+    "name": "Gabriel III",
+    "start": 1065,
+    "end": 1080,
+    "num": "70"
+   },
+   {
+    "name": "Dimitri",
+    "start": 1080,
+    "end": 1090,
+    "num": "71"
+   },
+   {
+    "name": "Basili III",
+    "start": 1090,
+    "end": 1100,
+    "num": "72"
+   },
+   {
+    "name": "Ioane IV",
+    "start": 1100,
+    "end": 1142,
+    "num": "73"
+   },
+   {
+    "name": "Svimeon IV",
+    "start": 1142,
+    "end": 1146,
+    "num": "74"
+   },
+   {
+    "name": "Saba II",
+    "start": 1146,
+    "end": 1150,
+    "num": "75"
+   },
+   {
+    "name": "Nikoloz I",
+    "start": 1150,
+    "end": 1178,
+    "num": "76"
+   },
+   {
+    "name": "Michael IV",
+    "start": 1178,
+    "end": 1186,
+    "num": "77"
+   },
+   {
+    "name": "Theodore II",
+    "start": 1186,
+    "end": 1206,
+    "num": "78"
+   },
+   {
+    "name": "Basil IV",
+    "start": 1206,
+    "end": 1208,
+    "num": "79"
+   },
+   {
+    "name": "John VII",
+    "start": 1208,
+    "end": 1210,
+    "num": "80"
+   },
+   {
+    "name": "Epiphane",
+    "start": 1210,
+    "end": 1220,
+    "num": "81"
+   },
+   {
+    "name": "Ekvtime II",
+    "start": 1220,
+    "end": 1222,
+    "num": "82"
+   },
+   {
+    "name": "Arseni III",
+    "start": 1222,
+    "end": 1225,
+    "num": "83"
+   },
+   {
+    "name": "Giorgi IV",
+    "start": 1225,
+    "end": 1230,
+    "num": "84"
+   },
+   {
+    "name": "Arseni IV",
+    "start": 1230,
+    "end": 1240,
+    "num": "85"
+   },
+   {
+    "name": "Nikoloz II",
+    "start": 1240,
+    "end": 1280,
+    "num": "86"
+   },
+   {
+    "name": "Abraam I",
+    "start": 1280,
+    "end": 1310,
+    "num": "87"
+   },
+   {
+    "name": "Ekvtime III",
+    "start": 1310,
+    "end": 1325,
+    "num": "88"
+   },
+   {
+    "name": "Mikel V",
+    "start": 1325,
+    "end": 1330,
+    "num": "89"
+   },
+   {
+    "name": "Basil V",
+    "start": 1330,
+    "end": 1350,
+    "num": "90"
+   },
+   {
+    "name": "Doroteoz I",
+    "start": 1350,
+    "end": 1356,
+    "num": "91"
+   },
+   {
+    "name": "Shio I",
+    "start": 1356,
+    "end": 1364,
+    "num": "92"
+   },
+   {
+    "name": "Nikoloz III",
+    "start": 1364,
+    "end": 1380,
+    "num": "93"
+   },
+   {
+    "name": "Giorgi V",
+    "start": 1380,
+    "end": 1399,
+    "num": "94"
+   },
+   {
+    "name": "Elioz",
+    "start": 1399,
+    "end": 1411,
+    "num": "95"
+   },
+   {
+    "name": "Mikel VI",
+    "start": 1411,
+    "end": 1426,
+    "num": "96"
+   },
+   {
+    "name": "David II",
+    "start": 1426,
+    "end": 1428,
+    "num": "97"
+   },
+   {
+    "name": "Teodore III",
+    "start": 1428,
+    "end": 1435,
+    "num": "98"
+   },
+   {
+    "name": "David III",
+    "start": 1435,
+    "end": 1439,
+    "num": "99"
+   },
+   {
+    "name": "Shio II",
+    "start": 1439,
+    "end": 1443,
+    "num": "100"
+   },
+   {
+    "name": "David IV",
+    "start": 1443,
+    "end": 1459,
+    "num": "101"
+   },
+   {
+    "name": "Markoz",
+    "start": 1460,
+    "end": 1466,
+    "num": "102"
+   },
+   {
+    "name": "Davit IV",
+    "start": 1466,
+    "end": 1479,
+    "num": "103"
+   },
+   {
+    "name": "Evagre",
+    "start": 1480,
+    "end": 1492,
+    "num": "104"
+   },
+   {
+    "name": "Abraam II",
+    "start": 1492,
+    "end": 1497,
+    "num": "105"
+   },
+   {
+    "name": "Efrem I",
+    "start": 1497,
+    "end": 1500,
+    "num": "106"
+   },
+   {
+    "name": "Evagre",
+    "start": 1500,
+    "end": 1503,
+    "num": "107"
+   },
+   {
+    "name": "Doroteoz II",
+    "start": 1503,
+    "end": 1510,
+    "num": "108"
+   },
+   {
+    "name": "Dionise",
+    "start": 1510,
+    "end": 1511,
+    "num": "109"
+   },
+   {
+    "name": "Doroteoz II",
+    "start": 1511,
+    "end": 1516,
+    "num": "110"
+   },
+   {
+    "name": "Basil VI",
+    "start": 1517,
+    "end": 1528,
+    "num": "111"
+   },
+   {
+    "name": "Malachia",
+    "start": 1528,
+    "end": 1538,
+    "num": "112"
+   },
+   {
+    "name": "Melkisedek II",
+    "start": 1538,
+    "end": 1541,
+    "num": "113"
+   },
+   {
+    "name": "Germene",
+    "start": 1541,
+    "end": 1547,
+    "num": "114"
+   },
+   {
+    "name": "Svimeon V",
+    "start": 1547,
+    "end": 1550,
+    "num": "115"
+   },
+   {
+    "name": "Zebede I",
+    "start": 1550,
+    "end": 1557,
+    "num": "116"
+   },
+   {
+    "name": "Domenti I",
+    "start": 1557,
+    "end": 1562,
+    "num": "117"
+   },
+   {
+    "name": "Nikoloz IV",
+    "start": 1562,
+    "end": 1584,
+    "num": "118"
+   },
+   {
+    "name": "Nikoloz V",
+    "start": 1584,
+    "end": 1591,
+    "num": "119"
+   },
+   {
+    "name": "Doriteoz III",
+    "start": 1592,
+    "end": 1599,
+    "num": "120"
+   },
+   {
+    "name": "Domenti II",
+    "start": 1599,
+    "end": 1603,
+    "num": "121"
+   },
+   {
+    "name": "Zebede II",
+    "start": 1603,
+    "end": 1610,
+    "num": "122"
+   },
+   {
+    "name": "Ioane VI",
+    "start": 1610,
+    "end": 1613,
+    "num": "123"
+   },
+   {
+    "name": "Kristefore I",
+    "start": 1613,
+    "end": 1622,
+    "num": "124"
+   },
+   {
+    "name": "Zachary",
+    "start": 1623,
+    "end": 1630,
+    "num": "125"
+   },
+   {
+    "name": "Evdemoz I",
+    "start": 1630,
+    "end": 1638,
+    "num": "126"
+   },
+   {
+    "name": "Kristefore II",
+    "start": 1638,
+    "end": 1660,
+    "num": "127"
+   },
+   {
+    "name": "Domenti III",
+    "start": 1660,
+    "end": 1675,
+    "num": "128"
+   },
+   {
+    "name": "Nikoloz VI",
+    "start": 1675,
+    "end": 1676,
+    "num": "129"
+   },
+   {
+    "name": "Nikoloz VII",
+    "start": 1676,
+    "end": 1687,
+    "num": "130"
+   },
+   {
+    "name": "Ioan VII",
+    "start": 1687,
+    "end": 1691,
+    "num": "131"
+   },
+   {
+    "name": "Nikoloz VII",
+    "start": 1691,
+    "end": 1695,
+    "num": "132"
+   },
+   {
+    "name": "Ioan VII",
+    "start": 1696,
+    "end": 1700,
+    "num": "133"
+   },
+   {
+    "name": "Evdemoz II",
+    "start": 1700,
+    "end": 1703,
+    "num": "134"
+   },
+   {
+    "name": "Domenti IV",
+    "start": 1704,
+    "end": 1725,
+    "num": "135"
+   },
+   {
+    "name": "Besarion",
+    "start": 1725,
+    "end": 1737,
+    "num": "136"
+   },
+   {
+    "name": "Kirile",
+    "start": 1737,
+    "end": 1739,
+    "num": "137"
+   },
+   {
+    "name": "Domenti IV",
+    "start": 1739,
+    "end": 1741,
+    "num": "138"
+   },
+   {
+    "name": "Nikoloz VIII",
+    "start": 1742,
+    "end": 1744,
+    "num": "139"
+   },
+   {
+    "name": "Anton I",
+    "start": 1744,
+    "end": 1755,
+    "num": "140"
+   },
+   {
+    "name": "Ioseb",
+    "start": 1755,
+    "end": 1764,
+    "num": "141"
+   },
+   {
+    "name": "Anton I",
+    "start": 1764,
+    "end": 1788,
+    "num": "142"
+   },
+   {
+    "name": "Anton II",
+    "start": 1788,
+    "end": 1811,
+    "num": "143"
+   },
+   {
+    "name": "Metropolitan Barlaam",
+    "start": 1811,
+    "end": 1817,
+    "num": "1"
+   },
+   {
+    "name": "Metropolitan Theophilact",
+    "start": 1817,
+    "end": 1821,
+    "num": "2"
+   },
+   {
+    "name": "Metropolitan Jonah",
+    "start": 1821,
+    "end": 1832,
+    "num": "3"
+   },
+   {
+    "name": "Archbishop Moses",
+    "start": 1832,
+    "end": 1834,
+    "num": "4"
+   },
+   {
+    "name": "Archbishop Eugene",
+    "start": 1834,
+    "end": 1844,
+    "num": "5"
+   },
+   {
+    "name": "Archbishop Isidore",
+    "start": 1844,
+    "end": 1858,
+    "num": "6"
+   },
+   {
+    "name": "Archbishop Ebsebius",
+    "start": 1858,
+    "end": 1877,
+    "num": "7"
+   },
+   {
+    "name": "Archbishop Joannicius",
+    "start": 1877,
+    "end": 1882,
+    "num": "8"
+   },
+   {
+    "name": "Archbishop Paul",
+    "start": 1882,
+    "end": 1887,
+    "num": "9"
+   },
+   {
+    "name": "Archbishop Palladius",
+    "start": 1887,
+    "end": 1892,
+    "num": "10"
+   },
+   {
+    "name": "Archbishop Vladimir",
+    "start": 1892,
+    "end": 1898,
+    "num": "11"
+   },
+   {
+    "name": "Archbishop Flavian",
+    "start": 1898,
+    "end": 1901,
+    "num": "12"
+   },
+   {
+    "name": "Archbishop Alexis I",
+    "start": 1901,
+    "end": 1905,
+    "num": "13"
+   },
+   {
+    "name": "Archbishop Nicholas",
+    "start": 1905,
+    "end": 1906,
+    "num": "14"
+   },
+   {
+    "name": "Archbishop Nikon",
+    "start": 1906,
+    "end": 1908,
+    "num": "15"
+   },
+   {
+    "name": "Archbishop Innocent",
+    "start": 1909,
+    "end": 1913,
+    "num": "16"
+   },
+   {
+    "name": "Archbishop Alexis II",
+    "start": 1913,
+    "end": 1914,
+    "num": "17"
+   },
+   {
+    "name": "Archbishop Piterim",
+    "start": 1914,
+    "end": 1915,
+    "num": "18"
+   },
+   {
+    "name": "Archbishop Platon",
+    "start": 1915,
+    "end": 1917,
+    "num": "19"
+   },
+   {
+    "name": "Kyrion II",
+    "start": 1917,
+    "end": null,
+    "num": "144"
+   },
+   {
+    "name": "Leonid",
+    "start": 1918,
+    "end": null,
+    "num": "145"
+   },
+   {
+    "name": "Ambrosius",
+    "start": 1921,
+    "end": null,
+    "num": "146"
+   },
+   {
+    "name": "Christophorus III",
+    "start": 1927,
+    "end": null,
+    "num": "147"
+   },
+   {
+    "name": "Callistratus",
+    "start": 1932,
+    "end": null,
+    "num": "148"
+   },
+   {
+    "name": "Melchizedek III",
+    "start": 1952,
+    "end": null,
+    "num": "149"
+   },
+   {
+    "name": "Ephraim II",
+    "start": 1960,
+    "end": null,
+    "num": "150"
+   },
+   {
+    "name": "David V",
+    "start": 1972,
+    "end": null,
+    "num": "151"
+   },
+   {
+    "name": "Ilia II",
+    "start": 1977,
+    "end": null,
+    "num": "152"
+   },
+   {
+    "name": "Shio III",
+    "start": 2026,
+    "end": "present",
+    "num": "153"
+   }
+  ]
+ },
+ "ethiopia": {
+  "title": "List of abunas of Ethiopia",
+  "rows": [
+   {
+    "name": "Selama I Kesatay Birhan",
+    "start": 350,
+    "end": 383,
+    "num": "Brought Christianity to the Kingdom of Aksum."
+   },
+   {
+    "name": "Seat vacant c. 537\u2013562",
+    "start": 537,
+    "end": 562,
+    "num": "Seat vacant c. 537\u2013562"
+   },
+   {
+    "name": "Yohannes",
+    "start": 820,
+    "end": 840,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant c. 940\u2013970s",
+    "start": 940,
+    "end": null,
+    "num": "Seat vacant c. 940\u2013970s"
+   },
+   {
+    "name": "Sawiros",
+    "start": 1077,
+    "end": 1092,
+    "num": ""
+   },
+   {
+    "name": "Mikael II",
+    "start": 1206,
+    "end": 1209,
+    "num": "Opposed by Hirun."
+   },
+   {
+    "name": "Yeshaq",
+    "start": 1209,
+    "end": 1225,
+    "num": "An inference from the Kebra Nagast colophon."
+   },
+   {
+    "name": "Giyorgis II",
+    "start": 1225,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Yaqob",
+    "start": 1337,
+    "end": 1344,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1344\u20131348",
+    "start": 1344,
+    "end": 1348,
+    "num": "Seat vacant 1344\u20131348"
+   },
+   {
+    "name": "Salama II",
+    "start": 1348,
+    "end": 1388,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1388\u20131398/9",
+    "start": 1388,
+    "end": 1398,
+    "num": "Seat vacant 1388\u20131398/9"
+   },
+   {
+    "name": "Bartalomewos",
+    "start": 1398,
+    "end": 1436,
+    "num": ""
+   },
+   {
+    "name": "Mikael and Gabriel",
+    "start": 1438,
+    "end": 1458,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1458\u20131481",
+    "start": 1458,
+    "end": 1481,
+    "num": "Seat vacant 1458\u20131481"
+   },
+   {
+    "name": "Yeshaq",
+    "start": 1481,
+    "end": 1520,
+    "num": ""
+   },
+   {
+    "name": "Marqos",
+    "start": 1481,
+    "end": 1530,
+    "num": ""
+   },
+   {
+    "name": "Jo\u00e3o Bermudes [pt]",
+    "start": 1536,
+    "end": 1545,
+    "num": "Self-proclaimed Ethiopian Orthodox Abuna, and Catholic Patriarch of Ethiopia and Alexandria."
+   },
+   {
+    "name": "Endyras",
+    "start": 1545,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Andr\u00e9s de Oviedo",
+    "start": 1557,
+    "end": 1577,
+    "num": "Catholic bishop."
+   },
+   {
+    "name": "Marqos",
+    "start": 1565,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Krestodolos I",
+    "start": 1590,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Petros",
+    "start": 1599,
+    "end": 1607,
+    "num": "Killed in battle."
+   },
+   {
+    "name": "Simon",
+    "start": 1608,
+    "end": 1617,
+    "num": ""
+   },
+   {
+    "name": "Afonso Mendes",
+    "start": 1622,
+    "end": 1632,
+    "num": "Catholic Patriarch, supported by Susenyos I and deposed by Fasilides."
+   },
+   {
+    "name": "Seat vacant 1632\u20131633",
+    "start": 1632,
+    "end": 1633,
+    "num": "Seat vacant 1632\u20131633"
+   },
+   {
+    "name": "Rezek",
+    "start": 1634,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Marqos",
+    "start": 1635,
+    "end": 1672,
+    "num": "Deposed with Krestodolos."
+   },
+   {
+    "name": "Krestodolos II",
+    "start": 1640,
+    "end": 1672,
+    "num": "Deposed with Marqos."
+   },
+   {
+    "name": "Abba Mikael",
+    "start": 1640,
+    "end": 1699,
+    "num": ""
+   },
+   {
+    "name": "Sinoda",
+    "start": 1672,
+    "end": 1687,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1687\u20131689",
+    "start": 1687,
+    "end": 1689,
+    "num": "Seat vacant 1687\u20131689"
+   },
+   {
+    "name": "Marqos",
+    "start": 1689,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Marqos X",
+    "start": 1694,
+    "end": 1716,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1716\u20131718",
+    "start": 1716,
+    "end": 1718,
+    "num": "Seat vacant 1716\u20131718"
+   },
+   {
+    "name": "Krestodolos III",
+    "start": 1718,
+    "end": 1745,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1745\u2013c. 1747",
+    "start": 1745,
+    "end": 1747,
+    "num": "Seat vacant 1745\u2013c. 1747"
+   },
+   {
+    "name": "Yohannes XIV",
+    "start": 1747,
+    "end": 1770,
+    "num": ""
+   },
+   {
+    "name": "Yosab III",
+    "start": 1770,
+    "end": 1803,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1803\u2013c. 1808",
+    "start": 1803,
+    "end": 1808,
+    "num": "Seat vacant 1803\u2013c. 1808"
+   },
+   {
+    "name": "Makarios",
+    "start": 1808,
+    "end": null,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant c. 1808\u20131816",
+    "start": 1808,
+    "end": 1816,
+    "num": "Seat vacant c. 1808\u20131816"
+   },
+   {
+    "name": "Qerellos III",
+    "start": 1816,
+    "end": 1829,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1829\u20131841",
+    "start": 1829,
+    "end": 1841,
+    "num": "Seat vacant 1829\u20131841"
+   },
+   {
+    "name": "Salama III",
+    "start": 1841,
+    "end": 1867,
+    "num": ""
+   },
+   {
+    "name": "Seat vacant 1867\u20131868",
+    "start": 1867,
+    "end": 1868,
+    "num": "Seat vacant 1867\u20131868"
+   },
+   {
+    "name": "Atnatewos II",
+    "start": 1868,
+    "end": 1876,
+    "num": "Died of wounds received at the Battle of Gura in the Egyptian\u2013Ethiopian War."
+   },
+   {
+    "name": "Seat vacant 1876\u20131881",
+    "start": 1876,
+    "end": 1881,
+    "num": "Seat vacant 1876\u20131881"
+   },
+   {
+    "name": "Petros VII",
+    "start": 1881,
+    "end": 1889,
+    "num": ""
+   },
+   {
+    "name": "Mattheos X",
+    "start": 1889,
+    "end": 1926,
+    "num": ""
+   },
+   {
+    "name": "Qerellos IV",
+    "start": 1926,
+    "end": 1936,
+    "num": "First tenure; deposed following the Second Italo-Ethiopian War."
+   },
+   {
+    "name": "Seat vacant 1936\u20131937",
+    "start": 1936,
+    "end": 1937,
+    "num": "Seat vacant 1936\u20131937"
+   },
+   {
+    "name": "Abraham",
+    "start": 1937,
+    "end": 1939,
+    "num": "Installed during the Italian occupation."
+   },
+   {
+    "name": "Yohannes XV",
+    "start": 1939,
+    "end": 1945,
+    "num": "Installed during the Italian occupation."
+   },
+   {
+    "name": "Qerellos IV",
+    "start": 1945,
+    "end": 1950,
+    "num": "Second tenure; restored."
+   },
+   {
+    "name": "Seat vacant 1950\u20131951",
+    "start": 1950,
+    "end": 1951,
+    "num": "Seat vacant 1950\u20131951"
+   },
+   {
+    "name": "Basilios",
+    "start": 1951,
+    "end": 1959,
+    "num": "Elevated to Patriarch and Catholicos of All Ethiopia."
+   },
+   {
+    "name": "Basilios",
+    "start": 1959,
+    "end": 1970,
+    "num": "1"
+   },
+   {
+    "name": "Theophilos",
+    "start": 1971,
+    "end": 1976,
+    "num": "2"
+   },
+   {
+    "name": "Takla Haymanot",
+    "start": 1976,
+    "end": 1988,
+    "num": "3"
+   },
+   {
+    "name": "Merkorios",
+    "start": 1988,
+    "end": 2022,
+    "num": "4"
+   },
+   {
+    "name": "Paulos",
+    "start": 1992,
+    "end": 2012,
+    "num": "5"
+   },
+   {
+    "name": "Mathias",
+    "start": 2013,
+    "end": "present",
+    "num": "6"
+   }
+  ]
+ },
+ "york": {
+  "title": "List of archbishops of York",
+  "rows": [
+   {
+    "name": "Paulinus",
+    "start": 625,
+    "end": 633,
+    "num": "Formerly a monk at St. Andrew's Monastery in Rome; translated to Rochester; canonised."
+   },
+   {
+    "name": "Chad",
+    "start": 664,
+    "end": 669,
+    "num": "Resigned the see of York; later became bishop of Mercia and Lindsey; canonised."
+   },
+   {
+    "name": "Wilfrid",
+    "start": 664,
+    "end": 678,
+    "num": "Ejected from York; later became bishop of Selseycanonised."
+   },
+   {
+    "name": "Bosa",
+    "start": 678,
+    "end": 706,
+    "num": "Canonised."
+   },
+   {
+    "name": "John of Beverley",
+    "start": 706,
+    "end": 714,
+    "num": "Translated from Hexham; resigned the see; canonised in 1037."
+   },
+   {
+    "name": "Wilfrid II",
+    "start": 714,
+    "end": 732,
+    "num": "Resigned the see; canonised."
+   },
+   {
+    "name": "Ecgbert",
+    "start": 732,
+    "end": 735,
+    "num": "York elevated to archbishopric in 735."
+   },
+   {
+    "name": "Ecgbert",
+    "start": 735,
+    "end": 766,
+    "num": "York elevated to archbishopric in 735."
+   },
+   {
+    "name": "\u00c6thelbert",
+    "start": 767,
+    "end": 780,
+    "num": "Also known as \u00c6thelbeorht, Adalberht, \u00c6lberht, Aelberht, Aldbert or \u00c6thelbert."
+   },
+   {
+    "name": "Eanbald",
+    "start": 780,
+    "end": 796,
+    "num": ""
+   },
+   {
+    "name": "Eanbald",
+    "start": 796,
+    "end": 808,
+    "num": ""
+   },
+   {
+    "name": "Wulfsige",
+    "start": 808,
+    "end": 834,
+    "num": ""
+   },
+   {
+    "name": "Wigmund",
+    "start": 837,
+    "end": 854,
+    "num": ""
+   },
+   {
+    "name": "Wulfhere",
+    "start": 854,
+    "end": 896,
+    "num": "Fled the Danes in 872, returned in 873."
+   },
+   {
+    "name": "\u00c6thelbald",
+    "start": 900,
+    "end": 916,
+    "num": "Sometimes known as \u00c6thelbeald, Athelbald, or Ethelbald."
+   },
+   {
+    "name": "Hrotheweard",
+    "start": 916,
+    "end": 931,
+    "num": "Sometimes known as Lodeward."
+   },
+   {
+    "name": "Wulfstan",
+    "start": 931,
+    "end": 956,
+    "num": ""
+   },
+   {
+    "name": "Oscytel",
+    "start": 958,
+    "end": 971,
+    "num": "Also known as Oscytel. Translated from Dorchester."
+   },
+   {
+    "name": "Edwald",
+    "start": 971,
+    "end": 971,
+    "num": "Also known as Edwaldus or Ethelwold."
+   },
+   {
+    "name": "Oswald",
+    "start": 971,
+    "end": 992,
+    "num": "Held both the sees of York and Worcester; canonised."
+   },
+   {
+    "name": "Ealdwulf",
+    "start": 995,
+    "end": 1002,
+    "num": "Held both the sees of York and Worcester."
+   },
+   {
+    "name": "Wulfstan",
+    "start": 1002,
+    "end": 1023,
+    "num": "Also known as Lupus. Also held the see of Worcester (1002\u20131016)."
+   },
+   {
+    "name": "\u00c6lfric Puttoc",
+    "start": 1023,
+    "end": 1051,
+    "num": "Also held the see of Worcester (1040\u20131041)."
+   },
+   {
+    "name": "Cynesige",
+    "start": 1051,
+    "end": 1060,
+    "num": "Also known as Kynsige."
+   },
+   {
+    "name": "Ealdred",
+    "start": 1061,
+    "end": 1069,
+    "num": "Also known as Aldred. Held the see of Worcester 1046\u20131061, of Hereford 1056\u20131060, and of York 1061\u20131069."
+   },
+   {
+    "name": "Thomas of Bayeux",
+    "start": 1070,
+    "end": 1100,
+    "num": "Also known as Thomas (I)."
+   },
+   {
+    "name": "Gerard",
+    "start": 1100,
+    "end": 1108,
+    "num": "Translated from Hereford."
+   },
+   {
+    "name": "Thomas",
+    "start": 1109,
+    "end": 1114,
+    "num": ""
+   },
+   {
+    "name": "Thurstan",
+    "start": 1119,
+    "end": 1140,
+    "num": "He was elected in 1114, but was not consecrated until 1119."
+   },
+   {
+    "name": "Waltheof of Melrose",
+    "start": 1140,
+    "end": 1140,
+    "num": "Nominated archbishop, but was quashed by King Stephen; later became Abbot of Melrose."
+   },
+   {
+    "name": "Henry de Sully",
+    "start": 1140,
+    "end": 1140,
+    "num": "Abbot of F\u00e9camp Abbey. Nominated archbishop, but was quashed by Pope Innocent II."
+   },
+   {
+    "name": "William",
+    "start": 1143,
+    "end": 1147,
+    "num": "Deposed by Pope Eugene III; canonised in 1226."
+   },
+   {
+    "name": "Hilary of Chichester",
+    "start": 1147,
+    "end": 1147,
+    "num": "Deposed by Pope Eugene III, elected bishop of Chichester."
+   },
+   {
+    "name": "Henry Murdac",
+    "start": 1147,
+    "end": 1153,
+    "num": "Formerly Abbot of Fountains Abbey."
+   },
+   {
+    "name": "William (FitzHerbert)",
+    "start": 1153,
+    "end": 1154,
+    "num": "Restored by Pope Anastasius IV; canonised in 1226."
+   },
+   {
+    "name": "Roger de Pont L'\u00c9v\u00eaque",
+    "start": 1154,
+    "end": 1181,
+    "num": "Formerly archdeacon of Canterbury."
+   },
+   {
+    "name": "Geoffrey",
+    "start": 1191,
+    "end": 1212,
+    "num": "Formerly bishop-elect of Lincoln; elected archbishop in 1189, but was only consecrated in 1191."
+   },
+   {
+    "name": "Simon Langton",
+    "start": 1215,
+    "end": 1215,
+    "num": "Elected archbishop of York in June 1215, but was quashed on 20 August 1215 by Pope Innocent III on request from King John; later became archdeacon of Canterbury."
+   },
+   {
+    "name": "Walter de Gray",
+    "start": 1216,
+    "end": 1255,
+    "num": "Translated from Worcester."
+   },
+   {
+    "name": "Sewal de Bovil",
+    "start": 1256,
+    "end": 1258,
+    "num": "Formerly Dean of York."
+   },
+   {
+    "name": "Godfrey Ludham",
+    "start": 1258,
+    "end": 1265,
+    "num": "Also known as Godfrey Kineton. Formerly Dean of York."
+   },
+   {
+    "name": "William Langton",
+    "start": 1265,
+    "end": 1265,
+    "num": "Dean of York (1262\u20131279); elected archbishop in March 1265, but was quashed in November 1265."
+   },
+   {
+    "name": "Bonaventure",
+    "start": 1265,
+    "end": 1266,
+    "num": "Selected as archbishop in November 1265, but never consecrated and resigned the appointment in October 1266."
+   },
+   {
+    "name": "Walter Giffard",
+    "start": 1266,
+    "end": 1279,
+    "num": "Translated from Bath and Wells."
+   },
+   {
+    "name": "William de Wickwane",
+    "start": 1279,
+    "end": 1285,
+    "num": ""
+   },
+   {
+    "name": "John le Romeyn",
+    "start": 1286,
+    "end": 1296,
+    "num": "Also known as John Romanus."
+   },
+   {
+    "name": "Henry of Newark",
+    "start": 1298,
+    "end": 1299,
+    "num": "Formerly Dean of York."
+   },
+   {
+    "name": "Thomas of Corbridge",
+    "start": 1300,
+    "end": 1304,
+    "num": ""
+   },
+   {
+    "name": "William Greenfield",
+    "start": 1306,
+    "end": 1315,
+    "num": "Formerly Dean of Chichester"
+   },
+   {
+    "name": "William Melton",
+    "start": 1317,
+    "end": 1340,
+    "num": ""
+   },
+   {
+    "name": "William Zouche",
+    "start": 1342,
+    "end": 1352,
+    "num": "Also known as William de la Zouche."
+   },
+   {
+    "name": "Cardinal John of Thoresby",
+    "start": 1353,
+    "end": 1373,
+    "num": "Translated from Worcester; created a Cardinal in 1361."
+   },
+   {
+    "name": "Alexander Neville",
+    "start": 1374,
+    "end": 1388,
+    "num": "Translated to St Andrews in 1388."
+   },
+   {
+    "name": "Thomas Arundel",
+    "start": 1388,
+    "end": 1396,
+    "num": "Translated from Ely; afterwards translated to Canterbury."
+   },
+   {
+    "name": "Robert Waldby",
+    "start": 1397,
+    "end": 1398,
+    "num": "Translated from Chichester."
+   },
+   {
+    "name": "Walter Skirlaw",
+    "start": 1398,
+    "end": 1398,
+    "num": "Bishop of Durham, elected but put aside by King Richard II."
+   },
+   {
+    "name": "Richard le Scrope",
+    "start": 1398,
+    "end": 1405,
+    "num": "Translated from Lichfield."
+   },
+   {
+    "name": "Thomas Langley",
+    "start": 1405,
+    "end": 1406,
+    "num": "Elected archbishop in August 1405, but was quashed in May 1406."
+   },
+   {
+    "name": "Robert Hallam",
+    "start": 1406,
+    "end": 1407,
+    "num": "Nominated archbishop in May 1406 by Pope Innocent VII, but was vetoed by King Henry IV."
+   },
+   {
+    "name": "Henry Bowet",
+    "start": 1407,
+    "end": 1423,
+    "num": "Translated from Bath and Wells."
+   },
+   {
+    "name": "Philip Morgan",
+    "start": 1423,
+    "end": 1424,
+    "num": "Elected archbishop in 1423, but was quashed in 1424."
+   },
+   {
+    "name": "Richard Fleming",
+    "start": 1424,
+    "end": 1425,
+    "num": "Conferred as archbishop by Pope Martin V, but was refused by King Henry V, and Fleming resigned the appointment in July 1425."
+   },
+   {
+    "name": "Cardinal John Kemp",
+    "start": 1426,
+    "end": 1452,
+    "num": "Translated from London; created a Cardinal in 1439; translated to Canterbury."
+   },
+   {
+    "name": "William Booth",
+    "start": 1452,
+    "end": 1464,
+    "num": "Translated from Lichfield."
+   },
+   {
+    "name": "George Neville",
+    "start": 1465,
+    "end": 1476,
+    "num": "Translated from Exeter."
+   },
+   {
+    "name": "Lawrence Booth",
+    "start": 1476,
+    "end": 1480,
+    "num": "Translated from Durham."
+   },
+   {
+    "name": "Thomas Rotherham",
+    "start": 1480,
+    "end": 1500,
+    "num": "Translated from Lincoln."
+   },
+   {
+    "name": "Thomas Savage",
+    "start": 1501,
+    "end": 1507,
+    "num": "Translated from London."
+   },
+   {
+    "name": "Cardinal Christopher Bainbridge",
+    "start": 1508,
+    "end": 1514,
+    "num": "Translated from Durham; created a Cardinal in 1511."
+   },
+   {
+    "name": "Cardinal Thomas Wolsey",
+    "start": 1514,
+    "end": 1530,
+    "num": "Translated from Lincoln in 1514; created a Cardinal in 1515; held with Bath and Wells 1518\u201323, Durham 1523\u201329 and Winchester 1529\u201330."
+   },
+   {
+    "name": "Edward Lee",
+    "start": 1531,
+    "end": 1544,
+    "num": "Translated from St Davids."
+   },
+   {
+    "name": "Robert Holgate",
+    "start": 1545,
+    "end": 1554,
+    "num": "Translated from Llandaff."
+   },
+   {
+    "name": "Nicholas Heath",
+    "start": 1555,
+    "end": 1559,
+    "num": "Translated from Worcester."
+   },
+   {
+    "name": "Thomas Young",
+    "start": 1561,
+    "end": 1568,
+    "num": "Translated from St Davids."
+   },
+   {
+    "name": "Edmund Grindal",
+    "start": 1570,
+    "end": 1576,
+    "num": "Translated from London; afterwards translated to Canterbury."
+   },
+   {
+    "name": "Edwin Sandys",
+    "start": 1577,
+    "end": 1588,
+    "num": "Translated from London."
+   },
+   {
+    "name": "John Piers",
+    "start": 1589,
+    "end": 1594,
+    "num": "Translated from Salisbury."
+   },
+   {
+    "name": "Matthew Hutton",
+    "start": 1595,
+    "end": 1606,
+    "num": "Translated from Durham."
+   },
+   {
+    "name": "Tobias Matthew",
+    "start": 1606,
+    "end": 1628,
+    "num": "Translated from Durham."
+   },
+   {
+    "name": "George Montaigne",
+    "start": 1628,
+    "end": 1628,
+    "num": "Translated from Durham."
+   },
+   {
+    "name": "Samuel Harsnett",
+    "start": 1629,
+    "end": 1631,
+    "num": "Translated from Norwich."
+   },
+   {
+    "name": "Richard Neile",
+    "start": 1632,
+    "end": 1640,
+    "num": "Translated from Winchester."
+   },
+   {
+    "name": "John Williams",
+    "start": 1641,
+    "end": 1646,
+    "num": "Translated from Lincoln. Deprived when the English episcopacy was abolished by Parliament. Died 1650."
+   },
+   {
+    "name": "Accepted Frewen",
+    "start": 1660,
+    "end": 1664,
+    "num": "Translated from Lichfield."
+   },
+   {
+    "name": "Richard Sterne",
+    "start": 1664,
+    "end": 1683,
+    "num": "Translated from Carlisle."
+   },
+   {
+    "name": "John Dolben",
+    "start": 1683,
+    "end": 1686,
+    "num": "Translated from Rochester."
+   },
+   {
+    "name": "Thomas Lamplugh",
+    "start": 1688,
+    "end": 1691,
+    "num": "Translated from Exeter."
+   },
+   {
+    "name": "John Sharp",
+    "start": 1691,
+    "end": 1714,
+    "num": "Formerly Dean of Canterbury."
+   },
+   {
+    "name": "Sir William Dawes, Bt",
+    "start": 1714,
+    "end": 1724,
+    "num": "Translated from Chester."
+   },
+   {
+    "name": "Lancelot Blackburne",
+    "start": 1724,
+    "end": 1743,
+    "num": "Translated from Exeter."
+   },
+   {
+    "name": "Thomas Herring",
+    "start": 1743,
+    "end": 1747,
+    "num": "Translated from Bangor; afterwards translated to Canterbury."
+   },
+   {
+    "name": "Matthew Hutton",
+    "start": 1747,
+    "end": 1757,
+    "num": "Translated from Bangor; afterwards translated to Canterbury."
+   },
+   {
+    "name": "John Gilbert",
+    "start": 1757,
+    "end": 1761,
+    "num": "Translated from Salisbury."
+   },
+   {
+    "name": "Robert Hay Drummond",
+    "start": 1761,
+    "end": 1776,
+    "num": "Translated from Salisbury."
+   },
+   {
+    "name": "William Markham",
+    "start": 1776,
+    "end": 1807,
+    "num": "Translated from Chester."
+   },
+   {
+    "name": "Edward Venables-Vernon",
+    "start": 1808,
+    "end": 1847,
+    "num": "Translated from Carlisle. Surname changed from Venables-Vernon to Venables-Vernon-Harcourt in 1831."
+   },
+   {
+    "name": "Thomas Musgrave",
+    "start": 1847,
+    "end": 1860,
+    "num": "Translated from Hereford."
+   },
+   {
+    "name": "Charles Longley",
+    "start": 1860,
+    "end": 1862,
+    "num": "Translated from Durham; afterwards translated to Canterbury."
+   },
+   {
+    "name": "William Thomson",
+    "start": 1862,
+    "end": 1890,
+    "num": "Translated from Gloucester."
+   },
+   {
+    "name": "William Connor Magee",
+    "start": 1891,
+    "end": 1891,
+    "num": "Translated from Peterborough."
+   },
+   {
+    "name": "William Maclagan",
+    "start": 1891,
+    "end": 1908,
+    "num": "Translated from Lichfield."
+   },
+   {
+    "name": "Cosmo Gordon Lang",
+    "start": 1909,
+    "end": 1928,
+    "num": "Translated from Stepney; afterwards translated to Canterbury."
+   },
+   {
+    "name": "William Temple",
+    "start": 1929,
+    "end": 1942,
+    "num": "Translated from Manchester; afterwards translated to Canterbury."
+   },
+   {
+    "name": "Cyril Garbett",
+    "start": 1942,
+    "end": 1955,
+    "num": "Translated from Winchester."
+   },
+   {
+    "name": "Michael Ramsey",
+    "start": 1956,
+    "end": 1961,
+    "num": "Translated from Durham; afterwards translated to Canterbury."
+   },
+   {
+    "name": "Donald Coggan",
+    "start": 1961,
+    "end": 1974,
+    "num": "Translated from Bradford; afterwards translated to Canterbury."
+   },
+   {
+    "name": "Stuart Blanch",
+    "start": 1975,
+    "end": 1983,
+    "num": "Translated from Liverpool."
+   },
+   {
+    "name": "John Habgood",
+    "start": 1983,
+    "end": 1995,
+    "num": "Translated from Durham."
+   },
+   {
+    "name": "David Hope",
+    "start": 1995,
+    "end": 2005,
+    "num": "Translated from London."
+   },
+   {
+    "name": "John Sentamu",
+    "start": 2005,
+    "end": 2020,
+    "num": "Translated from Birmingham; retired 7 June 2020."
+   },
+   {
+    "name": "Stephen Cottrell",
+    "start": 2020,
+    "end": "present",
+    "num": "Translated from Chelmsford; election confirmed 9 July 2020."
+   }
+  ]
+ },
+ "tec": {
+  "title": "Presiding Bishop of the Episcopal Church",
+  "rows": [
+   {
+    "name": "William White",
+    "start": 1789,
+    "end": 1789,
+    "num": "1"
+   },
+   {
+    "name": "Samuel Seabury",
+    "start": 1789,
+    "end": 1792,
+    "num": "2"
+   },
+   {
+    "name": "Samuel Provoost",
+    "start": 1792,
+    "end": 1795,
+    "num": "3"
+   },
+   {
+    "name": "William White",
+    "start": 1795,
+    "end": 1836,
+    "num": "4"
+   },
+   {
+    "name": "Alexander Viets Griswold",
+    "start": 1836,
+    "end": 1843,
+    "num": "5"
+   },
+   {
+    "name": "Philander Chase",
+    "start": 1843,
+    "end": 1852,
+    "num": "6"
+   },
+   {
+    "name": "Thomas Church Brownell",
+    "start": 1852,
+    "end": 1865,
+    "num": "7"
+   },
+   {
+    "name": "John Henry Hopkins",
+    "start": 1865,
+    "end": 1868,
+    "num": "8"
+   },
+   {
+    "name": "Benjamin Smith",
+    "start": 1868,
+    "end": 1884,
+    "num": "9"
+   },
+   {
+    "name": "Alfred Lee",
+    "start": 1884,
+    "end": 1887,
+    "num": "10"
+   },
+   {
+    "name": "John Williams",
+    "start": 1887,
+    "end": 1899,
+    "num": "11"
+   },
+   {
+    "name": "Thomas M. Clark",
+    "start": 1899,
+    "end": 1903,
+    "num": "12"
+   },
+   {
+    "name": "Daniel S. Tuttle",
+    "start": 1903,
+    "end": 1923,
+    "num": "13"
+   },
+   {
+    "name": "Alexander Charles Garrett",
+    "start": 1923,
+    "end": 1924,
+    "num": "14"
+   },
+   {
+    "name": "Ethelbert Talbot",
+    "start": 1924,
+    "end": 1926,
+    "num": "15"
+   },
+   {
+    "name": "John Gardner Murray",
+    "start": 1926,
+    "end": 1929,
+    "num": "16"
+   },
+   {
+    "name": "Charles P. Anderson",
+    "start": 1929,
+    "end": 1930,
+    "num": "17"
+   },
+   {
+    "name": "James DeWolf Perry",
+    "start": 1930,
+    "end": 1937,
+    "num": "18"
+   },
+   {
+    "name": "Henry St. George Tucker",
+    "start": 1938,
+    "end": 1946,
+    "num": "19"
+   },
+   {
+    "name": "Henry Knox Sherrill",
+    "start": 1947,
+    "end": 1958,
+    "num": "20"
+   },
+   {
+    "name": "Arthur C. Lichtenberger",
+    "start": 1958,
+    "end": 1964,
+    "num": "21"
+   },
+   {
+    "name": "John E. Hines",
+    "start": 1965,
+    "end": 1974,
+    "num": "22"
+   },
+   {
+    "name": "John Allin",
+    "start": 1974,
+    "end": 1985,
+    "num": "23"
+   },
+   {
+    "name": "Edmond L. Browning",
+    "start": 1986,
+    "end": 1997,
+    "num": "24"
+   },
+   {
+    "name": "Frank T. Griswold",
+    "start": 1998,
+    "end": 2006,
+    "num": "25"
+   },
+   {
+    "name": "Katharine Jefferts Schori",
+    "start": 2006,
+    "end": 2015,
+    "num": "26"
+   },
+   {
+    "name": "Michael Bruce Curry",
+    "start": 2015,
+    "end": 2024,
+    "num": "27"
+   },
+   {
+    "name": "Sean W. Rowe",
+    "start": 2024,
+    "end": "present",
+    "num": "28"
+   }
+  ]
+ },
+ "lds": {
+  "title": "List of presidents of the Church of Jesus Christ of Latter-day Saints",
+  "rows": [
+   {
+    "name": "Joseph Smith",
+    "start": 1830,
+    "end": 1832,
+    "num": "1"
+   },
+   {
+    "name": "Brigham Young",
+    "start": 1847,
+    "end": 1847,
+    "num": "2"
+   },
+   {
+    "name": "John Taylor",
+    "start": 1880,
+    "end": 1880,
+    "num": "3"
+   },
+   {
+    "name": "Wilford Woodruff",
+    "start": 1889,
+    "end": 1889,
+    "num": "4"
+   },
+   {
+    "name": "Lorenzo Snow",
+    "start": 1898,
+    "end": 1898,
+    "num": "5"
+   },
+   {
+    "name": "Joseph F. Smith",
+    "start": 1901,
+    "end": 1901,
+    "num": "6"
+   },
+   {
+    "name": "Heber J. Grant",
+    "start": 1918,
+    "end": 1918,
+    "num": "7"
+   },
+   {
+    "name": "George Albert Smith",
+    "start": 1945,
+    "end": 1945,
+    "num": "8"
+   },
+   {
+    "name": "David O. McKay",
+    "start": 1951,
+    "end": 1951,
+    "num": "9"
+   },
+   {
+    "name": "Joseph Fielding Smith",
+    "start": 1970,
+    "end": 1970,
+    "num": "10"
+   },
+   {
+    "name": "Harold B. Lee",
+    "start": 1972,
+    "end": 1972,
+    "num": "11"
+   },
+   {
+    "name": "Spencer W. Kimball",
+    "start": 1973,
+    "end": 1973,
+    "num": "12"
+   },
+   {
+    "name": "Ezra Taft Benson",
+    "start": 1985,
+    "end": 1985,
+    "num": "13"
+   },
+   {
+    "name": "Howard W. Hunter",
+    "start": 1994,
+    "end": 1994,
+    "num": "14"
+   },
+   {
+    "name": "Gordon B. Hinckley",
+    "start": 1995,
+    "end": 1995,
+    "num": "15"
+   },
+   {
+    "name": "Thomas S. Monson",
+    "start": 2008,
+    "end": 2008,
+    "num": "16"
+   },
+   {
+    "name": "Russell M. Nelson",
+    "start": 2018,
+    "end": 2018,
+    "num": "17"
+   },
+   {
+    "name": "Dallin H. Oaks",
+    "start": 2025,
+    "end": "present",
+    "num": "18"
+   }
+  ]
+ },
+ "salvation": {
+  "title": "General of The Salvation Army",
+  "rows": [
+   {
+    "name": "William Booth OBE",
+    "start": 1865,
+    "end": null,
+    "num": "1"
+   },
+   {
+    "name": "Bramwell Booth CH",
+    "start": 1912,
+    "end": null,
+    "num": "2"
+   },
+   {
+    "name": "Edward Higgins",
+    "start": 1929,
+    "end": null,
+    "num": "3"
+   },
+   {
+    "name": "Evangeline Booth OF",
+    "start": 1934,
+    "end": null,
+    "num": "4"
+   },
+   {
+    "name": "George Carpenter",
+    "start": 1939,
+    "end": null,
+    "num": "5"
+   },
+   {
+    "name": "Albert Orsborn",
+    "start": 1946,
+    "end": null,
+    "num": "6"
+   },
+   {
+    "name": "Wilfred Kitching CBE",
+    "start": 1954,
+    "end": null,
+    "num": "7"
+   },
+   {
+    "name": "Frederick Coutts CBE",
+    "start": 1963,
+    "end": null,
+    "num": "8"
+   },
+   {
+    "name": "Erik Wickberg",
+    "start": 1969,
+    "end": null,
+    "num": "9"
+   },
+   {
+    "name": "Clarence Wiseman OC",
+    "start": 1974,
+    "end": null,
+    "num": "10"
+   },
+   {
+    "name": "Arnold Brown OC",
+    "start": 1977,
+    "end": null,
+    "num": "11"
+   },
+   {
+    "name": "Jarl Wahlstr\u00f6m",
+    "start": 1981,
+    "end": null,
+    "num": "12"
+   },
+   {
+    "name": "Eva Burrows AC",
+    "start": 1986,
+    "end": null,
+    "num": "13"
+   },
+   {
+    "name": "Bramwell Tillsley",
+    "start": 1993,
+    "end": null,
+    "num": "14"
+   },
+   {
+    "name": "Paul Rader",
+    "start": 1994,
+    "end": null,
+    "num": "15"
+   },
+   {
+    "name": "John Gowans",
+    "start": 1999,
+    "end": null,
+    "num": "16"
+   },
+   {
+    "name": "John Larsson",
+    "start": 2002,
+    "end": null,
+    "num": "17"
+   },
+   {
+    "name": "Shaw Clifton",
+    "start": 2006,
+    "end": null,
+    "num": "18"
+   },
+   {
+    "name": "Linda Bond",
+    "start": 2011,
+    "end": null,
+    "num": "19"
+   },
+   {
+    "name": "Andr\u00e9 Cox",
+    "start": 2013,
+    "end": null,
+    "num": "20"
+   },
+   {
+    "name": "Brian Peddle",
+    "start": 2018,
+    "end": null,
+    "num": "21"
+   },
+   {
+    "name": "Lyndon Buckingham",
+    "start": 2023,
+    "end": "present",
+    "num": "22"
+   }
+  ]
+ },
+ "malankara": {
+  "title": "List of Malankara metropolitans",
+  "rows": [
+   {
+    "name": "Mathews I",
+    "start": 1975,
+    "end": 1991,
+    "num": ""
+   },
+   {
+    "name": "Didymos I",
+    "start": 2005,
+    "end": 2010,
+    "num": ""
+   },
+   {
+    "name": "Paulose II",
+    "start": 2010,
+    "end": 2021,
+    "num": ""
+   },
+   {
+    "name": "Mathews III",
+    "start": 2021,
+    "end": "present",
+    "num": ""
+   }
+  ]
+ },
+ "rome": {
+  "title": "List of popes",
+  "rows": [
+   {
+    "name": "Peter",
+    "start": 30,
+    "end": 64,
+    "num": "1"
+   },
+   {
+    "name": "Linus",
+    "start": 64,
+    "end": 76,
+    "num": "2"
+   },
+   {
+    "name": "Anacletus",
+    "start": 76,
+    "end": 88,
+    "num": "3"
+   },
+   {
+    "name": "Clement I",
+    "start": 88,
+    "end": 97,
+    "num": "4"
+   },
+   {
+    "name": "Evaristus",
+    "start": 105,
+    "end": 105,
+    "num": "5"
+   },
+   {
+    "name": "Alexander I",
+    "start": 105,
+    "end": 115,
+    "num": "6"
+   },
+   {
+    "name": "Sixtus I",
+    "start": 115,
+    "end": 125,
+    "num": "7"
+   },
+   {
+    "name": "Telesphorus",
+    "start": 125,
+    "end": 136,
+    "num": "8"
+   },
+   {
+    "name": "Hyginus",
+    "start": 136,
+    "end": 140,
+    "num": "9"
+   },
+   {
+    "name": "Pius I",
+    "start": 140,
+    "end": 155,
+    "num": "10"
+   },
+   {
+    "name": "Anicetus",
+    "start": 155,
+    "end": 166,
+    "num": "11"
+   },
+   {
+    "name": "Soter",
+    "start": 166,
+    "end": 174,
+    "num": "12"
+   },
+   {
+    "name": "Eleutherius",
+    "start": 174,
+    "end": 189,
+    "num": "13"
+   },
+   {
+    "name": "Victor I",
+    "start": 189,
+    "end": 198,
+    "num": "14"
+   },
+   {
+    "name": "Zephyrinus",
+    "start": 198,
+    "end": 217,
+    "num": "15"
+   },
+   {
+    "name": "Callixtus I",
+    "start": 218,
+    "end": 222,
+    "num": "16"
+   },
+   {
+    "name": "Urban I",
+    "start": 222,
+    "end": 230,
+    "num": "17"
+   },
+   {
+    "name": "Pontian",
+    "start": 230,
+    "end": 235,
+    "num": "18"
+   },
+   {
+    "name": "Anterus",
+    "start": 235,
+    "end": 236,
+    "num": "19"
+   },
+   {
+    "name": "Fabian",
+    "start": 236,
+    "end": 250,
+    "num": "20"
+   },
+   {
+    "name": "Cornelius",
+    "start": 251,
+    "end": 253,
+    "num": "21"
+   },
+   {
+    "name": "Lucius I",
+    "start": 253,
+    "end": 254,
+    "num": "22"
+   },
+   {
+    "name": "Stephen I",
+    "start": 254,
+    "end": 257,
+    "num": "23"
+   },
+   {
+    "name": "Sixtus II",
+    "start": 257,
+    "end": 258,
+    "num": "24"
+   },
+   {
+    "name": "Dionysius",
+    "start": 259,
+    "end": 268,
+    "num": "25"
+   },
+   {
+    "name": "Felix I",
+    "start": 269,
+    "end": 274,
+    "num": "26"
+   },
+   {
+    "name": "Eutychian",
+    "start": 275,
+    "end": 283,
+    "num": "27"
+   },
+   {
+    "name": "Caius",
+    "start": 283,
+    "end": 296,
+    "num": "28"
+   },
+   {
+    "name": "Marcellinus",
+    "start": 296,
+    "end": 304,
+    "num": "29"
+   },
+   {
+    "name": "Marcellus I",
+    "start": 308,
+    "end": 309,
+    "num": "30"
+   },
+   {
+    "name": "Eusebius",
+    "start": 309,
+    "end": 310,
+    "num": "31"
+   },
+   {
+    "name": "Miltiades",
+    "start": 311,
+    "end": 314,
+    "num": "32"
+   },
+   {
+    "name": "Sylvester I",
+    "start": 314,
+    "end": 335,
+    "num": "33"
+   },
+   {
+    "name": "Mark",
+    "start": 336,
+    "end": 336,
+    "num": "34"
+   },
+   {
+    "name": "Julius I",
+    "start": 337,
+    "end": 352,
+    "num": "35"
+   },
+   {
+    "name": "Liberius",
+    "start": 352,
+    "end": 366,
+    "num": "36"
+   },
+   {
+    "name": "Damasus I",
+    "start": 366,
+    "end": 384,
+    "num": "37"
+   },
+   {
+    "name": "Siricius",
+    "start": 384,
+    "end": 399,
+    "num": "38"
+   },
+   {
+    "name": "Anastasius I",
+    "start": 399,
+    "end": 401,
+    "num": "39"
+   },
+   {
+    "name": "Innocent I",
+    "start": 401,
+    "end": 417,
+    "num": "40"
+   },
+   {
+    "name": "Zosimus",
+    "start": 417,
+    "end": 418,
+    "num": "41"
+   },
+   {
+    "name": "Boniface I",
+    "start": 418,
+    "end": 422,
+    "num": "42"
+   },
+   {
+    "name": "Celestine I",
+    "start": 422,
+    "end": 432,
+    "num": "43"
+   },
+   {
+    "name": "Sixtus III",
+    "start": 432,
+    "end": 440,
+    "num": "44"
+   },
+   {
+    "name": "Leo I",
+    "start": 440,
+    "end": 461,
+    "num": "45"
+   },
+   {
+    "name": "Hilarius",
+    "start": 461,
+    "end": 468,
+    "num": "46"
+   },
+   {
+    "name": "Simplicius",
+    "start": 468,
+    "end": 483,
+    "num": "47"
+   },
+   {
+    "name": "Felix III",
+    "start": 483,
+    "end": 492,
+    "num": "48"
+   },
+   {
+    "name": "Gelasius I",
+    "start": 492,
+    "end": 496,
+    "num": "49"
+   },
+   {
+    "name": "Anastasius II",
+    "start": 496,
+    "end": 498,
+    "num": "50"
+   },
+   {
+    "name": "Symmachus",
+    "start": 498,
+    "end": 514,
+    "num": "51"
+   },
+   {
+    "name": "Hormisdas",
+    "start": 514,
+    "end": 523,
+    "num": "52"
+   },
+   {
+    "name": "John I",
+    "start": 523,
+    "end": 526,
+    "num": "53"
+   },
+   {
+    "name": "Felix IV",
+    "start": 526,
+    "end": 530,
+    "num": "54"
+   },
+   {
+    "name": "Boniface II",
+    "start": 530,
+    "end": 532,
+    "num": "55"
+   },
+   {
+    "name": "John II",
+    "start": 533,
+    "end": 535,
+    "num": "56"
+   },
+   {
+    "name": "Agapetus I",
+    "start": 535,
+    "end": 536,
+    "num": "57"
+   },
+   {
+    "name": "Silverius",
+    "start": 536,
+    "end": 537,
+    "num": "58"
+   },
+   {
+    "name": "Vigilius",
+    "start": 537,
+    "end": 555,
+    "num": "59"
+   },
+   {
+    "name": "Pelagius I",
+    "start": 556,
+    "end": 561,
+    "num": "60"
+   },
+   {
+    "name": "John III",
+    "start": 561,
+    "end": 574,
+    "num": "61"
+   },
+   {
+    "name": "Benedict I",
+    "start": 575,
+    "end": 579,
+    "num": "62"
+   },
+   {
+    "name": "Pelagius II",
+    "start": 579,
+    "end": 590,
+    "num": "63"
+   },
+   {
+    "name": "Gregory I",
+    "start": 590,
+    "end": 604,
+    "num": "64"
+   },
+   {
+    "name": "Sabinian",
+    "start": 604,
+    "end": 606,
+    "num": "65"
+   },
+   {
+    "name": "Boniface III",
+    "start": 607,
+    "end": 607,
+    "num": "66"
+   },
+   {
+    "name": "Boniface IV",
+    "start": 608,
+    "end": 615,
+    "num": "67"
+   },
+   {
+    "name": "Adeodatus I",
+    "start": 615,
+    "end": 618,
+    "num": "68"
+   },
+   {
+    "name": "Boniface V",
+    "start": 619,
+    "end": 625,
+    "num": "69"
+   },
+   {
+    "name": "Honorius I",
+    "start": 625,
+    "end": 638,
+    "num": "70"
+   },
+   {
+    "name": "Severinus",
+    "start": 640,
+    "end": 640,
+    "num": "71"
+   },
+   {
+    "name": "John IV",
+    "start": 640,
+    "end": 642,
+    "num": "72"
+   },
+   {
+    "name": "Theodore I",
+    "start": 642,
+    "end": 649,
+    "num": "73"
+   },
+   {
+    "name": "Martin I",
+    "start": 649,
+    "end": 654,
+    "num": "74"
+   },
+   {
+    "name": "Eugene I",
+    "start": 654,
+    "end": 657,
+    "num": "75"
+   },
+   {
+    "name": "Vitalian",
+    "start": 657,
+    "end": 672,
+    "num": "76"
+   },
+   {
+    "name": "Adeodatus II",
+    "start": 672,
+    "end": 676,
+    "num": "77"
+   },
+   {
+    "name": "Donus",
+    "start": 676,
+    "end": 678,
+    "num": "78"
+   },
+   {
+    "name": "Agatho",
+    "start": 678,
+    "end": 681,
+    "num": "79"
+   },
+   {
+    "name": "Leo II",
+    "start": 682,
+    "end": 683,
+    "num": "80"
+   },
+   {
+    "name": "Benedict II",
+    "start": 684,
+    "end": 685,
+    "num": "81"
+   },
+   {
+    "name": "John V",
+    "start": 685,
+    "end": 686,
+    "num": "82"
+   },
+   {
+    "name": "Conon",
+    "start": 686,
+    "end": 687,
+    "num": "83"
+   },
+   {
+    "name": "Sergius I",
+    "start": 687,
+    "end": 701,
+    "num": "84"
+   },
+   {
+    "name": "John VI",
+    "start": 701,
+    "end": 705,
+    "num": "85"
+   },
+   {
+    "name": "John VII",
+    "start": 705,
+    "end": 707,
+    "num": "86"
+   },
+   {
+    "name": "Sisinnius",
+    "start": 708,
+    "end": 708,
+    "num": "87"
+   },
+   {
+    "name": "Constantine",
+    "start": 708,
+    "end": 715,
+    "num": "88"
+   },
+   {
+    "name": "Gregory II",
+    "start": 715,
+    "end": 731,
+    "num": "89"
+   },
+   {
+    "name": "Gregory III",
+    "start": 731,
+    "end": 741,
+    "num": "90"
+   },
+   {
+    "name": "Zachary",
+    "start": 741,
+    "end": 752,
+    "num": "91"
+   },
+   {
+    "name": "Stephen II",
+    "start": 752,
+    "end": 757,
+    "num": "92"
+   },
+   {
+    "name": "Paul I",
+    "start": 757,
+    "end": 767,
+    "num": "93"
+   },
+   {
+    "name": "Stephen III",
+    "start": 768,
+    "end": 772,
+    "num": "94"
+   },
+   {
+    "name": "Adrian I",
+    "start": 772,
+    "end": 795,
+    "num": "95"
+   },
+   {
+    "name": "Leo III",
+    "start": 795,
+    "end": 816,
+    "num": "96"
+   },
+   {
+    "name": "Stephen IV",
+    "start": 816,
+    "end": 817,
+    "num": "97"
+   },
+   {
+    "name": "Paschal I",
+    "start": 817,
+    "end": 824,
+    "num": "98"
+   },
+   {
+    "name": "Eugene II",
+    "start": 824,
+    "end": 827,
+    "num": "99"
+   },
+   {
+    "name": "Valentine",
+    "start": 827,
+    "end": 827,
+    "num": "100"
+   },
+   {
+    "name": "Gregory IV",
+    "start": 827,
+    "end": 844,
+    "num": "101"
+   },
+   {
+    "name": "Sergius II",
+    "start": 844,
+    "end": 847,
+    "num": "102"
+   },
+   {
+    "name": "Leo IV",
+    "start": 847,
+    "end": 855,
+    "num": "103"
+   },
+   {
+    "name": "Benedict III",
+    "start": 855,
+    "end": 858,
+    "num": "104"
+   },
+   {
+    "name": "Nicholas I",
+    "start": 858,
+    "end": 867,
+    "num": "105"
+   },
+   {
+    "name": "Adrian II",
+    "start": 867,
+    "end": 872,
+    "num": "106"
+   },
+   {
+    "name": "John VIII",
+    "start": 872,
+    "end": 882,
+    "num": "107"
+   },
+   {
+    "name": "Marinus I",
+    "start": 882,
+    "end": 884,
+    "num": "108"
+   },
+   {
+    "name": "Adrian III",
+    "start": 884,
+    "end": 885,
+    "num": "109"
+   },
+   {
+    "name": "Stephen V",
+    "start": 885,
+    "end": 891,
+    "num": "110"
+   },
+   {
+    "name": "Formosus",
+    "start": 891,
+    "end": 896,
+    "num": "111"
+   },
+   {
+    "name": "Boniface VI",
+    "start": 896,
+    "end": 896,
+    "num": "112"
+   },
+   {
+    "name": "Stephen VI",
+    "start": 896,
+    "end": 897,
+    "num": "113"
+   },
+   {
+    "name": "Romanus",
+    "start": 897,
+    "end": 897,
+    "num": "114"
+   },
+   {
+    "name": "Theodore II",
+    "start": 897,
+    "end": 897,
+    "num": "115"
+   },
+   {
+    "name": "John IX",
+    "start": 898,
+    "end": 900,
+    "num": "116"
+   },
+   {
+    "name": "Benedict IV",
+    "start": 900,
+    "end": 903,
+    "num": "117"
+   },
+   {
+    "name": "Leo V",
+    "start": 903,
+    "end": 903,
+    "num": "118"
+   },
+   {
+    "name": "Sergius III",
+    "start": 904,
+    "end": 911,
+    "num": "119"
+   },
+   {
+    "name": "Anastasius III",
+    "start": 911,
+    "end": 913,
+    "num": "120"
+   },
+   {
+    "name": "Lando",
+    "start": 913,
+    "end": 914,
+    "num": "121"
+   },
+   {
+    "name": "John X",
+    "start": 914,
+    "end": 928,
+    "num": "122"
+   },
+   {
+    "name": "Leo VI",
+    "start": 928,
+    "end": 929,
+    "num": "123"
+   },
+   {
+    "name": "Stephen VII",
+    "start": 929,
+    "end": 931,
+    "num": "124"
+   },
+   {
+    "name": "John XI",
+    "start": 931,
+    "end": 935,
+    "num": "125"
+   },
+   {
+    "name": "Leo VII",
+    "start": 936,
+    "end": 939,
+    "num": "126"
+   },
+   {
+    "name": "Stephen VIII",
+    "start": 939,
+    "end": 942,
+    "num": "127"
+   },
+   {
+    "name": "Marinus II",
+    "start": 942,
+    "end": 946,
+    "num": "128"
+   },
+   {
+    "name": "Agapetus II",
+    "start": 946,
+    "end": 955,
+    "num": "129"
+   },
+   {
+    "name": "John XII",
+    "start": 955,
+    "end": 963,
+    "num": "130"
+   },
+   {
+    "name": "Benedict V",
+    "start": 964,
+    "end": 964,
+    "num": "131"
+   },
+   {
+    "name": "Leo VIII",
+    "start": 964,
+    "end": 965,
+    "num": "132"
+   },
+   {
+    "name": "John XIII",
+    "start": 965,
+    "end": 972,
+    "num": "133"
+   },
+   {
+    "name": "Benedict VI",
+    "start": 973,
+    "end": 974,
+    "num": "134"
+   },
+   {
+    "name": "Benedict VII",
+    "start": 974,
+    "end": 983,
+    "num": "135"
+   },
+   {
+    "name": "John XIV",
+    "start": 983,
+    "end": 984,
+    "num": "136"
+   },
+   {
+    "name": "John XV",
+    "start": 985,
+    "end": 996,
+    "num": "137"
+   },
+   {
+    "name": "Gregory V",
+    "start": 996,
+    "end": 999,
+    "num": "138"
+   },
+   {
+    "name": "Sylvester II",
+    "start": 999,
+    "end": 1003,
+    "num": "139"
+   },
+   {
+    "name": "John XVII",
+    "start": 1003,
+    "end": 1003,
+    "num": "140"
+   },
+   {
+    "name": "John XVIII",
+    "start": 1003,
+    "end": 1009,
+    "num": "141"
+   },
+   {
+    "name": "Sergius IV",
+    "start": 1009,
+    "end": 1012,
+    "num": "142"
+   },
+   {
+    "name": "Benedict VIII",
+    "start": 1012,
+    "end": 1024,
+    "num": "143"
+   },
+   {
+    "name": "John XIX",
+    "start": 1024,
+    "end": 1032,
+    "num": "144"
+   },
+   {
+    "name": "Benedict IX",
+    "start": 1032,
+    "end": 1044,
+    "num": "145"
+   },
+   {
+    "name": "Sylvester III",
+    "start": 1045,
+    "end": 1045,
+    "num": "146"
+   },
+   {
+    "name": "Benedict IX",
+    "start": 1045,
+    "end": 1045,
+    "num": "147"
+   },
+   {
+    "name": "Gregory VI",
+    "start": 1045,
+    "end": 1046,
+    "num": "148"
+   },
+   {
+    "name": "Clement II",
+    "start": 1046,
+    "end": 1047,
+    "num": "149"
+   },
+   {
+    "name": "Benedict IX",
+    "start": 1047,
+    "end": 1048,
+    "num": "150"
+   },
+   {
+    "name": "Damasus II",
+    "start": 1048,
+    "end": 1048,
+    "num": "151"
+   },
+   {
+    "name": "Leo IX",
+    "start": 1049,
+    "end": 1054,
+    "num": "152"
+   },
+   {
+    "name": "Victor II",
+    "start": 1055,
+    "end": 1057,
+    "num": "153"
+   },
+   {
+    "name": "Stephen IX",
+    "start": 1057,
+    "end": 1058,
+    "num": "154"
+   },
+   {
+    "name": "Nicholas II",
+    "start": 1058,
+    "end": 1061,
+    "num": "155"
+   },
+   {
+    "name": "Alexander II",
+    "start": 1061,
+    "end": 1073,
+    "num": "156"
+   },
+   {
+    "name": "Gregory VII",
+    "start": 1073,
+    "end": 1085,
+    "num": "157"
+   },
+   {
+    "name": "Victor III",
+    "start": 1086,
+    "end": 1087,
+    "num": "158"
+   },
+   {
+    "name": "Urban II",
+    "start": 1088,
+    "end": 1099,
+    "num": "159"
+   },
+   {
+    "name": "Paschal II",
+    "start": 1099,
+    "end": 1118,
+    "num": "160"
+   },
+   {
+    "name": "Gelasius II",
+    "start": 1118,
+    "end": 1119,
+    "num": "161"
+   },
+   {
+    "name": "Callixtus II",
+    "start": 1119,
+    "end": 1124,
+    "num": "162"
+   },
+   {
+    "name": "Honorius II",
+    "start": 1124,
+    "end": 1130,
+    "num": "163"
+   },
+   {
+    "name": "Innocent II",
+    "start": 1130,
+    "end": 1143,
+    "num": "164"
+   },
+   {
+    "name": "Celestine II",
+    "start": 1143,
+    "end": 1144,
+    "num": "165"
+   },
+   {
+    "name": "Lucius II",
+    "start": 1144,
+    "end": 1145,
+    "num": "166"
+   },
+   {
+    "name": "Eugene III",
+    "start": 1145,
+    "end": 1153,
+    "num": "167"
+   },
+   {
+    "name": "Anastasius IV",
+    "start": 1153,
+    "end": 1154,
+    "num": "168"
+   },
+   {
+    "name": "Adrian IV",
+    "start": 1154,
+    "end": 1159,
+    "num": "169"
+   },
+   {
+    "name": "Alexander III",
+    "start": 1159,
+    "end": 1181,
+    "num": "170"
+   },
+   {
+    "name": "Lucius III",
+    "start": 1181,
+    "end": 1185,
+    "num": "171"
+   },
+   {
+    "name": "Urban III",
+    "start": 1185,
+    "end": 1187,
+    "num": "172"
+   },
+   {
+    "name": "Gregory VIII",
+    "start": 1187,
+    "end": 1187,
+    "num": "173"
+   },
+   {
+    "name": "Clement III",
+    "start": 1187,
+    "end": 1191,
+    "num": "174"
+   },
+   {
+    "name": "Celestine III",
+    "start": 1191,
+    "end": 1198,
+    "num": "175"
+   },
+   {
+    "name": "Innocent III",
+    "start": 1198,
+    "end": 1216,
+    "num": "176"
+   },
+   {
+    "name": "Honorius III",
+    "start": 1216,
+    "end": 1227,
+    "num": "177"
+   },
+   {
+    "name": "Gregory IX",
+    "start": 1227,
+    "end": 1241,
+    "num": "178"
+   },
+   {
+    "name": "Celestine IV",
+    "start": 1241,
+    "end": 1241,
+    "num": "179"
+   },
+   {
+    "name": "Innocent IV",
+    "start": 1243,
+    "end": 1254,
+    "num": "180"
+   },
+   {
+    "name": "Alexander IV",
+    "start": 1254,
+    "end": 1261,
+    "num": "181"
+   },
+   {
+    "name": "Urban IV",
+    "start": 1261,
+    "end": 1264,
+    "num": "182"
+   },
+   {
+    "name": "Clement IV",
+    "start": 1265,
+    "end": 1268,
+    "num": "183"
+   },
+   {
+    "name": "Gregory X",
+    "start": 1271,
+    "end": 1276,
+    "num": "184"
+   },
+   {
+    "name": "Innocent V",
+    "start": 1276,
+    "end": 1276,
+    "num": "185"
+   },
+   {
+    "name": "Adrian V",
+    "start": 1276,
+    "end": 1276,
+    "num": "186"
+   },
+   {
+    "name": "John XXI",
+    "start": 1276,
+    "end": 1277,
+    "num": "187"
+   },
+   {
+    "name": "Nicholas III",
+    "start": 1277,
+    "end": 1280,
+    "num": "188"
+   },
+   {
+    "name": "Martin IV",
+    "start": 1281,
+    "end": 1285,
+    "num": "189"
+   },
+   {
+    "name": "Honorius IV",
+    "start": 1285,
+    "end": 1287,
+    "num": "190"
+   },
+   {
+    "name": "Nicholas IV",
+    "start": 1288,
+    "end": 1292,
+    "num": "191"
+   },
+   {
+    "name": "Celestine V",
+    "start": 1294,
+    "end": 1294,
+    "num": "192"
+   },
+   {
+    "name": "Boniface VIII",
+    "start": 1294,
+    "end": 1303,
+    "num": "193"
+   },
+   {
+    "name": "Benedict XI",
+    "start": 1303,
+    "end": 1304,
+    "num": "194"
+   },
+   {
+    "name": "Clement V",
+    "start": 1305,
+    "end": 1314,
+    "num": "195"
+   },
+   {
+    "name": "John XXII",
+    "start": 1316,
+    "end": 1334,
+    "num": "196"
+   },
+   {
+    "name": "Benedict XII",
+    "start": 1334,
+    "end": 1342,
+    "num": "197"
+   },
+   {
+    "name": "Clement VI",
+    "start": 1342,
+    "end": 1352,
+    "num": "198"
+   },
+   {
+    "name": "Innocent VI",
+    "start": 1352,
+    "end": 1362,
+    "num": "199"
+   },
+   {
+    "name": "Urban V",
+    "start": 1362,
+    "end": 1370,
+    "num": "200"
+   },
+   {
+    "name": "Gregory XI",
+    "start": 1370,
+    "end": 1378,
+    "num": "201"
+   },
+   {
+    "name": "Urban VI",
+    "start": 1378,
+    "end": 1389,
+    "num": "202"
+   },
+   {
+    "name": "Boniface IX",
+    "start": 1389,
+    "end": 1404,
+    "num": "203"
+   },
+   {
+    "name": "Innocent VII",
+    "start": 1404,
+    "end": 1406,
+    "num": "204"
+   },
+   {
+    "name": "Gregory XII",
+    "start": 1406,
+    "end": 1415,
+    "num": "205"
+   },
+   {
+    "name": "Martin V",
+    "start": 1417,
+    "end": 1431,
+    "num": "206"
+   },
+   {
+    "name": "Eugene IV",
+    "start": 1431,
+    "end": 1447,
+    "num": "207"
+   },
+   {
+    "name": "Nicholas V",
+    "start": 1447,
+    "end": 1455,
+    "num": "208"
+   },
+   {
+    "name": "Callixtus III",
+    "start": 1455,
+    "end": 1458,
+    "num": "209"
+   },
+   {
+    "name": "Pius II",
+    "start": 1458,
+    "end": 1464,
+    "num": "210"
+   },
+   {
+    "name": "Paul II",
+    "start": 1464,
+    "end": 1471,
+    "num": "211"
+   },
+   {
+    "name": "Sixtus IV",
+    "start": 1471,
+    "end": 1484,
+    "num": "212"
+   },
+   {
+    "name": "Innocent VIII",
+    "start": 1484,
+    "end": 1492,
+    "num": "213"
+   },
+   {
+    "name": "Alexander VI",
+    "start": 1492,
+    "end": 1503,
+    "num": "214"
+   },
+   {
+    "name": "Pius III",
+    "start": 1503,
+    "end": 1503,
+    "num": "215"
+   },
+   {
+    "name": "Julius II",
+    "start": 1503,
+    "end": 1513,
+    "num": "216"
+   },
+   {
+    "name": "Leo X",
+    "start": 1513,
+    "end": 1521,
+    "num": "217"
+   },
+   {
+    "name": "Adrian VI",
+    "start": 1522,
+    "end": 1523,
+    "num": "218"
+   },
+   {
+    "name": "Clement VII",
+    "start": 1523,
+    "end": 1534,
+    "num": "219"
+   },
+   {
+    "name": "Paul III",
+    "start": 1534,
+    "end": 1549,
+    "num": "220"
+   },
+   {
+    "name": "Julius III",
+    "start": 1550,
+    "end": 1555,
+    "num": "221"
+   },
+   {
+    "name": "Marcellus II",
+    "start": 1555,
+    "end": 1555,
+    "num": "222"
+   },
+   {
+    "name": "Paul IV",
+    "start": 1555,
+    "end": 1559,
+    "num": "223"
+   },
+   {
+    "name": "Pius IV",
+    "start": 1559,
+    "end": 1565,
+    "num": "224"
+   },
+   {
+    "name": "Pius V",
+    "start": 1566,
+    "end": 1572,
+    "num": "225"
+   },
+   {
+    "name": "Gregory XIII",
+    "start": 1572,
+    "end": 1585,
+    "num": "226"
+   },
+   {
+    "name": "Sixtus V",
+    "start": 1585,
+    "end": 1590,
+    "num": "227"
+   },
+   {
+    "name": "Urban VII",
+    "start": 1590,
+    "end": 1590,
+    "num": "228"
+   },
+   {
+    "name": "Gregory XIV",
+    "start": 1590,
+    "end": 1591,
+    "num": "229"
+   },
+   {
+    "name": "Innocent IX",
+    "start": 1591,
+    "end": 1591,
+    "num": "230"
+   },
+   {
+    "name": "Clement VIII",
+    "start": 1592,
+    "end": 1605,
+    "num": "231"
+   },
+   {
+    "name": "Leo XI",
+    "start": 1605,
+    "end": 1605,
+    "num": "232"
+   },
+   {
+    "name": "Paul V",
+    "start": 1605,
+    "end": 1621,
+    "num": "233"
+   },
+   {
+    "name": "Gregory XV",
+    "start": 1621,
+    "end": 1623,
+    "num": "234"
+   },
+   {
+    "name": "Urban VIII",
+    "start": 1623,
+    "end": 1644,
+    "num": "235"
+   },
+   {
+    "name": "Innocent X",
+    "start": 1644,
+    "end": 1655,
+    "num": "236"
+   },
+   {
+    "name": "Alexander VII",
+    "start": 1655,
+    "end": 1667,
+    "num": "237"
+   },
+   {
+    "name": "Clement IX",
+    "start": 1667,
+    "end": 1669,
+    "num": "238"
+   },
+   {
+    "name": "Clement X",
+    "start": 1670,
+    "end": 1676,
+    "num": "239"
+   },
+   {
+    "name": "Innocent XI",
+    "start": 1676,
+    "end": 1689,
+    "num": "240"
+   },
+   {
+    "name": "Alexander VIII",
+    "start": 1689,
+    "end": 1691,
+    "num": "241"
+   },
+   {
+    "name": "Innocent XII",
+    "start": 1691,
+    "end": 1700,
+    "num": "242"
+   },
+   {
+    "name": "Clement XI",
+    "start": 1700,
+    "end": 1721,
+    "num": "243"
+   },
+   {
+    "name": "Innocent XIII",
+    "start": 1721,
+    "end": 1724,
+    "num": "244"
+   },
+   {
+    "name": "Servant of God Benedict XIII",
+    "start": 1724,
+    "end": 1730,
+    "num": "245"
+   },
+   {
+    "name": "Clement XII",
+    "start": 1730,
+    "end": 1740,
+    "num": "246"
+   },
+   {
+    "name": "Benedict XIV",
+    "start": 1740,
+    "end": 1758,
+    "num": "247"
+   },
+   {
+    "name": "Clement XIII",
+    "start": 1758,
+    "end": 1769,
+    "num": "248"
+   },
+   {
+    "name": "Clement XIV",
+    "start": 1769,
+    "end": 1774,
+    "num": "249"
+   },
+   {
+    "name": "Pius VI",
+    "start": 1775,
+    "end": 1799,
+    "num": "250"
+   },
+   {
+    "name": "Servant of God Pius VII",
+    "start": 1800,
+    "end": 1823,
+    "num": "251"
+   },
+   {
+    "name": "Leo XII",
+    "start": 1823,
+    "end": 1829,
+    "num": "252"
+   },
+   {
+    "name": "Pius VIII",
+    "start": 1829,
+    "end": 1830,
+    "num": "253"
+   },
+   {
+    "name": "Gregory XVI",
+    "start": 1831,
+    "end": 1846,
+    "num": "254"
+   },
+   {
+    "name": "Pius IX",
+    "start": 1846,
+    "end": 1878,
+    "num": "255"
+   },
+   {
+    "name": "Leo XIII",
+    "start": 1878,
+    "end": 1903,
+    "num": "256"
+   },
+   {
+    "name": "Pius X",
+    "start": 1903,
+    "end": 1914,
+    "num": "257"
+   },
+   {
+    "name": "Benedict XV",
+    "start": 1914,
+    "end": 1922,
+    "num": "258"
+   },
+   {
+    "name": "Pius XI",
+    "start": 1922,
+    "end": 1939,
+    "num": "259"
+   },
+   {
+    "name": "Ven. Pius XII",
+    "start": 1939,
+    "end": 1958,
+    "num": "260"
+   },
+   {
+    "name": "John XXIII",
+    "start": 1958,
+    "end": 1963,
+    "num": "261"
+   },
+   {
+    "name": "Paul VI",
+    "start": 1963,
+    "end": 1978,
+    "num": "262"
+   },
+   {
+    "name": "John Paul I",
+    "start": 1978,
+    "end": 1978,
+    "num": "263"
+   },
+   {
+    "name": "John Paul II",
+    "start": 1978,
+    "end": 2005,
+    "num": "264"
+   },
+   {
+    "name": "Benedict XVI",
+    "start": 2005,
+    "end": 2013,
+    "num": "265"
+   },
+   {
+    "name": "Francis",
+    "start": 2013,
+    "end": 2025,
+    "num": "266"
+   },
+   {
+    "name": "Leo XIV",
+    "start": 2025,
+    "end": "present",
+    "num": "267"
+   }
+  ]
+ },
+ "canterbury": {
+  "title": "List of archbishops of Canterbury",
+  "rows": [
+   {
+    "name": "Augustine",
+    "start": 597,
+    "end": 604,
+    "num": "1"
+   },
+   {
+    "name": "Laurence",
+    "start": 604,
+    "end": 619,
+    "num": "2"
+   },
+   {
+    "name": "Mellitus",
+    "start": 619,
+    "end": 624,
+    "num": "3"
+   },
+   {
+    "name": "Justus",
+    "start": 624,
+    "end": 627,
+    "num": "4"
+   },
+   {
+    "name": "Honorius",
+    "start": 627,
+    "end": 653,
+    "num": "5"
+   },
+   {
+    "name": "Deusdedit",
+    "start": 655,
+    "end": 664,
+    "num": "6"
+   },
+   {
+    "name": "Theodore",
+    "start": 668,
+    "end": 690,
+    "num": "7"
+   },
+   {
+    "name": "Berhtwald",
+    "start": 693,
+    "end": 731,
+    "num": "8"
+   },
+   {
+    "name": "Tatwine",
+    "start": 731,
+    "end": 734,
+    "num": "9"
+   },
+   {
+    "name": "Nothhelm",
+    "start": 735,
+    "end": 739,
+    "num": "10"
+   },
+   {
+    "name": "Cuthbert",
+    "start": 740,
+    "end": 760,
+    "num": "11"
+   },
+   {
+    "name": "Bregowine",
+    "start": 761,
+    "end": 764,
+    "num": "12"
+   },
+   {
+    "name": "J\u00e6nberht",
+    "start": 765,
+    "end": 792,
+    "num": "13"
+   },
+   {
+    "name": "\u00c6thelhard",
+    "start": 793,
+    "end": 805,
+    "num": "14"
+   },
+   {
+    "name": "Wulfred",
+    "start": 805,
+    "end": 832,
+    "num": "15"
+   },
+   {
+    "name": "Feologild",
+    "start": 832,
+    "end": 832,
+    "num": "16"
+   },
+   {
+    "name": "Ceolnoth",
+    "start": 833,
+    "end": 870,
+    "num": "17"
+   },
+   {
+    "name": "\u00c6thelred",
+    "start": 870,
+    "end": 888,
+    "num": "18"
+   },
+   {
+    "name": "Plegmund",
+    "start": 890,
+    "end": 923,
+    "num": "19"
+   },
+   {
+    "name": "Athelm",
+    "start": 923,
+    "end": 926,
+    "num": "20"
+   },
+   {
+    "name": "Wulfhelm",
+    "start": 926,
+    "end": 941,
+    "num": "21"
+   },
+   {
+    "name": "Oda",
+    "start": 941,
+    "end": 958,
+    "num": "22"
+   },
+   {
+    "name": "\u00c6lfsige",
+    "start": 958,
+    "end": 959,
+    "num": "23"
+   },
+   {
+    "name": "Byrhthelm",
+    "start": 959,
+    "end": 959,
+    "num": "24"
+   },
+   {
+    "name": "Dunstan OSB",
+    "start": 959,
+    "end": 988,
+    "num": "25"
+   },
+   {
+    "name": "\u00c6thelgar",
+    "start": 988,
+    "end": 990,
+    "num": "26"
+   },
+   {
+    "name": "Sigeric",
+    "start": 990,
+    "end": 994,
+    "num": "27"
+   },
+   {
+    "name": "\u00c6lfric of Abingdon",
+    "start": 995,
+    "end": 1005,
+    "num": "28"
+   },
+   {
+    "name": "\u00c6lfheah",
+    "start": 1006,
+    "end": 1012,
+    "num": "29"
+   },
+   {
+    "name": "Lyfing",
+    "start": 1013,
+    "end": 1020,
+    "num": "30"
+   },
+   {
+    "name": "\u00c6thelnoth",
+    "start": 1020,
+    "end": 1038,
+    "num": "31"
+   },
+   {
+    "name": "Eadsige",
+    "start": 1038,
+    "end": 1050,
+    "num": "32"
+   },
+   {
+    "name": "Robert of Jumi\u00e8ges",
+    "start": 1051,
+    "end": 1052,
+    "num": "33"
+   },
+   {
+    "name": "Stigand",
+    "start": 1052,
+    "end": 1070,
+    "num": "34"
+   },
+   {
+    "name": "Lanfranc OSB",
+    "start": 1070,
+    "end": 1089,
+    "num": "35"
+   },
+   {
+    "name": "Anselm OSB",
+    "start": 1093,
+    "end": 1109,
+    "num": "36"
+   },
+   {
+    "name": "Ralph d'Escures",
+    "start": 1114,
+    "end": 1122,
+    "num": "37"
+   },
+   {
+    "name": "William de Corbeil",
+    "start": 1123,
+    "end": 1136,
+    "num": "38"
+   },
+   {
+    "name": "Theobald of Bec OSB",
+    "start": 1139,
+    "end": 1161,
+    "num": "39"
+   },
+   {
+    "name": "Thomas Becket",
+    "start": 1162,
+    "end": 1170,
+    "num": "40"
+   },
+   {
+    "name": "Richard OSB",
+    "start": 1174,
+    "end": 1184,
+    "num": "41"
+   },
+   {
+    "name": "Baldwin of Forde OCist",
+    "start": 1184,
+    "end": 1190,
+    "num": "42"
+   },
+   {
+    "name": "Hubert Walter",
+    "start": 1193,
+    "end": 1205,
+    "num": "43"
+   },
+   {
+    "name": "Cardinal Stephen Langton",
+    "start": 1207,
+    "end": 1228,
+    "num": "44"
+   },
+   {
+    "name": "Richard le Grant",
+    "start": 1229,
+    "end": 1231,
+    "num": "45"
+   },
+   {
+    "name": "Edmund of Abingdon",
+    "start": 1234,
+    "end": 1240,
+    "num": "46"
+   },
+   {
+    "name": "Boniface of Savoy",
+    "start": 1241,
+    "end": 1270,
+    "num": "47"
+   },
+   {
+    "name": "Cardinal Robert Kilwardby OP",
+    "start": 1273,
+    "end": 1278,
+    "num": "48"
+   },
+   {
+    "name": "John Peckham OFM",
+    "start": 1279,
+    "end": 1292,
+    "num": "49"
+   },
+   {
+    "name": "Robert Winchelsey",
+    "start": 1294,
+    "end": 1313,
+    "num": "50"
+   },
+   {
+    "name": "Walter Reynolds",
+    "start": 1313,
+    "end": 1327,
+    "num": "51"
+   },
+   {
+    "name": "Simon Mepeham",
+    "start": 1328,
+    "end": 1333,
+    "num": "52"
+   },
+   {
+    "name": "John de Stratford",
+    "start": 1333,
+    "end": 1348,
+    "num": "53"
+   },
+   {
+    "name": "Thomas Bradwardine",
+    "start": 1349,
+    "end": 1349,
+    "num": "54"
+   },
+   {
+    "name": "Simon Islip",
+    "start": 1349,
+    "end": 1366,
+    "num": "55"
+   },
+   {
+    "name": "Cardinal Simon Langham OSB",
+    "start": 1366,
+    "end": 1368,
+    "num": "56"
+   },
+   {
+    "name": "William Whittlesey",
+    "start": 1368,
+    "end": 1374,
+    "num": "57"
+   },
+   {
+    "name": "Simon Sudbury",
+    "start": 1375,
+    "end": 1381,
+    "num": "58"
+   },
+   {
+    "name": "William Courtenay",
+    "start": 1381,
+    "end": 1396,
+    "num": "59"
+   },
+   {
+    "name": "Thomas Arundel",
+    "start": 1396,
+    "end": 1397,
+    "num": "60"
+   },
+   {
+    "name": "Roger Walden",
+    "start": 1397,
+    "end": 1399,
+    "num": "61"
+   },
+   {
+    "name": "Thomas Arundel",
+    "start": 1399,
+    "end": 1414,
+    "num": ""
+   },
+   {
+    "name": "Henry Chichele",
+    "start": 1414,
+    "end": 1443,
+    "num": "62"
+   },
+   {
+    "name": "John Stafford",
+    "start": 1443,
+    "end": 1452,
+    "num": "63"
+   },
+   {
+    "name": "Cardinal John Kemp",
+    "start": 1452,
+    "end": 1454,
+    "num": "64"
+   },
+   {
+    "name": "Cardinal Thomas Bourchier",
+    "start": 1454,
+    "end": 1486,
+    "num": "65"
+   },
+   {
+    "name": "Cardinal John Morton",
+    "start": 1486,
+    "end": 1500,
+    "num": "66"
+   },
+   {
+    "name": "Henry Deane",
+    "start": 1501,
+    "end": 1503,
+    "num": "67"
+   },
+   {
+    "name": "William Warham",
+    "start": 1503,
+    "end": 1532,
+    "num": "68"
+   },
+   {
+    "name": "Thomas Cranmer",
+    "start": 1533,
+    "end": 1555,
+    "num": "69"
+   },
+   {
+    "name": "Cardinal Reginald Pole",
+    "start": 1556,
+    "end": 1558,
+    "num": "70"
+   },
+   {
+    "name": "Matthew Parker",
+    "start": 1559,
+    "end": 1575,
+    "num": "71"
+   },
+   {
+    "name": "Edmund Grindal",
+    "start": 1575,
+    "end": 1583,
+    "num": "72"
+   },
+   {
+    "name": "John Whitgift",
+    "start": 1583,
+    "end": 1604,
+    "num": "73"
+   },
+   {
+    "name": "Richard Bancroft",
+    "start": 1604,
+    "end": 1610,
+    "num": "74"
+   },
+   {
+    "name": "George Abbot",
+    "start": 1611,
+    "end": 1633,
+    "num": "75"
+   },
+   {
+    "name": "William Laud",
+    "start": 1633,
+    "end": 1645,
+    "num": "76"
+   },
+   {
+    "name": "William Juxon",
+    "start": 1660,
+    "end": 1663,
+    "num": "77"
+   },
+   {
+    "name": "Gilbert Sheldon",
+    "start": 1663,
+    "end": 1677,
+    "num": "78"
+   },
+   {
+    "name": "William Sancroft",
+    "start": 1678,
+    "end": 1690,
+    "num": "79"
+   },
+   {
+    "name": "John Tillotson",
+    "start": 1691,
+    "end": 1694,
+    "num": "80"
+   },
+   {
+    "name": "Thomas Tenison",
+    "start": 1694,
+    "end": 1715,
+    "num": "81"
+   },
+   {
+    "name": "William Wake",
+    "start": 1715,
+    "end": 1737,
+    "num": "82"
+   },
+   {
+    "name": "John Potter",
+    "start": 1737,
+    "end": 1747,
+    "num": "83"
+   },
+   {
+    "name": "Thomas Herring",
+    "start": 1747,
+    "end": 1757,
+    "num": "84"
+   },
+   {
+    "name": "Matthew Hutton",
+    "start": 1757,
+    "end": 1758,
+    "num": "85"
+   },
+   {
+    "name": "Thomas Secker",
+    "start": 1758,
+    "end": 1768,
+    "num": "86"
+   },
+   {
+    "name": "Frederick Cornwallis",
+    "start": 1768,
+    "end": 1783,
+    "num": "87"
+   },
+   {
+    "name": "John Moore",
+    "start": 1783,
+    "end": 1805,
+    "num": "88"
+   },
+   {
+    "name": "Charles Manners-Sutton",
+    "start": 1805,
+    "end": 1828,
+    "num": "89"
+   },
+   {
+    "name": "William Howley",
+    "start": 1828,
+    "end": 1848,
+    "num": "90"
+   },
+   {
+    "name": "John Bird Sumner",
+    "start": 1848,
+    "end": 1862,
+    "num": "91"
+   },
+   {
+    "name": "Charles Longley",
+    "start": 1862,
+    "end": 1868,
+    "num": "92"
+   },
+   {
+    "name": "Archibald Campbell Tait",
+    "start": 1868,
+    "end": 1882,
+    "num": "93"
+   },
+   {
+    "name": "Edward White Benson",
+    "start": 1883,
+    "end": 1896,
+    "num": "94"
+   },
+   {
+    "name": "Frederick Temple",
+    "start": 1896,
+    "end": 1902,
+    "num": "95"
+   },
+   {
+    "name": "Randall Davidson",
+    "start": 1903,
+    "end": 1928,
+    "num": "96"
+   },
+   {
+    "name": "Cosmo Gordon Lang",
+    "start": 1928,
+    "end": 1942,
+    "num": "97"
+   },
+   {
+    "name": "William Temple",
+    "start": 1942,
+    "end": 1944,
+    "num": "98"
+   },
+   {
+    "name": "Geoffrey Fisher",
+    "start": 1945,
+    "end": 1961,
+    "num": "99"
+   },
+   {
+    "name": "Michael Ramsey",
+    "start": 1961,
+    "end": 1974,
+    "num": "100"
+   },
+   {
+    "name": "Donald Coggan",
+    "start": 1974,
+    "end": 1980,
+    "num": "101"
+   },
+   {
+    "name": "Robert Runcie",
+    "start": 1980,
+    "end": 1991,
+    "num": "102"
+   },
+   {
+    "name": "George Carey",
+    "start": 1991,
+    "end": 2002,
+    "num": "103"
+   },
+   {
+    "name": "Rowan Williams",
+    "start": 2002,
+    "end": 2012,
+    "num": "104"
+   },
+   {
+    "name": "Justin Welby",
+    "start": 2013,
+    "end": 2025,
+    "num": "105"
+   },
+   {
+    "name": "Sarah Mullally",
+    "start": 2026,
+    "end": "present",
+    "num": "106"
+   }
+  ]
+ },
+ "acna": {
+  "title": "Anglican Church in North America",
+  "rows": [
+   {
+    "name": "Robert Duncan",
+    "start": 2009,
+    "end": 2014,
+    "num": "1"
+   },
+   {
+    "name": "Foley Beach",
+    "start": 2014,
+    "end": 2024,
+    "num": "2"
+   },
+   {
+    "name": "Steve Wood",
+    "start": 2024,
+    "end": "present",
+    "num": "3"
+   }
+  ]
+ }
+}
