@@ -15,6 +15,8 @@ esc = lambda s: html.escape(str(s or ""), quote=True)
 load = lambda f: json.load(open(os.path.join(D, f), encoding="utf-8"))
 LINES, MAIN_LINKS, FAM_LINKS = load("lines.json"), load("holder_links.json"), load("family_links.json")
 BIOS, LIFE, SLUGS = load("bios_raw.json"), load("life.json"), load("holder_slugs.json")
+import corrections
+corrections.apply(LINES, MAIN_LINKS, FAM_LINKS, LIFE, BIOS)   # hand fixes to the source data
 
 def ordinal(n):
     n = int(n); return "%d%s" % (n, "th" if 11 <= n % 100 <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th"))
@@ -562,6 +564,19 @@ def yrs(y, circa=False):
     s = ("%d BC" % -y) if y <= 0 else str(y)
     return ("c. " + s) if circa else s
 
+def sane_life(L, terms):
+    """Wikidata often stores a birth year only to the century ("c. 1000" for a pope who died in 984).
+    Drop a birth year that falls after the death or less than 15 years before the person took office,
+    and treat pre-modern lifespans over 100 years as traditional (shown with "c.", no age)."""
+    L = dict(L)
+    start = min((t[0] for t in terms), default=None)
+    b, d = L.get("b"), L.get("d")
+    if b is not None and ((d is not None and b >= d) or (start is not None and b > start - 15)):
+        L["b"], L["bc"] = None, False
+    elif b is not None and d is not None and d - b > 100 and d < 1800 and not L.get("age"):
+        L["bc"] = L["dc"] = True
+    return L
+
 def build_people_json(order):
     person("root:Jesus", col="root", name="Jesus of Nazareth", wiki="Jesus", office="", line="The root of every line")
     J = figures.JESUS
@@ -572,7 +587,7 @@ def build_people_json(order):
         for a, b in zip(ids, ids[1:]): prevnext.setdefault(a, [None, None])[1] = b; prevnext.setdefault(b, [None, None])[0] = a
     recs = {}
     for pid, p in PEOPLE.items():
-        bio = bio_of(p.get("wiki")); q = bio.get("qid"); L = LIFE.get(q, {}) if q else {}
+        bio = bio_of(p.get("wiki")); q = bio.get("qid"); L = sane_life(LIFE.get(q, {}) if q else {}, p["terms"])
         card = p["cards"].get("main") or next(iter(p["cards"].values()), None)
         name = card[0] if card else p.get("name", "")
         slug = (card[5] if card else None) or SLUGS.get((p.get("wiki") or "").replace("_", " "))
@@ -589,7 +604,8 @@ def build_people_json(order):
         life = []
         if L.get("b") is not None: life.append("Born " + yrs(L["b"], L.get("bc")))
         if L.get("d") is not None: life.append("Died " + yrs(L["d"], L.get("dc")))
-        if L.get("b") is not None and L.get("d") is not None and not L.get("bc") and not L.get("dc") and L["d"] > L["b"]:
+        if L.get("age"): life.append("aged %d" % L["age"])
+        elif L.get("b") is not None and L.get("d") is not None and not L.get("bc") and not L.get("dc") and L["d"] > L["b"]:
             life.append("aged about %d" % (L["d"] - L["b"]))
         pn = prevnext.get(pid, [None, None])
         recs[pid] = {"n": re.sub(r"&eacute;", "é", name), "l": p.get("line", ""), "c": p["col"] if p["col"] != "root" else "grey",
@@ -725,8 +741,7 @@ if __name__ == "__main__":
             if pid not in ids: ids.append(pid)
         if pidp == "orthodox": ids.insert(0, "orthodox:Andrew_the_Apostle")
         order.append(ids)
-    for col in (views.LUTHERAN, views.REFORMED, views.FREE):
-        order.append(["%s:%s" % (col["id"], c[6]) for c in col["cards"]])
+    # founder columns (Protestant) are not successions, so their dialogs get no before/after
     recs = build_people_json(order)
     import pages
     for f, size in pages.build(dict(head=head_meta(), TEMPLATE=TEMPLATE, nav=nav_html, footer=footer_html, ver=asset_version, SITE=SITE, tbc=tbc, ROOT=ROOT)):

@@ -92,6 +92,8 @@ FREE = dict(id="free", key=None, title="Free churches", sub="Anabaptist, Baptist
 MAIN_NOTES = [
  ("catholic", 31, "", "Early names and dates follow later tradition."),
  ("orthodox", 39, "", "Bishops before Metrophanes (c. 306) are known from later lists."),
+ ("orthodox", 380, "380", "Maximus the Cynic was consecrated as a rival to Gregory; the Council of 381 declared his consecration invalid."),
+ ("orthodox", 1450, "1450&ndash;1453", "Athanasius II is known from a single disputed source; many historians count Gregory III, in Rome from 1451, as nominal patriarch until 1453."),
  ("catholic", 1268, "1268&ndash;1271", "The see stood vacant for nearly three years."),
  ("orthodox", 1204, "1204&ndash;1261", "The Latin Empire held the city; patriarchs reigned from Nicaea."),
  ("catholic", 1378, "1378&ndash;1417", "Rival popes at Avignon (from 1378) and Pisa (from 1409); this list follows the Roman line."),
